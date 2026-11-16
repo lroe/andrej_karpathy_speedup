@@ -1,0 +1,10682 @@
+{
+ "language": "en",
+ "duration": 561.92,
+ "segments": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 7.06,
+   "text": "Andre Carpathi once made his model train 25% faster by adding 47 words to its vocabulary,",
+   "words": [
+    {
+     "word": "Andre",
+     "start": 0.0,
+     "end": 0.5,
+     "prob": 0.454
+    },
+    {
+     "word": "Carpathi",
+     "start": 0.5,
+     "end": 1.18,
+     "prob": 0.758
+    },
+    {
+     "word": "once",
+     "start": 1.18,
+     "end": 1.48,
+     "prob": 0.98
+    },
+    {
+     "word": "made",
+     "start": 1.48,
+     "end": 1.72,
+     "prob": 0.986
+    },
+    {
+     "word": "his",
+     "start": 1.72,
+     "end": 1.88,
+     "prob": 0.994
+    },
+    {
+     "word": "model",
+     "start": 1.88,
+     "end": 2.1,
+     "prob": 0.993
+    },
+    {
+     "word": "train",
+     "start": 2.1,
+     "end": 2.4,
+     "prob": 0.974
+    },
+    {
+     "word": "25",
+     "start": 2.4,
+     "end": 3.16,
+     "prob": 0.96
+    },
+    {
+     "word": "%",
+     "start": 3.16,
+     "end": 3.56,
+     "prob": 0.888
+    },
+    {
+     "word": "faster",
+     "start": 3.56,
+     "end": 4.18,
+     "prob": 0.995
+    },
+    {
+     "word": "by",
+     "start": 4.18,
+     "end": 4.66,
+     "prob": 0.945
+    },
+    {
+     "word": "adding",
+     "start": 4.66,
+     "end": 5.02,
+     "prob": 0.998
+    },
+    {
+     "word": "47",
+     "start": 5.02,
+     "end": 5.56,
+     "prob": 0.984
+    },
+    {
+     "word": "words",
+     "start": 5.56,
+     "end": 6.14,
+     "prob": 0.988
+    },
+    {
+     "word": "to",
+     "start": 6.14,
+     "end": 6.36,
+     "prob": 0.996
+    },
+    {
+     "word": "its",
+     "start": 6.36,
+     "end": 6.5,
+     "prob": 0.971
+    },
+    {
+     "word": "vocabulary,",
+     "start": 6.5,
+     "end": 7.06,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 7.46,
+   "end": 11.86,
+   "text": "which is the list of words the model knows. These were words the model will never use.",
+   "words": [
+    {
+     "word": "which",
+     "start": 7.46,
+     "end": 7.64,
+     "prob": 0.968
+    },
+    {
+     "word": "is",
+     "start": 7.64,
+     "end": 7.78,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 7.78,
+     "end": 7.92,
+     "prob": 0.992
+    },
+    {
+     "word": "list",
+     "start": 7.92,
+     "end": 8.06,
+     "prob": 0.995
+    },
+    {
+     "word": "of",
+     "start": 8.06,
+     "end": 8.22,
+     "prob": 0.996
+    },
+    {
+     "word": "words",
+     "start": 8.22,
+     "end": 8.42,
+     "prob": 0.989
+    },
+    {
+     "word": "the",
+     "start": 8.42,
+     "end": 8.6,
+     "prob": 0.983
+    },
+    {
+     "word": "model",
+     "start": 8.6,
+     "end": 8.78,
+     "prob": 0.996
+    },
+    {
+     "word": "knows.",
+     "start": 8.78,
+     "end": 9.1,
+     "prob": 0.994
+    },
+    {
+     "word": "These",
+     "start": 9.9,
+     "end": 10.14,
+     "prob": 0.982
+    },
+    {
+     "word": "were",
+     "start": 10.14,
+     "end": 10.3,
+     "prob": 0.97
+    },
+    {
+     "word": "words",
+     "start": 10.3,
+     "end": 10.52,
+     "prob": 0.991
+    },
+    {
+     "word": "the",
+     "start": 10.52,
+     "end": 10.66,
+     "prob": 0.971
+    },
+    {
+     "word": "model",
+     "start": 10.66,
+     "end": 10.88,
+     "prob": 0.997
+    },
+    {
+     "word": "will",
+     "start": 10.88,
+     "end": 11.08,
+     "prob": 0.968
+    },
+    {
+     "word": "never",
+     "start": 11.08,
+     "end": 11.36,
+     "prob": 0.987
+    },
+    {
+     "word": "use.",
+     "start": 11.36,
+     "end": 11.86,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 12.54,
+   "end": 18.62,
+   "text": "He changed one number, 50,257 to 50,304, and hit run.",
+   "words": [
+    {
+     "word": "He",
+     "start": 12.54,
+     "end": 12.66,
+     "prob": 0.965
+    },
+    {
+     "word": "changed",
+     "start": 12.66,
+     "end": 12.88,
+     "prob": 0.963
+    },
+    {
+     "word": "one",
+     "start": 12.88,
+     "end": 13.14,
+     "prob": 0.955
+    },
+    {
+     "word": "number,",
+     "start": 13.14,
+     "end": 13.46,
+     "prob": 0.996
+    },
+    {
+     "word": "50",
+     "start": 13.9,
+     "end": 14.16,
+     "prob": 0.804
+    },
+    {
+     "word": ",257",
+     "start": 14.16,
+     "end": 15.14,
+     "prob": 0.718
+    },
+    {
+     "word": "to",
+     "start": 15.14,
+     "end": 16.06,
+     "prob": 0.596
+    },
+    {
+     "word": "50",
+     "start": 16.06,
+     "end": 16.46,
+     "prob": 0.947
+    },
+    {
+     "word": ",304,",
+     "start": 16.46,
+     "end": 17.34,
+     "prob": 0.987
+    },
+    {
+     "word": "and",
+     "start": 18.22,
+     "end": 18.24,
+     "prob": 0.987
+    },
+    {
+     "word": "hit",
+     "start": 18.24,
+     "end": 18.42,
+     "prob": 0.996
+    },
+    {
+     "word": "run.",
+     "start": 18.42,
+     "end": 18.62,
+     "prob": 0.727
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 19.54,
+   "end": 23.48,
+   "text": "Adding junk to a model should not make it faster, which is why this looks like a typo.",
+   "words": [
+    {
+     "word": "Adding",
+     "start": 19.54,
+     "end": 19.82,
+     "prob": 0.972
+    },
+    {
+     "word": "junk",
+     "start": 19.82,
+     "end": 20.06,
+     "prob": 0.989
+    },
+    {
+     "word": "to",
+     "start": 20.06,
+     "end": 20.24,
+     "prob": 0.997
+    },
+    {
+     "word": "a",
+     "start": 20.24,
+     "end": 20.34,
+     "prob": 0.987
+    },
+    {
+     "word": "model",
+     "start": 20.34,
+     "end": 20.54,
+     "prob": 0.998
+    },
+    {
+     "word": "should",
+     "start": 20.54,
+     "end": 20.76,
+     "prob": 0.987
+    },
+    {
+     "word": "not",
+     "start": 20.76,
+     "end": 21.04,
+     "prob": 0.975
+    },
+    {
+     "word": "make",
+     "start": 21.04,
+     "end": 21.3,
+     "prob": 0.998
+    },
+    {
+     "word": "it",
+     "start": 21.3,
+     "end": 21.48,
+     "prob": 0.997
+    },
+    {
+     "word": "faster,",
+     "start": 21.48,
+     "end": 21.8,
+     "prob": 0.995
+    },
+    {
+     "word": "which",
+     "start": 22.14,
+     "end": 22.32,
+     "prob": 0.993
+    },
+    {
+     "word": "is",
+     "start": 22.32,
+     "end": 22.4,
+     "prob": 0.997
+    },
+    {
+     "word": "why",
+     "start": 22.4,
+     "end": 22.58,
+     "prob": 0.999
+    },
+    {
+     "word": "this",
+     "start": 22.58,
+     "end": 22.72,
+     "prob": 0.956
+    },
+    {
+     "word": "looks",
+     "start": 22.72,
+     "end": 22.88,
+     "prob": 0.992
+    },
+    {
+     "word": "like",
+     "start": 22.88,
+     "end": 23.06,
+     "prob": 0.995
+    },
+    {
+     "word": "a",
+     "start": 23.06,
+     "end": 23.2,
+     "prob": 0.997
+    },
+    {
+     "word": "typo.",
+     "start": 23.2,
+     "end": 23.48,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 24.0,
+   "end": 28.28,
+   "text": "It isn't one, and the reason shows what a GPU actually spends its day doing.",
+   "words": [
+    {
+     "word": "It",
+     "start": 24.0,
+     "end": 24.18,
+     "prob": 0.993
+    },
+    {
+     "word": "isn't",
+     "start": 24.18,
+     "end": 24.56,
+     "prob": 0.98
+    },
+    {
+     "word": "one,",
+     "start": 24.56,
+     "end": 24.84,
+     "prob": 0.995
+    },
+    {
+     "word": "and",
+     "start": 25.08,
+     "end": 25.32,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 25.32,
+     "end": 25.4,
+     "prob": 0.994
+    },
+    {
+     "word": "reason",
+     "start": 25.4,
+     "end": 25.62,
+     "prob": 0.995
+    },
+    {
+     "word": "shows",
+     "start": 25.62,
+     "end": 25.98,
+     "prob": 0.985
+    },
+    {
+     "word": "what",
+     "start": 25.98,
+     "end": 26.16,
+     "prob": 0.995
+    },
+    {
+     "word": "a",
+     "start": 26.16,
+     "end": 26.3,
+     "prob": 0.99
+    },
+    {
+     "word": "GPU",
+     "start": 26.3,
+     "end": 26.72,
+     "prob": 0.991
+    },
+    {
+     "word": "actually",
+     "start": 26.72,
+     "end": 27.34,
+     "prob": 0.976
+    },
+    {
+     "word": "spends",
+     "start": 27.34,
+     "end": 27.62,
+     "prob": 0.998
+    },
+    {
+     "word": "its",
+     "start": 27.62,
+     "end": 27.82,
+     "prob": 0.99
+    },
+    {
+     "word": "day",
+     "start": 27.82,
+     "end": 28.0,
+     "prob": 0.992
+    },
+    {
+     "word": "doing.",
+     "start": 28.0,
+     "end": 28.28,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 28.28,
+   "end": 33.0,
+   "text": "A GPU is a dumb chip with one trick, which is running the same small job",
+   "words": [
+    {
+     "word": "A",
+     "start": 28.28,
+     "end": 29.08,
+     "prob": 0.846
+    },
+    {
+     "word": "GPU",
+     "start": 29.08,
+     "end": 29.4,
+     "prob": 0.97
+    },
+    {
+     "word": "is",
+     "start": 29.4,
+     "end": 29.8,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 29.8,
+     "end": 30.02,
+     "prob": 0.992
+    },
+    {
+     "word": "dumb",
+     "start": 30.02,
+     "end": 30.18,
+     "prob": 0.985
+    },
+    {
+     "word": "chip",
+     "start": 30.18,
+     "end": 30.48,
+     "prob": 0.975
+    },
+    {
+     "word": "with",
+     "start": 30.48,
+     "end": 30.66,
+     "prob": 0.988
+    },
+    {
+     "word": "one",
+     "start": 30.66,
+     "end": 30.9,
+     "prob": 0.976
+    },
+    {
+     "word": "trick,",
+     "start": 30.9,
+     "end": 31.24,
+     "prob": 0.984
+    },
+    {
+     "word": "which",
+     "start": 31.54,
+     "end": 31.64,
+     "prob": 0.962
+    },
+    {
+     "word": "is",
+     "start": 31.64,
+     "end": 31.76,
+     "prob": 0.994
+    },
+    {
+     "word": "running",
+     "start": 31.76,
+     "end": 31.98,
+     "prob": 0.993
+    },
+    {
+     "word": "the",
+     "start": 31.98,
+     "end": 32.16,
+     "prob": 0.993
+    },
+    {
+     "word": "same",
+     "start": 32.16,
+     "end": 32.42,
+     "prob": 0.997
+    },
+    {
+     "word": "small",
+     "start": 32.42,
+     "end": 32.74,
+     "prob": 0.924
+    },
+    {
+     "word": "job",
+     "start": 32.74,
+     "end": 33.0,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 33.0,
+   "end": 39.28,
+   "text": "on thousands of pieces of data at once. Picture a kitchen. The CPU is one very good chef,",
+   "words": [
+    {
+     "word": "on",
+     "start": 33.0,
+     "end": 33.46,
+     "prob": 0.749
+    },
+    {
+     "word": "thousands",
+     "start": 33.46,
+     "end": 33.9,
+     "prob": 0.987
+    },
+    {
+     "word": "of",
+     "start": 33.9,
+     "end": 34.16,
+     "prob": 0.995
+    },
+    {
+     "word": "pieces",
+     "start": 34.16,
+     "end": 34.4,
+     "prob": 0.995
+    },
+    {
+     "word": "of",
+     "start": 34.4,
+     "end": 34.58,
+     "prob": 0.99
+    },
+    {
+     "word": "data",
+     "start": 34.58,
+     "end": 34.78,
+     "prob": 0.998
+    },
+    {
+     "word": "at",
+     "start": 34.78,
+     "end": 34.98,
+     "prob": 0.976
+    },
+    {
+     "word": "once.",
+     "start": 34.98,
+     "end": 35.32,
+     "prob": 0.996
+    },
+    {
+     "word": "Picture",
+     "start": 36.2,
+     "end": 36.36,
+     "prob": 0.954
+    },
+    {
+     "word": "a",
+     "start": 36.36,
+     "end": 36.56,
+     "prob": 0.997
+    },
+    {
+     "word": "kitchen.",
+     "start": 36.56,
+     "end": 36.88,
+     "prob": 0.993
+    },
+    {
+     "word": "The",
+     "start": 37.42,
+     "end": 37.54,
+     "prob": 0.979
+    },
+    {
+     "word": "CPU",
+     "start": 37.54,
+     "end": 38.0,
+     "prob": 0.983
+    },
+    {
+     "word": "is",
+     "start": 38.0,
+     "end": 38.22,
+     "prob": 0.995
+    },
+    {
+     "word": "one",
+     "start": 38.22,
+     "end": 38.46,
+     "prob": 0.969
+    },
+    {
+     "word": "very",
+     "start": 38.46,
+     "end": 38.72,
+     "prob": 0.98
+    },
+    {
+     "word": "good",
+     "start": 38.72,
+     "end": 38.94,
+     "prob": 0.998
+    },
+    {
+     "word": "chef,",
+     "start": 38.94,
+     "end": 39.28,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 39.8,
+   "end": 44.66,
+   "text": "and the GPU is a thousand line cooks who all read the same card which says to chop an onion.",
+   "words": [
+    {
+     "word": "and",
+     "start": 39.8,
+     "end": 39.86,
+     "prob": 0.958
+    },
+    {
+     "word": "the",
+     "start": 39.86,
+     "end": 39.92,
+     "prob": 0.986
+    },
+    {
+     "word": "GPU",
+     "start": 39.92,
+     "end": 40.32,
+     "prob": 0.995
+    },
+    {
+     "word": "is",
+     "start": 40.32,
+     "end": 40.6,
+     "prob": 0.992
+    },
+    {
+     "word": "a",
+     "start": 40.6,
+     "end": 40.74,
+     "prob": 0.86
+    },
+    {
+     "word": "thousand",
+     "start": 40.74,
+     "end": 41.16,
+     "prob": 0.988
+    },
+    {
+     "word": "line",
+     "start": 41.16,
+     "end": 41.5,
+     "prob": 0.952
+    },
+    {
+     "word": "cooks",
+     "start": 41.5,
+     "end": 41.8,
+     "prob": 0.872
+    },
+    {
+     "word": "who",
+     "start": 41.8,
+     "end": 42.22,
+     "prob": 0.701
+    },
+    {
+     "word": "all",
+     "start": 42.22,
+     "end": 42.36,
+     "prob": 0.912
+    },
+    {
+     "word": "read",
+     "start": 42.36,
+     "end": 42.58,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 42.58,
+     "end": 42.72,
+     "prob": 0.992
+    },
+    {
+     "word": "same",
+     "start": 42.72,
+     "end": 42.94,
+     "prob": 0.986
+    },
+    {
+     "word": "card",
+     "start": 42.94,
+     "end": 43.34,
+     "prob": 0.996
+    },
+    {
+     "word": "which",
+     "start": 43.34,
+     "end": 43.74,
+     "prob": 0.79
+    },
+    {
+     "word": "says",
+     "start": 43.74,
+     "end": 43.92,
+     "prob": 0.995
+    },
+    {
+     "word": "to",
+     "start": 43.92,
+     "end": 44.08,
+     "prob": 0.927
+    },
+    {
+     "word": "chop",
+     "start": 44.08,
+     "end": 44.26,
+     "prob": 0.776
+    },
+    {
+     "word": "an",
+     "start": 44.26,
+     "end": 44.4,
+     "prob": 0.99
+    },
+    {
+     "word": "onion.",
+     "start": 44.4,
+     "end": 44.66,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 45.26,
+   "end": 49.9,
+   "text": "Each cook has a different onion, and none of them needs to be clever because there are so many of",
+   "words": [
+    {
+     "word": "Each",
+     "start": 45.26,
+     "end": 45.42,
+     "prob": 0.996
+    },
+    {
+     "word": "cook",
+     "start": 45.42,
+     "end": 45.7,
+     "prob": 0.996
+    },
+    {
+     "word": "has",
+     "start": 45.7,
+     "end": 46.08,
+     "prob": 0.992
+    },
+    {
+     "word": "a",
+     "start": 46.08,
+     "end": 46.24,
+     "prob": 0.995
+    },
+    {
+     "word": "different",
+     "start": 46.24,
+     "end": 46.54,
+     "prob": 0.999
+    },
+    {
+     "word": "onion,",
+     "start": 46.54,
+     "end": 46.88,
+     "prob": 0.997
+    },
+    {
+     "word": "and",
+     "start": 47.24,
+     "end": 47.34,
+     "prob": 0.994
+    },
+    {
+     "word": "none",
+     "start": 47.34,
+     "end": 47.48,
+     "prob": 0.992
+    },
+    {
+     "word": "of",
+     "start": 47.48,
+     "end": 47.6,
+     "prob": 0.987
+    },
+    {
+     "word": "them",
+     "start": 47.6,
+     "end": 47.7,
+     "prob": 0.995
+    },
+    {
+     "word": "needs",
+     "start": 47.7,
+     "end": 47.86,
+     "prob": 0.769
+    },
+    {
+     "word": "to",
+     "start": 47.86,
+     "end": 48.0,
+     "prob": 0.998
+    },
+    {
+     "word": "be",
+     "start": 48.0,
+     "end": 48.1,
+     "prob": 0.997
+    },
+    {
+     "word": "clever",
+     "start": 48.1,
+     "end": 48.48,
+     "prob": 0.989
+    },
+    {
+     "word": "because",
+     "start": 48.48,
+     "end": 48.98,
+     "prob": 0.937
+    },
+    {
+     "word": "there",
+     "start": 48.98,
+     "end": 49.14,
+     "prob": 0.996
+    },
+    {
+     "word": "are",
+     "start": 49.14,
+     "end": 49.24,
+     "prob": 0.992
+    },
+    {
+     "word": "so",
+     "start": 49.24,
+     "end": 49.42,
+     "prob": 0.99
+    },
+    {
+     "word": "many",
+     "start": 49.42,
+     "end": 49.7,
+     "prob": 0.998
+    },
+    {
+     "word": "of",
+     "start": 49.7,
+     "end": 49.9,
+     "prob": 0.984
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 49.9,
+   "end": 55.1,
+   "text": "them. The card is called a kernel. It has nothing to do with a Jupiter kernel or the operating",
+   "words": [
+    {
+     "word": "them.",
+     "start": 49.9,
+     "end": 50.1,
+     "prob": 0.999
+    },
+    {
+     "word": "The",
+     "start": 50.72,
+     "end": 51.0,
+     "prob": 0.972
+    },
+    {
+     "word": "card",
+     "start": 51.0,
+     "end": 51.3,
+     "prob": 0.997
+    },
+    {
+     "word": "is",
+     "start": 51.3,
+     "end": 51.42,
+     "prob": 0.998
+    },
+    {
+     "word": "called",
+     "start": 51.42,
+     "end": 51.62,
+     "prob": 0.995
+    },
+    {
+     "word": "a",
+     "start": 51.62,
+     "end": 51.88,
+     "prob": 0.984
+    },
+    {
+     "word": "kernel.",
+     "start": 51.88,
+     "end": 52.12,
+     "prob": 0.587
+    },
+    {
+     "word": "It",
+     "start": 52.54,
+     "end": 52.7,
+     "prob": 0.994
+    },
+    {
+     "word": "has",
+     "start": 52.7,
+     "end": 52.84,
+     "prob": 0.997
+    },
+    {
+     "word": "nothing",
+     "start": 52.84,
+     "end": 53.04,
+     "prob": 0.998
+    },
+    {
+     "word": "to",
+     "start": 53.04,
+     "end": 53.22,
+     "prob": 0.998
+    },
+    {
+     "word": "do",
+     "start": 53.22,
+     "end": 53.32,
+     "prob": 0.999
+    },
+    {
+     "word": "with",
+     "start": 53.32,
+     "end": 53.44,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 53.44,
+     "end": 53.58,
+     "prob": 0.574
+    },
+    {
+     "word": "Jupiter",
+     "start": 53.58,
+     "end": 53.86,
+     "prob": 0.547
+    },
+    {
+     "word": "kernel",
+     "start": 53.86,
+     "end": 54.14,
+     "prob": 0.903
+    },
+    {
+     "word": "or",
+     "start": 54.14,
+     "end": 54.6,
+     "prob": 0.649
+    },
+    {
+     "word": "the",
+     "start": 54.6,
+     "end": 54.72,
+     "prob": 0.972
+    },
+    {
+     "word": "operating",
+     "start": 54.72,
+     "end": 55.1,
+     "prob": 0.928
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 55.1,
+   "end": 63.5,
+   "text": "system kernel, and yes, the naming is unfortunate. Say we want to add two lists of 262,144 numbers each.",
+   "words": [
+    {
+     "word": "system",
+     "start": 55.1,
+     "end": 55.52,
+     "prob": 0.595
+    },
+    {
+     "word": "kernel,",
+     "start": 55.52,
+     "end": 55.86,
+     "prob": 0.939
+    },
+    {
+     "word": "and",
+     "start": 56.2,
+     "end": 56.32,
+     "prob": 0.928
+    },
+    {
+     "word": "yes,",
+     "start": 56.32,
+     "end": 56.76,
+     "prob": 0.852
+    },
+    {
+     "word": "the",
+     "start": 56.92,
+     "end": 56.98,
+     "prob": 0.973
+    },
+    {
+     "word": "naming",
+     "start": 56.98,
+     "end": 57.18,
+     "prob": 0.995
+    },
+    {
+     "word": "is",
+     "start": 57.18,
+     "end": 57.52,
+     "prob": 0.991
+    },
+    {
+     "word": "unfortunate.",
+     "start": 57.52,
+     "end": 58.08,
+     "prob": 0.992
+    },
+    {
+     "word": "Say",
+     "start": 59.12,
+     "end": 59.32,
+     "prob": 0.951
+    },
+    {
+     "word": "we",
+     "start": 59.32,
+     "end": 59.46,
+     "prob": 0.963
+    },
+    {
+     "word": "want",
+     "start": 59.46,
+     "end": 59.58,
+     "prob": 0.98
+    },
+    {
+     "word": "to",
+     "start": 59.58,
+     "end": 59.68,
+     "prob": 0.988
+    },
+    {
+     "word": "add",
+     "start": 59.68,
+     "end": 59.84,
+     "prob": 0.996
+    },
+    {
+     "word": "two",
+     "start": 59.84,
+     "end": 60.12,
+     "prob": 0.887
+    },
+    {
+     "word": "lists",
+     "start": 60.12,
+     "end": 60.44,
+     "prob": 0.961
+    },
+    {
+     "word": "of",
+     "start": 60.44,
+     "end": 60.66,
+     "prob": 0.992
+    },
+    {
+     "word": "262",
+     "start": 60.66,
+     "end": 61.32,
+     "prob": 0.869
+    },
+    {
+     "word": ",144",
+     "start": 61.32,
+     "end": 62.64,
+     "prob": 0.892
+    },
+    {
+     "word": "numbers",
+     "start": 62.64,
+     "end": 63.18,
+     "prob": 0.982
+    },
+    {
+     "word": "each.",
+     "start": 63.18,
+     "end": 63.5,
+     "prob": 0.969
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 64.08,
+   "end": 67.72,
+   "text": "The GPU starts that many cooks, and each one finds its own position,",
+   "words": [
+    {
+     "word": "The",
+     "start": 64.08,
+     "end": 64.3,
+     "prob": 0.986
+    },
+    {
+     "word": "GPU",
+     "start": 64.3,
+     "end": 64.56,
+     "prob": 0.988
+    },
+    {
+     "word": "starts",
+     "start": 64.56,
+     "end": 64.92,
+     "prob": 0.992
+    },
+    {
+     "word": "that",
+     "start": 64.92,
+     "end": 65.14,
+     "prob": 0.981
+    },
+    {
+     "word": "many",
+     "start": 65.14,
+     "end": 65.4,
+     "prob": 0.999
+    },
+    {
+     "word": "cooks,",
+     "start": 65.4,
+     "end": 65.58,
+     "prob": 0.951
+    },
+    {
+     "word": "and",
+     "start": 66.04,
+     "end": 66.12,
+     "prob": 0.975
+    },
+    {
+     "word": "each",
+     "start": 66.12,
+     "end": 66.34,
+     "prob": 0.994
+    },
+    {
+     "word": "one",
+     "start": 66.34,
+     "end": 66.56,
+     "prob": 0.978
+    },
+    {
+     "word": "finds",
+     "start": 66.56,
+     "end": 66.86,
+     "prob": 0.991
+    },
+    {
+     "word": "its",
+     "start": 66.86,
+     "end": 67.04,
+     "prob": 0.967
+    },
+    {
+     "word": "own",
+     "start": 67.04,
+     "end": 67.22,
+     "prob": 0.994
+    },
+    {
+     "word": "position,",
+     "start": 67.22,
+     "end": 67.72,
+     "prob": 0.963
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 68.1,
+   "end": 74.12,
+   "text": "so cook number 5000 takes the 5000th item from each list and adds the pair. No cook knows the",
+   "words": [
+    {
+     "word": "so",
+     "start": 68.1,
+     "end": 68.42,
+     "prob": 0.993
+    },
+    {
+     "word": "cook",
+     "start": 68.42,
+     "end": 68.58,
+     "prob": 0.936
+    },
+    {
+     "word": "number",
+     "start": 68.58,
+     "end": 68.8,
+     "prob": 0.527
+    },
+    {
+     "word": "5000",
+     "start": 68.8,
+     "end": 69.3,
+     "prob": 0.826
+    },
+    {
+     "word": "takes",
+     "start": 69.3,
+     "end": 69.76,
+     "prob": 0.985
+    },
+    {
+     "word": "the",
+     "start": 69.76,
+     "end": 69.96,
+     "prob": 0.996
+    },
+    {
+     "word": "5000th",
+     "start": 69.96,
+     "end": 70.66,
+     "prob": 0.801
+    },
+    {
+     "word": "item",
+     "start": 70.66,
+     "end": 70.9,
+     "prob": 0.997
+    },
+    {
+     "word": "from",
+     "start": 70.9,
+     "end": 71.06,
+     "prob": 0.99
+    },
+    {
+     "word": "each",
+     "start": 71.06,
+     "end": 71.22,
+     "prob": 0.995
+    },
+    {
+     "word": "list",
+     "start": 71.22,
+     "end": 71.52,
+     "prob": 0.995
+    },
+    {
+     "word": "and",
+     "start": 71.52,
+     "end": 71.94,
+     "prob": 0.862
+    },
+    {
+     "word": "adds",
+     "start": 71.94,
+     "end": 72.26,
+     "prob": 0.99
+    },
+    {
+     "word": "the",
+     "start": 72.26,
+     "end": 72.42,
+     "prob": 0.979
+    },
+    {
+     "word": "pair.",
+     "start": 72.42,
+     "end": 72.7,
+     "prob": 0.995
+    },
+    {
+     "word": "No",
+     "start": 73.3,
+     "end": 73.56,
+     "prob": 0.987
+    },
+    {
+     "word": "cook",
+     "start": 73.56,
+     "end": 73.72,
+     "prob": 0.993
+    },
+    {
+     "word": "knows",
+     "start": 73.72,
+     "end": 73.94,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 73.94,
+     "end": 74.12,
+     "prob": 0.903
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 74.12,
+   "end": 79.88,
+   "text": "others exist. The cooks work at stations, which on the chip are called streaming multi-processors.",
+   "words": [
+    {
+     "word": "others",
+     "start": 74.12,
+     "end": 74.28,
+     "prob": 0.955
+    },
+    {
+     "word": "exist.",
+     "start": 74.28,
+     "end": 74.72,
+     "prob": 0.995
+    },
+    {
+     "word": "The",
+     "start": 75.52,
+     "end": 75.74,
+     "prob": 0.977
+    },
+    {
+     "word": "cooks",
+     "start": 75.74,
+     "end": 76.0,
+     "prob": 0.986
+    },
+    {
+     "word": "work",
+     "start": 76.0,
+     "end": 76.26,
+     "prob": 0.985
+    },
+    {
+     "word": "at",
+     "start": 76.26,
+     "end": 76.4,
+     "prob": 0.989
+    },
+    {
+     "word": "stations,",
+     "start": 76.4,
+     "end": 76.92,
+     "prob": 0.924
+    },
+    {
+     "word": "which",
+     "start": 77.3,
+     "end": 77.48,
+     "prob": 0.995
+    },
+    {
+     "word": "on",
+     "start": 77.48,
+     "end": 77.6,
+     "prob": 0.956
+    },
+    {
+     "word": "the",
+     "start": 77.6,
+     "end": 77.72,
+     "prob": 0.985
+    },
+    {
+     "word": "chip",
+     "start": 77.72,
+     "end": 77.9,
+     "prob": 0.997
+    },
+    {
+     "word": "are",
+     "start": 77.9,
+     "end": 78.08,
+     "prob": 0.977
+    },
+    {
+     "word": "called",
+     "start": 78.08,
+     "end": 78.28,
+     "prob": 0.997
+    },
+    {
+     "word": "streaming",
+     "start": 78.28,
+     "end": 78.76,
+     "prob": 0.778
+    },
+    {
+     "word": "multi",
+     "start": 78.76,
+     "end": 79.16,
+     "prob": 0.288
+    },
+    {
+     "word": "-processors.",
+     "start": 79.16,
+     "end": 79.88,
+     "prob": 0.973
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 79.88,
+   "end": 88.28,
+   "text": "An A100, a common data center GPU, has 108 of them, and an H100, its newest sibling, has 132.",
+   "words": [
+    {
+     "word": "An",
+     "start": 79.88,
+     "end": 80.6,
+     "prob": 0.534
+    },
+    {
+     "word": "A100,",
+     "start": 80.6,
+     "end": 81.2,
+     "prob": 0.9
+    },
+    {
+     "word": "a",
+     "start": 81.46,
+     "end": 81.62,
+     "prob": 0.97
+    },
+    {
+     "word": "common",
+     "start": 81.62,
+     "end": 81.86,
+     "prob": 0.982
+    },
+    {
+     "word": "data",
+     "start": 81.86,
+     "end": 82.1,
+     "prob": 0.665
+    },
+    {
+     "word": "center",
+     "start": 82.1,
+     "end": 82.38,
+     "prob": 0.361
+    },
+    {
+     "word": "GPU,",
+     "start": 82.38,
+     "end": 82.9,
+     "prob": 0.922
+    },
+    {
+     "word": "has",
+     "start": 83.16,
+     "end": 83.44,
+     "prob": 0.991
+    },
+    {
+     "word": "108",
+     "start": 83.44,
+     "end": 83.98,
+     "prob": 0.959
+    },
+    {
+     "word": "of",
+     "start": 83.98,
+     "end": 84.48,
+     "prob": 0.976
+    },
+    {
+     "word": "them,",
+     "start": 84.48,
+     "end": 84.7,
+     "prob": 0.997
+    },
+    {
+     "word": "and",
+     "start": 84.96,
+     "end": 85.18,
+     "prob": 0.972
+    },
+    {
+     "word": "an",
+     "start": 85.18,
+     "end": 85.3,
+     "prob": 0.945
+    },
+    {
+     "word": "H100,",
+     "start": 85.3,
+     "end": 85.92,
+     "prob": 0.977
+    },
+    {
+     "word": "its",
+     "start": 86.28,
+     "end": 86.46,
+     "prob": 0.945
+    },
+    {
+     "word": "newest",
+     "start": 86.46,
+     "end": 86.74,
+     "prob": 0.664
+    },
+    {
+     "word": "sibling,",
+     "start": 86.74,
+     "end": 87.0,
+     "prob": 0.964
+    },
+    {
+     "word": "has",
+     "start": 87.4,
+     "end": 87.5,
+     "prob": 0.993
+    },
+    {
+     "word": "132.",
+     "start": 87.5,
+     "end": 88.28,
+     "prob": 0.985
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 89.48,
+   "end": 94.86,
+   "text": "Cooks arrive at a station in groups, and a group stays there until it finishes. The chip runs fast",
+   "words": [
+    {
+     "word": "Cooks",
+     "start": 89.48,
+     "end": 89.78,
+     "prob": 0.335
+    },
+    {
+     "word": "arrive",
+     "start": 89.78,
+     "end": 90.06,
+     "prob": 0.958
+    },
+    {
+     "word": "at",
+     "start": 90.06,
+     "end": 90.22,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 90.22,
+     "end": 90.32,
+     "prob": 0.99
+    },
+    {
+     "word": "station",
+     "start": 90.32,
+     "end": 90.5,
+     "prob": 0.998
+    },
+    {
+     "word": "in",
+     "start": 90.5,
+     "end": 90.72,
+     "prob": 0.994
+    },
+    {
+     "word": "groups,",
+     "start": 90.72,
+     "end": 91.0,
+     "prob": 0.98
+    },
+    {
+     "word": "and",
+     "start": 91.4,
+     "end": 91.54,
+     "prob": 0.983
+    },
+    {
+     "word": "a",
+     "start": 91.54,
+     "end": 91.6,
+     "prob": 0.986
+    },
+    {
+     "word": "group",
+     "start": 91.6,
+     "end": 91.74,
+     "prob": 0.997
+    },
+    {
+     "word": "stays",
+     "start": 91.74,
+     "end": 92.1,
+     "prob": 0.991
+    },
+    {
+     "word": "there",
+     "start": 92.1,
+     "end": 92.48,
+     "prob": 0.98
+    },
+    {
+     "word": "until",
+     "start": 92.48,
+     "end": 92.68,
+     "prob": 0.991
+    },
+    {
+     "word": "it",
+     "start": 92.68,
+     "end": 92.82,
+     "prob": 0.989
+    },
+    {
+     "word": "finishes.",
+     "start": 92.82,
+     "end": 93.16,
+     "prob": 0.995
+    },
+    {
+     "word": "The",
+     "start": 93.8,
+     "end": 94.02,
+     "prob": 0.985
+    },
+    {
+     "word": "chip",
+     "start": 94.02,
+     "end": 94.2,
+     "prob": 0.996
+    },
+    {
+     "word": "runs",
+     "start": 94.2,
+     "end": 94.44,
+     "prob": 0.998
+    },
+    {
+     "word": "fast",
+     "start": 94.44,
+     "end": 94.86,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "start": 94.86,
+   "end": 99.5,
+   "text": "only when every station is busy, and there are three ways for a station to sit idle.",
+   "words": [
+    {
+     "word": "only",
+     "start": 94.86,
+     "end": 95.32,
+     "prob": 0.665
+    },
+    {
+     "word": "when",
+     "start": 95.32,
+     "end": 95.6,
+     "prob": 0.992
+    },
+    {
+     "word": "every",
+     "start": 95.6,
+     "end": 96.0,
+     "prob": 0.988
+    },
+    {
+     "word": "station",
+     "start": 96.0,
+     "end": 96.38,
+     "prob": 0.997
+    },
+    {
+     "word": "is",
+     "start": 96.38,
+     "end": 96.66,
+     "prob": 0.997
+    },
+    {
+     "word": "busy,",
+     "start": 96.66,
+     "end": 96.98,
+     "prob": 0.995
+    },
+    {
+     "word": "and",
+     "start": 97.36,
+     "end": 97.54,
+     "prob": 0.991
+    },
+    {
+     "word": "there",
+     "start": 97.54,
+     "end": 97.66,
+     "prob": 0.994
+    },
+    {
+     "word": "are",
+     "start": 97.66,
+     "end": 97.76,
+     "prob": 0.995
+    },
+    {
+     "word": "three",
+     "start": 97.76,
+     "end": 97.94,
+     "prob": 0.881
+    },
+    {
+     "word": "ways",
+     "start": 97.94,
+     "end": 98.18,
+     "prob": 0.993
+    },
+    {
+     "word": "for",
+     "start": 98.18,
+     "end": 98.44,
+     "prob": 0.99
+    },
+    {
+     "word": "a",
+     "start": 98.44,
+     "end": 98.58,
+     "prob": 0.981
+    },
+    {
+     "word": "station",
+     "start": 98.58,
+     "end": 98.76,
+     "prob": 0.999
+    },
+    {
+     "word": "to",
+     "start": 98.76,
+     "end": 98.96,
+     "prob": 0.998
+    },
+    {
+     "word": "sit",
+     "start": 98.96,
+     "end": 99.12,
+     "prob": 0.997
+    },
+    {
+     "word": "idle.",
+     "start": 99.12,
+     "end": 99.5,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "start": 100.2,
+   "end": 103.74,
+   "text": "The first way is that the work doesn't divide evenly across the stations.",
+   "words": [
+    {
+     "word": "The",
+     "start": 100.2,
+     "end": 100.5,
+     "prob": 0.987
+    },
+    {
+     "word": "first",
+     "start": 100.5,
+     "end": 100.76,
+     "prob": 0.997
+    },
+    {
+     "word": "way",
+     "start": 100.76,
+     "end": 101.02,
+     "prob": 0.984
+    },
+    {
+     "word": "is",
+     "start": 101.02,
+     "end": 101.2,
+     "prob": 0.989
+    },
+    {
+     "word": "that",
+     "start": 101.2,
+     "end": 101.32,
+     "prob": 0.988
+    },
+    {
+     "word": "the",
+     "start": 101.32,
+     "end": 101.44,
+     "prob": 0.98
+    },
+    {
+     "word": "work",
+     "start": 101.44,
+     "end": 101.66,
+     "prob": 0.993
+    },
+    {
+     "word": "doesn't",
+     "start": 101.66,
+     "end": 101.92,
+     "prob": 0.984
+    },
+    {
+     "word": "divide",
+     "start": 101.92,
+     "end": 102.32,
+     "prob": 0.987
+    },
+    {
+     "word": "evenly",
+     "start": 102.32,
+     "end": 102.78,
+     "prob": 0.999
+    },
+    {
+     "word": "across",
+     "start": 102.78,
+     "end": 103.2,
+     "prob": 0.998
+    },
+    {
+     "word": "the",
+     "start": 103.2,
+     "end": 103.42,
+     "prob": 0.983
+    },
+    {
+     "word": "stations.",
+     "start": 103.42,
+     "end": 103.74,
+     "prob": 0.986
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "start": 104.42,
+   "end": 109.62,
+   "text": "Most of what a neural network does is multiply matrices, and a matrix is just a big grid of",
+   "words": [
+    {
+     "word": "Most",
+     "start": 104.42,
+     "end": 104.78,
+     "prob": 0.994
+    },
+    {
+     "word": "of",
+     "start": 104.78,
+     "end": 104.92,
+     "prob": 0.998
+    },
+    {
+     "word": "what",
+     "start": 104.92,
+     "end": 105.06,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 105.06,
+     "end": 105.18,
+     "prob": 0.994
+    },
+    {
+     "word": "neural",
+     "start": 105.18,
+     "end": 105.42,
+     "prob": 0.991
+    },
+    {
+     "word": "network",
+     "start": 105.42,
+     "end": 105.8,
+     "prob": 0.999
+    },
+    {
+     "word": "does",
+     "start": 105.8,
+     "end": 106.18,
+     "prob": 0.992
+    },
+    {
+     "word": "is",
+     "start": 106.18,
+     "end": 106.42,
+     "prob": 0.986
+    },
+    {
+     "word": "multiply",
+     "start": 106.42,
+     "end": 106.9,
+     "prob": 0.976
+    },
+    {
+     "word": "matrices,",
+     "start": 106.9,
+     "end": 107.46,
+     "prob": 0.99
+    },
+    {
+     "word": "and",
+     "start": 107.86,
+     "end": 108.08,
+     "prob": 0.995
+    },
+    {
+     "word": "a",
+     "start": 108.08,
+     "end": 108.16,
+     "prob": 0.984
+    },
+    {
+     "word": "matrix",
+     "start": 108.16,
+     "end": 108.44,
+     "prob": 0.999
+    },
+    {
+     "word": "is",
+     "start": 108.44,
+     "end": 108.68,
+     "prob": 0.997
+    },
+    {
+     "word": "just",
+     "start": 108.68,
+     "end": 108.84,
+     "prob": 0.975
+    },
+    {
+     "word": "a",
+     "start": 108.84,
+     "end": 108.98,
+     "prob": 0.994
+    },
+    {
+     "word": "big",
+     "start": 108.98,
+     "end": 109.12,
+     "prob": 0.992
+    },
+    {
+     "word": "grid",
+     "start": 109.12,
+     "end": 109.44,
+     "prob": 0.974
+    },
+    {
+     "word": "of",
+     "start": 109.44,
+     "end": 109.62,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "start": 109.62,
+   "end": 116.62,
+   "text": "numbers. Multiplying two of them produces a third grid, and every cell in that grid needs its own pile",
+   "words": [
+    {
+     "word": "numbers.",
+     "start": 109.62,
+     "end": 109.96,
+     "prob": 0.038
+    },
+    {
+     "word": "Multiplying",
+     "start": 110.88,
+     "end": 111.44,
+     "prob": 0.973
+    },
+    {
+     "word": "two",
+     "start": 111.44,
+     "end": 111.76,
+     "prob": 0.891
+    },
+    {
+     "word": "of",
+     "start": 111.76,
+     "end": 111.88,
+     "prob": 0.984
+    },
+    {
+     "word": "them",
+     "start": 111.88,
+     "end": 112.12,
+     "prob": 0.99
+    },
+    {
+     "word": "produces",
+     "start": 112.12,
+     "end": 112.56,
+     "prob": 0.98
+    },
+    {
+     "word": "a",
+     "start": 112.56,
+     "end": 112.98,
+     "prob": 0.987
+    },
+    {
+     "word": "third",
+     "start": 112.98,
+     "end": 113.3,
+     "prob": 0.941
+    },
+    {
+     "word": "grid,",
+     "start": 113.3,
+     "end": 113.58,
+     "prob": 0.995
+    },
+    {
+     "word": "and",
+     "start": 113.82,
+     "end": 114.06,
+     "prob": 0.994
+    },
+    {
+     "word": "every",
+     "start": 114.06,
+     "end": 114.54,
+     "prob": 0.996
+    },
+    {
+     "word": "cell",
+     "start": 114.54,
+     "end": 114.78,
+     "prob": 0.997
+    },
+    {
+     "word": "in",
+     "start": 114.78,
+     "end": 114.94,
+     "prob": 0.987
+    },
+    {
+     "word": "that",
+     "start": 114.94,
+     "end": 115.14,
+     "prob": 0.984
+    },
+    {
+     "word": "grid",
+     "start": 115.14,
+     "end": 115.42,
+     "prob": 0.998
+    },
+    {
+     "word": "needs",
+     "start": 115.42,
+     "end": 115.72,
+     "prob": 0.991
+    },
+    {
+     "word": "its",
+     "start": 115.72,
+     "end": 115.94,
+     "prob": 0.977
+    },
+    {
+     "word": "own",
+     "start": 115.94,
+     "end": 116.22,
+     "prob": 0.997
+    },
+    {
+     "word": "pile",
+     "start": 116.22,
+     "end": 116.62,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "start": 116.62,
+   "end": 121.6,
+   "text": "of multiplying and adding, which is exactly the kind of job a thousand cooks can split up.",
+   "words": [
+    {
+     "word": "of",
+     "start": 116.62,
+     "end": 116.86,
+     "prob": 0.997
+    },
+    {
+     "word": "multiplying",
+     "start": 116.86,
+     "end": 117.46,
+     "prob": 0.983
+    },
+    {
+     "word": "and",
+     "start": 117.46,
+     "end": 117.82,
+     "prob": 0.995
+    },
+    {
+     "word": "adding,",
+     "start": 117.82,
+     "end": 118.2,
+     "prob": 0.999
+    },
+    {
+     "word": "which",
+     "start": 118.5,
+     "end": 118.66,
+     "prob": 0.992
+    },
+    {
+     "word": "is",
+     "start": 118.66,
+     "end": 118.78,
+     "prob": 0.997
+    },
+    {
+     "word": "exactly",
+     "start": 118.78,
+     "end": 119.08,
+     "prob": 0.991
+    },
+    {
+     "word": "the",
+     "start": 119.08,
+     "end": 119.34,
+     "prob": 0.996
+    },
+    {
+     "word": "kind",
+     "start": 119.34,
+     "end": 119.48,
+     "prob": 0.995
+    },
+    {
+     "word": "of",
+     "start": 119.48,
+     "end": 119.62,
+     "prob": 0.998
+    },
+    {
+     "word": "job",
+     "start": 119.62,
+     "end": 119.78,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 119.78,
+     "end": 120.02,
+     "prob": 0.816
+    },
+    {
+     "word": "thousand",
+     "start": 120.02,
+     "end": 120.46,
+     "prob": 0.981
+    },
+    {
+     "word": "cooks",
+     "start": 120.46,
+     "end": 120.8,
+     "prob": 0.984
+    },
+    {
+     "word": "can",
+     "start": 120.8,
+     "end": 121.08,
+     "prob": 0.993
+    },
+    {
+     "word": "split",
+     "start": 121.08,
+     "end": 121.32,
+     "prob": 0.997
+    },
+    {
+     "word": "up.",
+     "start": 121.32,
+     "end": 121.6,
+     "prob": 0.988
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "start": 122.2,
+   "end": 127.6,
+   "text": "To split it, the GPU cuts the answer grid into tiles, which are rectangles of cells,",
+   "words": [
+    {
+     "word": "To",
+     "start": 122.2,
+     "end": 122.56,
+     "prob": 0.99
+    },
+    {
+     "word": "split",
+     "start": 122.56,
+     "end": 122.8,
+     "prob": 0.999
+    },
+    {
+     "word": "it,",
+     "start": 122.8,
+     "end": 123.04,
+     "prob": 0.982
+    },
+    {
+     "word": "the",
+     "start": 123.32,
+     "end": 123.38,
+     "prob": 0.994
+    },
+    {
+     "word": "GPU",
+     "start": 123.38,
+     "end": 123.68,
+     "prob": 0.993
+    },
+    {
+     "word": "cuts",
+     "start": 123.68,
+     "end": 124.18,
+     "prob": 0.995
+    },
+    {
+     "word": "the",
+     "start": 124.18,
+     "end": 124.4,
+     "prob": 0.996
+    },
+    {
+     "word": "answer",
+     "start": 124.4,
+     "end": 124.82,
+     "prob": 0.935
+    },
+    {
+     "word": "grid",
+     "start": 124.82,
+     "end": 125.14,
+     "prob": 0.99
+    },
+    {
+     "word": "into",
+     "start": 125.14,
+     "end": 125.44,
+     "prob": 0.995
+    },
+    {
+     "word": "tiles,",
+     "start": 125.44,
+     "end": 125.92,
+     "prob": 0.745
+    },
+    {
+     "word": "which",
+     "start": 126.3,
+     "end": 126.46,
+     "prob": 0.994
+    },
+    {
+     "word": "are",
+     "start": 126.46,
+     "end": 126.58,
+     "prob": 0.999
+    },
+    {
+     "word": "rectangles",
+     "start": 126.58,
+     "end": 127.12,
+     "prob": 0.998
+    },
+    {
+     "word": "of",
+     "start": 127.12,
+     "end": 127.3,
+     "prob": 0.998
+    },
+    {
+     "word": "cells,",
+     "start": 127.3,
+     "end": 127.6,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "start": 128.02,
+   "end": 133.9,
+   "text": "and gives each tile to one group of cooks. Groups go out in rounds. With 108 stations",
+   "words": [
+    {
+     "word": "and",
+     "start": 128.02,
+     "end": 128.18,
+     "prob": 0.994
+    },
+    {
+     "word": "gives",
+     "start": 128.18,
+     "end": 128.3,
+     "prob": 0.986
+    },
+    {
+     "word": "each",
+     "start": 128.3,
+     "end": 128.66,
+     "prob": 0.999
+    },
+    {
+     "word": "tile",
+     "start": 128.66,
+     "end": 128.92,
+     "prob": 0.997
+    },
+    {
+     "word": "to",
+     "start": 128.92,
+     "end": 129.14,
+     "prob": 0.997
+    },
+    {
+     "word": "one",
+     "start": 129.14,
+     "end": 129.42,
+     "prob": 0.994
+    },
+    {
+     "word": "group",
+     "start": 129.42,
+     "end": 129.64,
+     "prob": 0.997
+    },
+    {
+     "word": "of",
+     "start": 129.64,
+     "end": 129.86,
+     "prob": 0.997
+    },
+    {
+     "word": "cooks.",
+     "start": 129.86,
+     "end": 130.16,
+     "prob": 0.995
+    },
+    {
+     "word": "Groups",
+     "start": 130.92,
+     "end": 131.06,
+     "prob": 0.987
+    },
+    {
+     "word": "go",
+     "start": 131.06,
+     "end": 131.34,
+     "prob": 0.996
+    },
+    {
+     "word": "out",
+     "start": 131.34,
+     "end": 131.52,
+     "prob": 0.996
+    },
+    {
+     "word": "in",
+     "start": 131.52,
+     "end": 131.72,
+     "prob": 0.997
+    },
+    {
+     "word": "rounds.",
+     "start": 131.72,
+     "end": 131.96,
+     "prob": 0.987
+    },
+    {
+     "word": "With",
+     "start": 132.62,
+     "end": 132.8,
+     "prob": 0.994
+    },
+    {
+     "word": "108",
+     "start": 132.8,
+     "end": 133.32,
+     "prob": 0.98
+    },
+    {
+     "word": "stations",
+     "start": 133.32,
+     "end": 133.9,
+     "prob": 0.993
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "start": 133.9,
+   "end": 140.82,
+   "text": "and 108 tiles, everything finishes in one round. Add one more tile, 109 in total,",
+   "words": [
+    {
+     "word": "and",
+     "start": 133.9,
+     "end": 134.24,
+     "prob": 0.216
+    },
+    {
+     "word": "108",
+     "start": 134.24,
+     "end": 134.9,
+     "prob": 0.917
+    },
+    {
+     "word": "tiles,",
+     "start": 134.9,
+     "end": 135.3,
+     "prob": 0.989
+    },
+    {
+     "word": "everything",
+     "start": 135.82,
+     "end": 136.12,
+     "prob": 0.989
+    },
+    {
+     "word": "finishes",
+     "start": 136.12,
+     "end": 136.54,
+     "prob": 0.986
+    },
+    {
+     "word": "in",
+     "start": 136.54,
+     "end": 136.84,
+     "prob": 0.993
+    },
+    {
+     "word": "one",
+     "start": 136.84,
+     "end": 137.16,
+     "prob": 0.974
+    },
+    {
+     "word": "round.",
+     "start": 137.16,
+     "end": 137.5,
+     "prob": 0.997
+    },
+    {
+     "word": "Add",
+     "start": 138.28,
+     "end": 138.42,
+     "prob": 0.961
+    },
+    {
+     "word": "one",
+     "start": 138.42,
+     "end": 138.78,
+     "prob": 0.969
+    },
+    {
+     "word": "more",
+     "start": 138.78,
+     "end": 139.04,
+     "prob": 0.997
+    },
+    {
+     "word": "tile,",
+     "start": 139.04,
+     "end": 139.32,
+     "prob": 0.996
+    },
+    {
+     "word": "109",
+     "start": 139.98,
+     "end": 139.98,
+     "prob": 0.982
+    },
+    {
+     "word": "in",
+     "start": 139.98,
+     "end": 140.52,
+     "prob": 0.971
+    },
+    {
+     "word": "total,",
+     "start": 140.52,
+     "end": 140.82,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "start": 141.14,
+   "end": 146.08,
+   "text": "and the first 108 go out together while the last one runs alone in a second round,",
+   "words": [
+    {
+     "word": "and",
+     "start": 141.14,
+     "end": 141.36,
+     "prob": 0.985
+    },
+    {
+     "word": "the",
+     "start": 141.36,
+     "end": 141.44,
+     "prob": 0.994
+    },
+    {
+     "word": "first",
+     "start": 141.44,
+     "end": 141.64,
+     "prob": 0.998
+    },
+    {
+     "word": "108",
+     "start": 141.64,
+     "end": 142.38,
+     "prob": 0.99
+    },
+    {
+     "word": "go",
+     "start": 142.38,
+     "end": 142.76,
+     "prob": 0.984
+    },
+    {
+     "word": "out",
+     "start": 142.76,
+     "end": 142.94,
+     "prob": 0.99
+    },
+    {
+     "word": "together",
+     "start": 142.94,
+     "end": 143.34,
+     "prob": 0.992
+    },
+    {
+     "word": "while",
+     "start": 143.34,
+     "end": 143.74,
+     "prob": 0.731
+    },
+    {
+     "word": "the",
+     "start": 143.74,
+     "end": 143.9,
+     "prob": 0.996
+    },
+    {
+     "word": "last",
+     "start": 143.9,
+     "end": 144.18,
+     "prob": 0.998
+    },
+    {
+     "word": "one",
+     "start": 144.18,
+     "end": 144.42,
+     "prob": 0.967
+    },
+    {
+     "word": "runs",
+     "start": 144.42,
+     "end": 144.68,
+     "prob": 0.991
+    },
+    {
+     "word": "alone",
+     "start": 144.68,
+     "end": 145.06,
+     "prob": 0.981
+    },
+    {
+     "word": "in",
+     "start": 145.06,
+     "end": 145.36,
+     "prob": 0.949
+    },
+    {
+     "word": "a",
+     "start": 145.36,
+     "end": 145.52,
+     "prob": 0.977
+    },
+    {
+     "word": "second",
+     "start": 145.52,
+     "end": 145.78,
+     "prob": 0.992
+    },
+    {
+     "word": "round,",
+     "start": 145.78,
+     "end": 146.08,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "start": 146.46,
+   "end": 152.7,
+   "text": "with 107 stations standing around. That is under 1% more work for nearly double the time.",
+   "words": [
+    {
+     "word": "with",
+     "start": 146.46,
+     "end": 146.7,
+     "prob": 0.995
+    },
+    {
+     "word": "107",
+     "start": 146.7,
+     "end": 147.36,
+     "prob": 0.992
+    },
+    {
+     "word": "stations",
+     "start": 147.36,
+     "end": 148.06,
+     "prob": 0.994
+    },
+    {
+     "word": "standing",
+     "start": 148.06,
+     "end": 148.44,
+     "prob": 0.988
+    },
+    {
+     "word": "around.",
+     "start": 148.44,
+     "end": 148.84,
+     "prob": 0.978
+    },
+    {
+     "word": "That",
+     "start": 149.36,
+     "end": 149.56,
+     "prob": 0.976
+    },
+    {
+     "word": "is",
+     "start": 149.56,
+     "end": 149.7,
+     "prob": 0.869
+    },
+    {
+     "word": "under",
+     "start": 149.7,
+     "end": 149.98,
+     "prob": 0.966
+    },
+    {
+     "word": "1",
+     "start": 149.98,
+     "end": 150.26,
+     "prob": 0.712
+    },
+    {
+     "word": "%",
+     "start": 150.26,
+     "end": 150.56,
+     "prob": 0.94
+    },
+    {
+     "word": "more",
+     "start": 150.56,
+     "end": 150.86,
+     "prob": 0.993
+    },
+    {
+     "word": "work",
+     "start": 150.86,
+     "end": 151.24,
+     "prob": 0.997
+    },
+    {
+     "word": "for",
+     "start": 151.24,
+     "end": 151.7,
+     "prob": 0.888
+    },
+    {
+     "word": "nearly",
+     "start": 151.7,
+     "end": 151.86,
+     "prob": 0.994
+    },
+    {
+     "word": "double",
+     "start": 151.86,
+     "end": 152.18,
+     "prob": 0.991
+    },
+    {
+     "word": "the",
+     "start": 152.18,
+     "end": 152.4,
+     "prob": 0.996
+    },
+    {
+     "word": "time.",
+     "start": 152.4,
+     "end": 152.7,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "start": 153.6,
+   "end": 158.08,
+   "text": "Something has to decide how the tiles get cut, and that job belongs to a library,",
+   "words": [
+    {
+     "word": "Something",
+     "start": 153.6,
+     "end": 153.88,
+     "prob": 0.962
+    },
+    {
+     "word": "has",
+     "start": 153.88,
+     "end": 154.08,
+     "prob": 0.995
+    },
+    {
+     "word": "to",
+     "start": 154.08,
+     "end": 154.22,
+     "prob": 0.999
+    },
+    {
+     "word": "decide",
+     "start": 154.22,
+     "end": 154.62,
+     "prob": 0.998
+    },
+    {
+     "word": "how",
+     "start": 154.62,
+     "end": 155.0,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 155.0,
+     "end": 155.2,
+     "prob": 0.984
+    },
+    {
+     "word": "tiles",
+     "start": 155.2,
+     "end": 155.48,
+     "prob": 0.998
+    },
+    {
+     "word": "get",
+     "start": 155.48,
+     "end": 155.72,
+     "prob": 0.992
+    },
+    {
+     "word": "cut,",
+     "start": 155.72,
+     "end": 156.06,
+     "prob": 0.998
+    },
+    {
+     "word": "and",
+     "start": 156.42,
+     "end": 156.7,
+     "prob": 0.991
+    },
+    {
+     "word": "that",
+     "start": 156.7,
+     "end": 156.84,
+     "prob": 0.99
+    },
+    {
+     "word": "job",
+     "start": 156.84,
+     "end": 157.02,
+     "prob": 0.998
+    },
+    {
+     "word": "belongs",
+     "start": 157.02,
+     "end": 157.3,
+     "prob": 0.994
+    },
+    {
+     "word": "to",
+     "start": 157.3,
+     "end": 157.58,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 157.58,
+     "end": 157.76,
+     "prob": 0.995
+    },
+    {
+     "word": "library,",
+     "start": 157.76,
+     "end": 158.08,
+     "prob": 0.986
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "start": 158.08,
+   "end": 164.26,
+   "text": "which is a shelf of ready-made code. This one is called Cublas, and we can think of it as a cookbook",
+   "words": [
+    {
+     "word": "which",
+     "start": 158.08,
+     "end": 158.58,
+     "prob": 0.301
+    },
+    {
+     "word": "is",
+     "start": 158.58,
+     "end": 158.72,
+     "prob": 0.978
+    },
+    {
+     "word": "a",
+     "start": 158.72,
+     "end": 158.86,
+     "prob": 0.964
+    },
+    {
+     "word": "shelf",
+     "start": 158.86,
+     "end": 159.06,
+     "prob": 0.986
+    },
+    {
+     "word": "of",
+     "start": 159.06,
+     "end": 159.28,
+     "prob": 0.991
+    },
+    {
+     "word": "ready",
+     "start": 159.28,
+     "end": 159.54,
+     "prob": 0.972
+    },
+    {
+     "word": "-made",
+     "start": 159.54,
+     "end": 159.76,
+     "prob": 0.957
+    },
+    {
+     "word": "code.",
+     "start": 159.76,
+     "end": 160.22,
+     "prob": 0.988
+    },
+    {
+     "word": "This",
+     "start": 160.96,
+     "end": 161.1,
+     "prob": 0.98
+    },
+    {
+     "word": "one",
+     "start": 161.1,
+     "end": 161.24,
+     "prob": 0.983
+    },
+    {
+     "word": "is",
+     "start": 161.24,
+     "end": 161.36,
+     "prob": 0.994
+    },
+    {
+     "word": "called",
+     "start": 161.36,
+     "end": 161.6,
+     "prob": 0.999
+    },
+    {
+     "word": "Cublas,",
+     "start": 161.6,
+     "end": 162.26,
+     "prob": 0.2
+    },
+    {
+     "word": "and",
+     "start": 162.68,
+     "end": 162.8,
+     "prob": 0.985
+    },
+    {
+     "word": "we",
+     "start": 162.8,
+     "end": 162.9,
+     "prob": 0.995
+    },
+    {
+     "word": "can",
+     "start": 162.9,
+     "end": 163.02,
+     "prob": 0.994
+    },
+    {
+     "word": "think",
+     "start": 163.02,
+     "end": 163.18,
+     "prob": 0.997
+    },
+    {
+     "word": "of",
+     "start": 163.18,
+     "end": 163.28,
+     "prob": 0.998
+    },
+    {
+     "word": "it",
+     "start": 163.28,
+     "end": 163.4,
+     "prob": 0.994
+    },
+    {
+     "word": "as",
+     "start": 163.4,
+     "end": 163.58,
+     "prob": 0.993
+    },
+    {
+     "word": "a",
+     "start": 163.58,
+     "end": 163.8,
+     "prob": 0.987
+    },
+    {
+     "word": "cookbook",
+     "start": 163.8,
+     "end": 164.26,
+     "prob": 0.904
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "start": 164.26,
+   "end": 169.78,
+   "text": "with many versions of the same card, each tuned for a different size of order. It looks at the",
+   "words": [
+    {
+     "word": "with",
+     "start": 164.26,
+     "end": 164.72,
+     "prob": 0.91
+    },
+    {
+     "word": "many",
+     "start": 164.72,
+     "end": 165.02,
+     "prob": 0.998
+    },
+    {
+     "word": "versions",
+     "start": 165.02,
+     "end": 165.38,
+     "prob": 0.996
+    },
+    {
+     "word": "of",
+     "start": 165.38,
+     "end": 165.58,
+     "prob": 0.998
+    },
+    {
+     "word": "the",
+     "start": 165.58,
+     "end": 165.68,
+     "prob": 0.998
+    },
+    {
+     "word": "same",
+     "start": 165.68,
+     "end": 165.92,
+     "prob": 0.998
+    },
+    {
+     "word": "card,",
+     "start": 165.92,
+     "end": 166.36,
+     "prob": 0.996
+    },
+    {
+     "word": "each",
+     "start": 166.62,
+     "end": 166.86,
+     "prob": 0.997
+    },
+    {
+     "word": "tuned",
+     "start": 166.86,
+     "end": 167.18,
+     "prob": 0.998
+    },
+    {
+     "word": "for",
+     "start": 167.18,
+     "end": 167.4,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 167.4,
+     "end": 167.52,
+     "prob": 0.996
+    },
+    {
+     "word": "different",
+     "start": 167.52,
+     "end": 167.76,
+     "prob": 0.993
+    },
+    {
+     "word": "size",
+     "start": 167.76,
+     "end": 168.1,
+     "prob": 0.995
+    },
+    {
+     "word": "of",
+     "start": 168.1,
+     "end": 168.32,
+     "prob": 0.976
+    },
+    {
+     "word": "order.",
+     "start": 168.32,
+     "end": 168.6,
+     "prob": 0.999
+    },
+    {
+     "word": "It",
+     "start": 169.2,
+     "end": 169.36,
+     "prob": 0.989
+    },
+    {
+     "word": "looks",
+     "start": 169.36,
+     "end": 169.52,
+     "prob": 0.996
+    },
+    {
+     "word": "at",
+     "start": 169.52,
+     "end": 169.68,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 169.68,
+     "end": 169.78,
+     "prob": 0.992
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "start": 169.78,
+   "end": 175.56,
+   "text": "matrix sizes and hands out the card that suits them. On an A100, the fast cards are built",
+   "words": [
+    {
+     "word": "matrix",
+     "start": 169.78,
+     "end": 170.04,
+     "prob": 0.936
+    },
+    {
+     "word": "sizes",
+     "start": 170.04,
+     "end": 170.42,
+     "prob": 0.987
+    },
+    {
+     "word": "and",
+     "start": 170.42,
+     "end": 170.82,
+     "prob": 0.894
+    },
+    {
+     "word": "hands",
+     "start": 170.82,
+     "end": 171.1,
+     "prob": 0.966
+    },
+    {
+     "word": "out",
+     "start": 171.1,
+     "end": 171.26,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 171.26,
+     "end": 171.44,
+     "prob": 0.997
+    },
+    {
+     "word": "card",
+     "start": 171.44,
+     "end": 171.66,
+     "prob": 0.98
+    },
+    {
+     "word": "that",
+     "start": 171.66,
+     "end": 171.82,
+     "prob": 0.997
+    },
+    {
+     "word": "suits",
+     "start": 171.82,
+     "end": 172.02,
+     "prob": 0.997
+    },
+    {
+     "word": "them.",
+     "start": 172.02,
+     "end": 172.4,
+     "prob": 0.998
+    },
+    {
+     "word": "On",
+     "start": 173.12,
+     "end": 173.26,
+     "prob": 0.991
+    },
+    {
+     "word": "an",
+     "start": 173.26,
+     "end": 173.42,
+     "prob": 0.984
+    },
+    {
+     "word": "A100,",
+     "start": 173.42,
+     "end": 173.96,
+     "prob": 0.925
+    },
+    {
+     "word": "the",
+     "start": 174.48,
+     "end": 174.62,
+     "prob": 0.993
+    },
+    {
+     "word": "fast",
+     "start": 174.62,
+     "end": 174.9,
+     "prob": 0.974
+    },
+    {
+     "word": "cards",
+     "start": 174.9,
+     "end": 175.22,
+     "prob": 0.991
+    },
+    {
+     "word": "are",
+     "start": 175.22,
+     "end": 175.42,
+     "prob": 0.998
+    },
+    {
+     "word": "built",
+     "start": 175.42,
+     "end": 175.56,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "start": 175.56,
+   "end": 181.42,
+   "text": "around chunks of 64, so a size that leaves a ragged edge pushes the library onto a slower card.",
+   "words": [
+    {
+     "word": "around",
+     "start": 175.56,
+     "end": 175.82,
+     "prob": 0.997
+    },
+    {
+     "word": "chunks",
+     "start": 175.82,
+     "end": 176.12,
+     "prob": 0.998
+    },
+    {
+     "word": "of",
+     "start": 176.12,
+     "end": 176.38,
+     "prob": 0.999
+    },
+    {
+     "word": "64,",
+     "start": 176.38,
+     "end": 177.02,
+     "prob": 0.971
+    },
+    {
+     "word": "so",
+     "start": 177.48,
+     "end": 177.82,
+     "prob": 0.992
+    },
+    {
+     "word": "a",
+     "start": 177.82,
+     "end": 177.94,
+     "prob": 0.99
+    },
+    {
+     "word": "size",
+     "start": 177.94,
+     "end": 178.1,
+     "prob": 0.998
+    },
+    {
+     "word": "that",
+     "start": 178.1,
+     "end": 178.28,
+     "prob": 0.999
+    },
+    {
+     "word": "leaves",
+     "start": 178.28,
+     "end": 178.5,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 178.5,
+     "end": 178.7,
+     "prob": 0.998
+    },
+    {
+     "word": "ragged",
+     "start": 178.7,
+     "end": 178.96,
+     "prob": 0.994
+    },
+    {
+     "word": "edge",
+     "start": 178.96,
+     "end": 179.34,
+     "prob": 0.998
+    },
+    {
+     "word": "pushes",
+     "start": 179.34,
+     "end": 179.74,
+     "prob": 0.977
+    },
+    {
+     "word": "the",
+     "start": 179.74,
+     "end": 180.0,
+     "prob": 0.997
+    },
+    {
+     "word": "library",
+     "start": 180.0,
+     "end": 180.32,
+     "prob": 0.991
+    },
+    {
+     "word": "onto",
+     "start": 180.32,
+     "end": 180.52,
+     "prob": 0.962
+    },
+    {
+     "word": "a",
+     "start": 180.52,
+     "end": 180.74,
+     "prob": 0.999
+    },
+    {
+     "word": "slower",
+     "start": 180.74,
+     "end": 180.98,
+     "prob": 0.999
+    },
+    {
+     "word": "card.",
+     "start": 180.98,
+     "end": 181.42,
+     "prob": 0.999
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "start": 182.36,
+   "end": 187.3,
+   "text": "This is what happened in Carpathi's case. A language model ends by scoring every word in",
+   "words": [
+    {
+     "word": "This",
+     "start": 182.36,
+     "end": 182.66,
+     "prob": 0.984
+    },
+    {
+     "word": "is",
+     "start": 182.66,
+     "end": 182.78,
+     "prob": 0.999
+    },
+    {
+     "word": "what",
+     "start": 182.78,
+     "end": 182.9,
+     "prob": 0.999
+    },
+    {
+     "word": "happened",
+     "start": 182.9,
+     "end": 183.16,
+     "prob": 0.996
+    },
+    {
+     "word": "in",
+     "start": 183.16,
+     "end": 183.44,
+     "prob": 0.997
+    },
+    {
+     "word": "Carpathi's",
+     "start": 183.44,
+     "end": 183.96,
+     "prob": 0.751
+    },
+    {
+     "word": "case.",
+     "start": 183.96,
+     "end": 184.16,
+     "prob": 0.997
+    },
+    {
+     "word": "A",
+     "start": 184.56,
+     "end": 184.82,
+     "prob": 0.991
+    },
+    {
+     "word": "language",
+     "start": 184.82,
+     "end": 185.04,
+     "prob": 0.997
+    },
+    {
+     "word": "model",
+     "start": 185.04,
+     "end": 185.4,
+     "prob": 0.996
+    },
+    {
+     "word": "ends",
+     "start": 185.4,
+     "end": 185.8,
+     "prob": 0.996
+    },
+    {
+     "word": "by",
+     "start": 185.8,
+     "end": 186.06,
+     "prob": 0.997
+    },
+    {
+     "word": "scoring",
+     "start": 186.06,
+     "end": 186.46,
+     "prob": 0.996
+    },
+    {
+     "word": "every",
+     "start": 186.46,
+     "end": 186.84,
+     "prob": 0.998
+    },
+    {
+     "word": "word",
+     "start": 186.84,
+     "end": 187.14,
+     "prob": 0.999
+    },
+    {
+     "word": "in",
+     "start": 187.14,
+     "end": 187.3,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "start": 187.3,
+   "end": 192.22,
+   "text": "its vocabulary to pick the next one, and that scoring is one of these matrix multiplications,",
+   "words": [
+    {
+     "word": "its",
+     "start": 187.3,
+     "end": 187.48,
+     "prob": 0.434
+    },
+    {
+     "word": "vocabulary",
+     "start": 187.48,
+     "end": 187.9,
+     "prob": 0.947
+    },
+    {
+     "word": "to",
+     "start": 187.9,
+     "end": 188.26,
+     "prob": 0.967
+    },
+    {
+     "word": "pick",
+     "start": 188.26,
+     "end": 188.42,
+     "prob": 0.988
+    },
+    {
+     "word": "the",
+     "start": 188.42,
+     "end": 188.6,
+     "prob": 0.986
+    },
+    {
+     "word": "next",
+     "start": 188.6,
+     "end": 188.84,
+     "prob": 0.995
+    },
+    {
+     "word": "one,",
+     "start": 188.84,
+     "end": 189.1,
+     "prob": 0.979
+    },
+    {
+     "word": "and",
+     "start": 189.48,
+     "end": 189.56,
+     "prob": 0.948
+    },
+    {
+     "word": "that",
+     "start": 189.56,
+     "end": 189.68,
+     "prob": 0.943
+    },
+    {
+     "word": "scoring",
+     "start": 189.68,
+     "end": 190.12,
+     "prob": 0.73
+    },
+    {
+     "word": "is",
+     "start": 190.12,
+     "end": 190.5,
+     "prob": 0.992
+    },
+    {
+     "word": "one",
+     "start": 190.5,
+     "end": 190.66,
+     "prob": 0.992
+    },
+    {
+     "word": "of",
+     "start": 190.66,
+     "end": 190.78,
+     "prob": 0.995
+    },
+    {
+     "word": "these",
+     "start": 190.78,
+     "end": 190.92,
+     "prob": 0.933
+    },
+    {
+     "word": "matrix",
+     "start": 190.92,
+     "end": 191.4,
+     "prob": 0.971
+    },
+    {
+     "word": "multiplications,",
+     "start": 191.4,
+     "end": 192.22,
+     "prob": 0.993
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "start": 192.7,
+   "end": 195.14,
+   "text": "with the vocabulary size on one side of the grid.",
+   "words": [
+    {
+     "word": "with",
+     "start": 192.7,
+     "end": 192.88,
+     "prob": 0.993
+    },
+    {
+     "word": "the",
+     "start": 192.88,
+     "end": 193.06,
+     "prob": 0.984
+    },
+    {
+     "word": "vocabulary",
+     "start": 193.06,
+     "end": 193.5,
+     "prob": 0.981
+    },
+    {
+     "word": "size",
+     "start": 193.5,
+     "end": 193.86,
+     "prob": 0.979
+    },
+    {
+     "word": "on",
+     "start": 193.86,
+     "end": 194.14,
+     "prob": 0.979
+    },
+    {
+     "word": "one",
+     "start": 194.14,
+     "end": 194.44,
+     "prob": 0.982
+    },
+    {
+     "word": "side",
+     "start": 194.44,
+     "end": 194.7,
+     "prob": 0.992
+    },
+    {
+     "word": "of",
+     "start": 194.7,
+     "end": 194.94,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 194.94,
+     "end": 194.94,
+     "prob": 0.995
+    },
+    {
+     "word": "grid.",
+     "start": 194.94,
+     "end": 195.14,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "start": 195.96,
+   "end": 206.08,
+   "text": "50,257 does not divide evenly by 64, which got him a slow card, and 50,304 is 64 times 786,",
+   "words": [
+    {
+     "word": "50",
+     "start": 195.96,
+     "end": 196.34,
+     "prob": 0.704
+    },
+    {
+     "word": ",257",
+     "start": 196.34,
+     "end": 197.48,
+     "prob": 0.882
+    },
+    {
+     "word": "does",
+     "start": 197.48,
+     "end": 198.4,
+     "prob": 0.841
+    },
+    {
+     "word": "not",
+     "start": 198.4,
+     "end": 198.62,
+     "prob": 0.997
+    },
+    {
+     "word": "divide",
+     "start": 198.62,
+     "end": 198.94,
+     "prob": 0.995
+    },
+    {
+     "word": "evenly",
+     "start": 198.94,
+     "end": 199.34,
+     "prob": 0.988
+    },
+    {
+     "word": "by",
+     "start": 199.34,
+     "end": 199.58,
+     "prob": 0.998
+    },
+    {
+     "word": "64,",
+     "start": 199.58,
+     "end": 200.16,
+     "prob": 0.985
+    },
+    {
+     "word": "which",
+     "start": 200.4,
+     "end": 200.52,
+     "prob": 0.981
+    },
+    {
+     "word": "got",
+     "start": 200.52,
+     "end": 200.7,
+     "prob": 0.987
+    },
+    {
+     "word": "him",
+     "start": 200.7,
+     "end": 200.8,
+     "prob": 0.501
+    },
+    {
+     "word": "a",
+     "start": 200.8,
+     "end": 200.9,
+     "prob": 0.998
+    },
+    {
+     "word": "slow",
+     "start": 200.9,
+     "end": 201.16,
+     "prob": 0.942
+    },
+    {
+     "word": "card,",
+     "start": 201.16,
+     "end": 201.48,
+     "prob": 0.658
+    },
+    {
+     "word": "and",
+     "start": 201.88,
+     "end": 202.04,
+     "prob": 0.989
+    },
+    {
+     "word": "50",
+     "start": 202.04,
+     "end": 202.36,
+     "prob": 0.988
+    },
+    {
+     "word": ",304",
+     "start": 202.36,
+     "end": 203.16,
+     "prob": 0.99
+    },
+    {
+     "word": "is",
+     "start": 203.16,
+     "end": 204.0,
+     "prob": 0.989
+    },
+    {
+     "word": "64",
+     "start": 204.0,
+     "end": 204.6,
+     "prob": 0.989
+    },
+    {
+     "word": "times",
+     "start": 204.6,
+     "end": 204.96,
+     "prob": 0.409
+    },
+    {
+     "word": "786,",
+     "start": 204.96,
+     "end": 206.08,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "start": 206.44,
+   "end": 210.7,
+   "text": "which got him a fast one. The 47 extra words cost almost nothing,",
+   "words": [
+    {
+     "word": "which",
+     "start": 206.44,
+     "end": 206.72,
+     "prob": 0.993
+    },
+    {
+     "word": "got",
+     "start": 206.72,
+     "end": 206.9,
+     "prob": 0.992
+    },
+    {
+     "word": "him",
+     "start": 206.9,
+     "end": 207.0,
+     "prob": 0.989
+    },
+    {
+     "word": "a",
+     "start": 207.0,
+     "end": 207.12,
+     "prob": 0.996
+    },
+    {
+     "word": "fast",
+     "start": 207.12,
+     "end": 207.4,
+     "prob": 0.997
+    },
+    {
+     "word": "one.",
+     "start": 207.4,
+     "end": 207.64,
+     "prob": 0.993
+    },
+    {
+     "word": "The",
+     "start": 208.32,
+     "end": 208.5,
+     "prob": 0.985
+    },
+    {
+     "word": "47",
+     "start": 208.5,
+     "end": 208.94,
+     "prob": 0.966
+    },
+    {
+     "word": "extra",
+     "start": 208.94,
+     "end": 209.26,
+     "prob": 0.993
+    },
+    {
+     "word": "words",
+     "start": 209.26,
+     "end": 209.66,
+     "prob": 0.997
+    },
+    {
+     "word": "cost",
+     "start": 209.66,
+     "end": 209.9,
+     "prob": 0.997
+    },
+    {
+     "word": "almost",
+     "start": 209.9,
+     "end": 210.24,
+     "prob": 0.996
+    },
+    {
+     "word": "nothing,",
+     "start": 210.24,
+     "end": 210.7,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "start": 211.06,
+   "end": 216.74,
+   "text": "and the kernel change was worth 25%. The practical version is to pad sizes up",
+   "words": [
+    {
+     "word": "and",
+     "start": 211.06,
+     "end": 211.22,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 211.22,
+     "end": 211.34,
+     "prob": 0.997
+    },
+    {
+     "word": "kernel",
+     "start": 211.34,
+     "end": 211.58,
+     "prob": 0.943
+    },
+    {
+     "word": "change",
+     "start": 211.58,
+     "end": 211.9,
+     "prob": 0.993
+    },
+    {
+     "word": "was",
+     "start": 211.9,
+     "end": 212.26,
+     "prob": 0.976
+    },
+    {
+     "word": "worth",
+     "start": 212.26,
+     "end": 212.46,
+     "prob": 0.986
+    },
+    {
+     "word": "25%.",
+     "start": 212.46,
+     "end": 213.7,
+     "prob": 0.948
+    },
+    {
+     "word": "The",
+     "start": 213.7,
+     "end": 214.46,
+     "prob": 0.985
+    },
+    {
+     "word": "practical",
+     "start": 214.46,
+     "end": 214.8,
+     "prob": 0.996
+    },
+    {
+     "word": "version",
+     "start": 214.8,
+     "end": 215.22,
+     "prob": 0.997
+    },
+    {
+     "word": "is",
+     "start": 215.22,
+     "end": 215.66,
+     "prob": 0.995
+    },
+    {
+     "word": "to",
+     "start": 215.66,
+     "end": 215.8,
+     "prob": 0.998
+    },
+    {
+     "word": "pad",
+     "start": 215.8,
+     "end": 216.06,
+     "prob": 0.996
+    },
+    {
+     "word": "sizes",
+     "start": 216.06,
+     "end": 216.5,
+     "prob": 0.99
+    },
+    {
+     "word": "up",
+     "start": 216.5,
+     "end": 216.74,
+     "prob": 0.987
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "start": 216.74,
+   "end": 221.68,
+   "text": "to a multiple of 64. That applies to the vocabulary and to the hidden size,",
+   "words": [
+    {
+     "word": "to",
+     "start": 216.74,
+     "end": 216.88,
+     "prob": 0.533
+    },
+    {
+     "word": "a",
+     "start": 216.88,
+     "end": 216.98,
+     "prob": 0.724
+    },
+    {
+     "word": "multiple",
+     "start": 216.98,
+     "end": 217.38,
+     "prob": 0.911
+    },
+    {
+     "word": "of",
+     "start": 217.38,
+     "end": 217.6,
+     "prob": 0.994
+    },
+    {
+     "word": "64.",
+     "start": 217.6,
+     "end": 218.2,
+     "prob": 0.963
+    },
+    {
+     "word": "That",
+     "start": 218.76,
+     "end": 219.0,
+     "prob": 0.928
+    },
+    {
+     "word": "applies",
+     "start": 219.0,
+     "end": 219.24,
+     "prob": 0.995
+    },
+    {
+     "word": "to",
+     "start": 219.24,
+     "end": 219.46,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 219.46,
+     "end": 219.56,
+     "prob": 0.984
+    },
+    {
+     "word": "vocabulary",
+     "start": 219.56,
+     "end": 220.02,
+     "prob": 0.991
+    },
+    {
+     "word": "and",
+     "start": 220.02,
+     "end": 220.66,
+     "prob": 0.656
+    },
+    {
+     "word": "to",
+     "start": 220.66,
+     "end": 220.86,
+     "prob": 0.945
+    },
+    {
+     "word": "the",
+     "start": 220.86,
+     "end": 220.98,
+     "prob": 0.989
+    },
+    {
+     "word": "hidden",
+     "start": 220.98,
+     "end": 221.26,
+     "prob": 0.941
+    },
+    {
+     "word": "size,",
+     "start": 221.26,
+     "end": 221.68,
+     "prob": 0.991
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "start": 221.98,
+   "end": 226.96,
+   "text": "which is the width of the model's inner layers. Padding costs a little memory and often helps,",
+   "words": [
+    {
+     "word": "which",
+     "start": 221.98,
+     "end": 222.08,
+     "prob": 0.966
+    },
+    {
+     "word": "is",
+     "start": 222.08,
+     "end": 222.2,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 222.2,
+     "end": 222.32,
+     "prob": 0.994
+    },
+    {
+     "word": "width",
+     "start": 222.32,
+     "end": 222.52,
+     "prob": 0.996
+    },
+    {
+     "word": "of",
+     "start": 222.52,
+     "end": 222.76,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 222.76,
+     "end": 222.86,
+     "prob": 0.981
+    },
+    {
+     "word": "model's",
+     "start": 222.86,
+     "end": 223.24,
+     "prob": 0.934
+    },
+    {
+     "word": "inner",
+     "start": 223.24,
+     "end": 223.44,
+     "prob": 0.989
+    },
+    {
+     "word": "layers.",
+     "start": 223.44,
+     "end": 223.84,
+     "prob": 0.997
+    },
+    {
+     "word": "Padding",
+     "start": 224.62,
+     "end": 224.78,
+     "prob": 0.977
+    },
+    {
+     "word": "costs",
+     "start": 224.78,
+     "end": 225.14,
+     "prob": 0.983
+    },
+    {
+     "word": "a",
+     "start": 225.14,
+     "end": 225.36,
+     "prob": 0.987
+    },
+    {
+     "word": "little",
+     "start": 225.36,
+     "end": 225.5,
+     "prob": 0.997
+    },
+    {
+     "word": "memory",
+     "start": 225.5,
+     "end": 225.9,
+     "prob": 0.996
+    },
+    {
+     "word": "and",
+     "start": 225.9,
+     "end": 226.26,
+     "prob": 0.695
+    },
+    {
+     "word": "often",
+     "start": 226.26,
+     "end": 226.46,
+     "prob": 0.99
+    },
+    {
+     "word": "helps,",
+     "start": 226.46,
+     "end": 226.96,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "start": 227.2,
+   "end": 232.08,
+   "text": "though the best multiple depends on the GPU and on how many bits each number uses.",
+   "words": [
+    {
+     "word": "though",
+     "start": 227.2,
+     "end": 227.5,
+     "prob": 0.993
+    },
+    {
+     "word": "the",
+     "start": 227.5,
+     "end": 227.64,
+     "prob": 0.994
+    },
+    {
+     "word": "best",
+     "start": 227.64,
+     "end": 227.86,
+     "prob": 0.992
+    },
+    {
+     "word": "multiple",
+     "start": 227.86,
+     "end": 228.28,
+     "prob": 0.98
+    },
+    {
+     "word": "depends",
+     "start": 228.28,
+     "end": 228.64,
+     "prob": 0.992
+    },
+    {
+     "word": "on",
+     "start": 228.64,
+     "end": 228.92,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 228.92,
+     "end": 229.04,
+     "prob": 0.995
+    },
+    {
+     "word": "GPU",
+     "start": 229.04,
+     "end": 229.34,
+     "prob": 0.991
+    },
+    {
+     "word": "and",
+     "start": 229.34,
+     "end": 230.22,
+     "prob": 0.911
+    },
+    {
+     "word": "on",
+     "start": 230.22,
+     "end": 230.42,
+     "prob": 0.881
+    },
+    {
+     "word": "how",
+     "start": 230.42,
+     "end": 230.6,
+     "prob": 0.994
+    },
+    {
+     "word": "many",
+     "start": 230.6,
+     "end": 230.8,
+     "prob": 0.996
+    },
+    {
+     "word": "bits",
+     "start": 230.8,
+     "end": 231.1,
+     "prob": 0.997
+    },
+    {
+     "word": "each",
+     "start": 231.1,
+     "end": 231.4,
+     "prob": 0.994
+    },
+    {
+     "word": "number",
+     "start": 231.4,
+     "end": 231.66,
+     "prob": 0.996
+    },
+    {
+     "word": "uses.",
+     "start": 231.66,
+     "end": 232.08,
+     "prob": 0.992
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "start": 233.2,
+   "end": 236.1,
+   "text": "The second way is that the cooks are waiting for ingredients.",
+   "words": [
+    {
+     "word": "The",
+     "start": 233.2,
+     "end": 233.46,
+     "prob": 0.981
+    },
+    {
+     "word": "second",
+     "start": 233.46,
+     "end": 233.68,
+     "prob": 0.994
+    },
+    {
+     "word": "way",
+     "start": 233.68,
+     "end": 234.0,
+     "prob": 0.991
+    },
+    {
+     "word": "is",
+     "start": 234.0,
+     "end": 234.42,
+     "prob": 0.965
+    },
+    {
+     "word": "that",
+     "start": 234.42,
+     "end": 234.56,
+     "prob": 0.986
+    },
+    {
+     "word": "the",
+     "start": 234.56,
+     "end": 234.68,
+     "prob": 0.972
+    },
+    {
+     "word": "cooks",
+     "start": 234.68,
+     "end": 234.84,
+     "prob": 0.993
+    },
+    {
+     "word": "are",
+     "start": 234.84,
+     "end": 235.04,
+     "prob": 0.998
+    },
+    {
+     "word": "waiting",
+     "start": 235.04,
+     "end": 235.26,
+     "prob": 0.998
+    },
+    {
+     "word": "for",
+     "start": 235.26,
+     "end": 235.58,
+     "prob": 0.998
+    },
+    {
+     "word": "ingredients.",
+     "start": 235.58,
+     "end": 236.1,
+     "prob": 0.985
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "start": 237.08,
+   "end": 242.66,
+   "text": "The data sits in main memory, which is a pantry down the hall. Every kernel walks there for its",
+   "words": [
+    {
+     "word": "The",
+     "start": 237.08,
+     "end": 237.28,
+     "prob": 0.992
+    },
+    {
+     "word": "data",
+     "start": 237.28,
+     "end": 237.56,
+     "prob": 0.995
+    },
+    {
+     "word": "sits",
+     "start": 237.56,
+     "end": 237.9,
+     "prob": 0.988
+    },
+    {
+     "word": "in",
+     "start": 237.9,
+     "end": 238.18,
+     "prob": 0.997
+    },
+    {
+     "word": "main",
+     "start": 238.18,
+     "end": 238.38,
+     "prob": 0.932
+    },
+    {
+     "word": "memory,",
+     "start": 238.38,
+     "end": 238.82,
+     "prob": 0.994
+    },
+    {
+     "word": "which",
+     "start": 239.08,
+     "end": 239.24,
+     "prob": 0.99
+    },
+    {
+     "word": "is",
+     "start": 239.24,
+     "end": 239.38,
+     "prob": 0.988
+    },
+    {
+     "word": "a",
+     "start": 239.38,
+     "end": 239.46,
+     "prob": 0.996
+    },
+    {
+     "word": "pantry",
+     "start": 239.46,
+     "end": 239.88,
+     "prob": 0.987
+    },
+    {
+     "word": "down",
+     "start": 239.88,
+     "end": 240.08,
+     "prob": 0.988
+    },
+    {
+     "word": "the",
+     "start": 240.08,
+     "end": 240.22,
+     "prob": 0.999
+    },
+    {
+     "word": "hall.",
+     "start": 240.22,
+     "end": 240.48,
+     "prob": 0.994
+    },
+    {
+     "word": "Every",
+     "start": 241.14,
+     "end": 241.4,
+     "prob": 0.997
+    },
+    {
+     "word": "kernel",
+     "start": 241.4,
+     "end": 241.68,
+     "prob": 0.848
+    },
+    {
+     "word": "walks",
+     "start": 241.68,
+     "end": 242.04,
+     "prob": 0.994
+    },
+    {
+     "word": "there",
+     "start": 242.04,
+     "end": 242.34,
+     "prob": 0.984
+    },
+    {
+     "word": "for",
+     "start": 242.34,
+     "end": 242.48,
+     "prob": 0.996
+    },
+    {
+     "word": "its",
+     "start": 242.48,
+     "end": 242.74,
+     "prob": 0.989
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "start": 242.74,
+   "end": 248.44,
+   "text": "inputs and walks back with the result, and one trip takes hundreds of times longer than one chop.",
+   "words": [
+    {
+     "word": "inputs",
+     "start": 242.74,
+     "end": 243.1,
+     "prob": 0.02
+    },
+    {
+     "word": "and",
+     "start": 243.1,
+     "end": 243.4,
+     "prob": 0.829
+    },
+    {
+     "word": "walks",
+     "start": 243.4,
+     "end": 243.74,
+     "prob": 0.957
+    },
+    {
+     "word": "back",
+     "start": 243.74,
+     "end": 244.04,
+     "prob": 0.995
+    },
+    {
+     "word": "with",
+     "start": 244.04,
+     "end": 244.24,
+     "prob": 0.969
+    },
+    {
+     "word": "the",
+     "start": 244.24,
+     "end": 244.34,
+     "prob": 0.983
+    },
+    {
+     "word": "result,",
+     "start": 244.34,
+     "end": 244.64,
+     "prob": 0.988
+    },
+    {
+     "word": "and",
+     "start": 245.1,
+     "end": 245.16,
+     "prob": 0.981
+    },
+    {
+     "word": "one",
+     "start": 245.16,
+     "end": 245.4,
+     "prob": 0.975
+    },
+    {
+     "word": "trip",
+     "start": 245.4,
+     "end": 245.72,
+     "prob": 0.979
+    },
+    {
+     "word": "takes",
+     "start": 245.72,
+     "end": 246.04,
+     "prob": 0.988
+    },
+    {
+     "word": "hundreds",
+     "start": 246.04,
+     "end": 246.46,
+     "prob": 0.966
+    },
+    {
+     "word": "of",
+     "start": 246.46,
+     "end": 246.68,
+     "prob": 0.995
+    },
+    {
+     "word": "times",
+     "start": 246.68,
+     "end": 246.96,
+     "prob": 0.993
+    },
+    {
+     "word": "longer",
+     "start": 246.96,
+     "end": 247.4,
+     "prob": 0.991
+    },
+    {
+     "word": "than",
+     "start": 247.4,
+     "end": 247.74,
+     "prob": 0.985
+    },
+    {
+     "word": "one",
+     "start": 247.74,
+     "end": 248.14,
+     "prob": 0.971
+    },
+    {
+     "word": "chop.",
+     "start": 248.14,
+     "end": 248.44,
+     "prob": 0.912
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "start": 249.28,
+   "end": 252.58,
+   "text": "The chip does have a little counter space right next to the stations,",
+   "words": [
+    {
+     "word": "The",
+     "start": 249.28,
+     "end": 249.6,
+     "prob": 0.977
+    },
+    {
+     "word": "chip",
+     "start": 249.6,
+     "end": 249.74,
+     "prob": 0.983
+    },
+    {
+     "word": "does",
+     "start": 249.74,
+     "end": 250.02,
+     "prob": 0.978
+    },
+    {
+     "word": "have",
+     "start": 250.02,
+     "end": 250.28,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 250.28,
+     "end": 250.4,
+     "prob": 0.988
+    },
+    {
+     "word": "little",
+     "start": 250.4,
+     "end": 250.62,
+     "prob": 0.996
+    },
+    {
+     "word": "counter",
+     "start": 250.62,
+     "end": 250.9,
+     "prob": 0.907
+    },
+    {
+     "word": "space",
+     "start": 250.9,
+     "end": 251.32,
+     "prob": 0.911
+    },
+    {
+     "word": "right",
+     "start": 251.32,
+     "end": 251.62,
+     "prob": 0.913
+    },
+    {
+     "word": "next",
+     "start": 251.62,
+     "end": 251.88,
+     "prob": 0.998
+    },
+    {
+     "word": "to",
+     "start": 251.88,
+     "end": 252.04,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 252.04,
+     "end": 252.18,
+     "prob": 0.983
+    },
+    {
+     "word": "stations,",
+     "start": 252.18,
+     "end": 252.58,
+     "prob": 0.839
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "start": 252.88,
+   "end": 258.22,
+   "text": "and anything left there can be grabbed instantly. What matters is how much chopping happens per",
+   "words": [
+    {
+     "word": "and",
+     "start": 252.88,
+     "end": 252.9,
+     "prob": 0.98
+    },
+    {
+     "word": "anything",
+     "start": 252.9,
+     "end": 253.3,
+     "prob": 0.996
+    },
+    {
+     "word": "left",
+     "start": 253.3,
+     "end": 253.58,
+     "prob": 0.998
+    },
+    {
+     "word": "there",
+     "start": 253.58,
+     "end": 253.88,
+     "prob": 0.953
+    },
+    {
+     "word": "can",
+     "start": 253.88,
+     "end": 254.0,
+     "prob": 0.996
+    },
+    {
+     "word": "be",
+     "start": 254.0,
+     "end": 254.12,
+     "prob": 0.997
+    },
+    {
+     "word": "grabbed",
+     "start": 254.12,
+     "end": 254.38,
+     "prob": 0.993
+    },
+    {
+     "word": "instantly.",
+     "start": 254.38,
+     "end": 254.96,
+     "prob": 0.997
+    },
+    {
+     "word": "What",
+     "start": 255.84,
+     "end": 256.12,
+     "prob": 0.989
+    },
+    {
+     "word": "matters",
+     "start": 256.12,
+     "end": 256.44,
+     "prob": 0.996
+    },
+    {
+     "word": "is",
+     "start": 256.44,
+     "end": 256.76,
+     "prob": 0.988
+    },
+    {
+     "word": "how",
+     "start": 256.76,
+     "end": 256.96,
+     "prob": 0.997
+    },
+    {
+     "word": "much",
+     "start": 256.96,
+     "end": 257.1,
+     "prob": 0.999
+    },
+    {
+     "word": "chopping",
+     "start": 257.1,
+     "end": 257.54,
+     "prob": 0.982
+    },
+    {
+     "word": "happens",
+     "start": 257.54,
+     "end": 257.98,
+     "prob": 0.994
+    },
+    {
+     "word": "per",
+     "start": 257.98,
+     "end": 258.22,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "start": 258.22,
+   "end": 264.86,
+   "text": "trip. A big matrix multiply is a cook who carries back a whole crate and chops all day. Small steps",
+   "words": [
+    {
+     "word": "trip.",
+     "start": 258.22,
+     "end": 258.6,
+     "prob": 0.989
+    },
+    {
+     "word": "A",
+     "start": 259.08,
+     "end": 259.24,
+     "prob": 0.992
+    },
+    {
+     "word": "big",
+     "start": 259.24,
+     "end": 259.36,
+     "prob": 0.883
+    },
+    {
+     "word": "matrix",
+     "start": 259.36,
+     "end": 259.78,
+     "prob": 0.979
+    },
+    {
+     "word": "multiply",
+     "start": 259.78,
+     "end": 260.38,
+     "prob": 0.939
+    },
+    {
+     "word": "is",
+     "start": 260.38,
+     "end": 260.66,
+     "prob": 0.99
+    },
+    {
+     "word": "a",
+     "start": 260.66,
+     "end": 260.84,
+     "prob": 0.996
+    },
+    {
+     "word": "cook",
+     "start": 260.84,
+     "end": 260.94,
+     "prob": 0.997
+    },
+    {
+     "word": "who",
+     "start": 260.94,
+     "end": 261.16,
+     "prob": 0.99
+    },
+    {
+     "word": "carries",
+     "start": 261.16,
+     "end": 261.44,
+     "prob": 0.995
+    },
+    {
+     "word": "back",
+     "start": 261.44,
+     "end": 261.68,
+     "prob": 0.984
+    },
+    {
+     "word": "a",
+     "start": 261.68,
+     "end": 261.78,
+     "prob": 0.996
+    },
+    {
+     "word": "whole",
+     "start": 261.78,
+     "end": 262.0,
+     "prob": 0.993
+    },
+    {
+     "word": "crate",
+     "start": 262.0,
+     "end": 262.32,
+     "prob": 0.981
+    },
+    {
+     "word": "and",
+     "start": 262.32,
+     "end": 262.78,
+     "prob": 0.884
+    },
+    {
+     "word": "chops",
+     "start": 262.78,
+     "end": 263.0,
+     "prob": 0.982
+    },
+    {
+     "word": "all",
+     "start": 263.0,
+     "end": 263.26,
+     "prob": 0.996
+    },
+    {
+     "word": "day.",
+     "start": 263.26,
+     "end": 263.52,
+     "prob": 0.997
+    },
+    {
+     "word": "Small",
+     "start": 264.24,
+     "end": 264.48,
+     "prob": 0.957
+    },
+    {
+     "word": "steps",
+     "start": 264.48,
+     "end": 264.86,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "start": 264.86,
+   "end": 271.32,
+   "text": "are a cook who walks to the pantry, chops once, and walks back. Those small steps include relu,",
+   "words": [
+    {
+     "word": "are",
+     "start": 264.86,
+     "end": 265.1,
+     "prob": 0.989
+    },
+    {
+     "word": "a",
+     "start": 265.1,
+     "end": 265.2,
+     "prob": 0.993
+    },
+    {
+     "word": "cook",
+     "start": 265.2,
+     "end": 265.32,
+     "prob": 0.998
+    },
+    {
+     "word": "who",
+     "start": 265.32,
+     "end": 265.56,
+     "prob": 0.993
+    },
+    {
+     "word": "walks",
+     "start": 265.56,
+     "end": 265.82,
+     "prob": 0.995
+    },
+    {
+     "word": "to",
+     "start": 265.82,
+     "end": 266.0,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 266.0,
+     "end": 266.12,
+     "prob": 0.993
+    },
+    {
+     "word": "pantry,",
+     "start": 266.12,
+     "end": 266.56,
+     "prob": 0.995
+    },
+    {
+     "word": "chops",
+     "start": 266.8,
+     "end": 267.08,
+     "prob": 0.992
+    },
+    {
+     "word": "once,",
+     "start": 267.08,
+     "end": 267.4,
+     "prob": 0.992
+    },
+    {
+     "word": "and",
+     "start": 267.76,
+     "end": 267.88,
+     "prob": 0.992
+    },
+    {
+     "word": "walks",
+     "start": 267.88,
+     "end": 268.1,
+     "prob": 0.992
+    },
+    {
+     "word": "back.",
+     "start": 268.1,
+     "end": 268.46,
+     "prob": 0.999
+    },
+    {
+     "word": "Those",
+     "start": 269.32,
+     "end": 269.58,
+     "prob": 0.981
+    },
+    {
+     "word": "small",
+     "start": 269.58,
+     "end": 269.94,
+     "prob": 0.993
+    },
+    {
+     "word": "steps",
+     "start": 269.94,
+     "end": 270.36,
+     "prob": 0.998
+    },
+    {
+     "word": "include",
+     "start": 270.36,
+     "end": 270.76,
+     "prob": 0.99
+    },
+    {
+     "word": "relu,",
+     "start": 270.76,
+     "end": 271.32,
+     "prob": 0.838
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "start": 271.32,
+   "end": 277.42,
+   "text": "which zeroes out negative numbers, normalisation, which we scales numbers to a standard range,",
+   "words": [
+    {
+     "word": "which",
+     "start": 271.32,
+     "end": 271.74,
+     "prob": 0.332
+    },
+    {
+     "word": "zeroes",
+     "start": 271.74,
+     "end": 272.28,
+     "prob": 0.845
+    },
+    {
+     "word": "out",
+     "start": 272.28,
+     "end": 272.48,
+     "prob": 0.987
+    },
+    {
+     "word": "negative",
+     "start": 272.48,
+     "end": 272.82,
+     "prob": 0.995
+    },
+    {
+     "word": "numbers,",
+     "start": 272.82,
+     "end": 273.38,
+     "prob": 0.997
+    },
+    {
+     "word": "normalisation,",
+     "start": 274.0,
+     "end": 274.68,
+     "prob": 0.796
+    },
+    {
+     "word": "which",
+     "start": 275.2,
+     "end": 275.24,
+     "prob": 0.993
+    },
+    {
+     "word": "we",
+     "start": 275.24,
+     "end": 275.54,
+     "prob": 0.779
+    },
+    {
+     "word": "scales",
+     "start": 275.54,
+     "end": 275.96,
+     "prob": 0.925
+    },
+    {
+     "word": "numbers",
+     "start": 275.96,
+     "end": 276.3,
+     "prob": 0.996
+    },
+    {
+     "word": "to",
+     "start": 276.3,
+     "end": 276.56,
+     "prob": 0.997
+    },
+    {
+     "word": "a",
+     "start": 276.56,
+     "end": 276.66,
+     "prob": 0.988
+    },
+    {
+     "word": "standard",
+     "start": 276.66,
+     "end": 276.96,
+     "prob": 0.998
+    },
+    {
+     "word": "range,",
+     "start": 276.96,
+     "end": 277.42,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "start": 277.78,
+   "end": 283.36,
+   "text": "and softmax, which turns scores into percentages. In BERT, a well-known language model,",
+   "words": [
+    {
+     "word": "and",
+     "start": 277.78,
+     "end": 278.04,
+     "prob": 0.997
+    },
+    {
+     "word": "softmax,",
+     "start": 278.04,
+     "end": 278.6,
+     "prob": 0.871
+    },
+    {
+     "word": "which",
+     "start": 278.88,
+     "end": 279.06,
+     "prob": 0.997
+    },
+    {
+     "word": "turns",
+     "start": 279.06,
+     "end": 279.3,
+     "prob": 0.968
+    },
+    {
+     "word": "scores",
+     "start": 279.3,
+     "end": 279.66,
+     "prob": 0.994
+    },
+    {
+     "word": "into",
+     "start": 279.66,
+     "end": 279.94,
+     "prob": 0.99
+    },
+    {
+     "word": "percentages.",
+     "start": 279.94,
+     "end": 280.44,
+     "prob": 0.993
+    },
+    {
+     "word": "In",
+     "start": 281.34,
+     "end": 281.58,
+     "prob": 0.99
+    },
+    {
+     "word": "BERT,",
+     "start": 281.58,
+     "end": 282.0,
+     "prob": 0.908
+    },
+    {
+     "word": "a",
+     "start": 282.18,
+     "end": 282.34,
+     "prob": 0.942
+    },
+    {
+     "word": "well",
+     "start": 282.34,
+     "end": 282.48,
+     "prob": 0.998
+    },
+    {
+     "word": "-known",
+     "start": 282.48,
+     "end": 282.66,
+     "prob": 0.934
+    },
+    {
+     "word": "language",
+     "start": 282.66,
+     "end": 283.02,
+     "prob": 0.995
+    },
+    {
+     "word": "model,",
+     "start": 283.02,
+     "end": 283.36,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "start": 283.76,
+   "end": 288.56,
+   "text": "those steps made up about 0.2% of the math and over a third of the time.",
+   "words": [
+    {
+     "word": "those",
+     "start": 283.76,
+     "end": 283.92,
+     "prob": 0.993
+    },
+    {
+     "word": "steps",
+     "start": 283.92,
+     "end": 284.3,
+     "prob": 0.997
+    },
+    {
+     "word": "made",
+     "start": 284.3,
+     "end": 284.6,
+     "prob": 0.988
+    },
+    {
+     "word": "up",
+     "start": 284.6,
+     "end": 284.78,
+     "prob": 0.996
+    },
+    {
+     "word": "about",
+     "start": 284.78,
+     "end": 285.04,
+     "prob": 0.988
+    },
+    {
+     "word": "0",
+     "start": 285.04,
+     "end": 285.34,
+     "prob": 0.984
+    },
+    {
+     "word": ".2",
+     "start": 285.34,
+     "end": 285.98,
+     "prob": 0.996
+    },
+    {
+     "word": "%",
+     "start": 285.98,
+     "end": 286.3,
+     "prob": 0.904
+    },
+    {
+     "word": "of",
+     "start": 286.3,
+     "end": 286.48,
+     "prob": 0.995
+    },
+    {
+     "word": "the",
+     "start": 286.48,
+     "end": 286.58,
+     "prob": 0.998
+    },
+    {
+     "word": "math",
+     "start": 286.58,
+     "end": 286.84,
+     "prob": 0.985
+    },
+    {
+     "word": "and",
+     "start": 286.84,
+     "end": 287.26,
+     "prob": 0.472
+    },
+    {
+     "word": "over",
+     "start": 287.26,
+     "end": 287.46,
+     "prob": 0.997
+    },
+    {
+     "word": "a",
+     "start": 287.46,
+     "end": 287.7,
+     "prob": 0.929
+    },
+    {
+     "word": "third",
+     "start": 287.7,
+     "end": 287.88,
+     "prob": 0.994
+    },
+    {
+     "word": "of",
+     "start": 287.88,
+     "end": 288.1,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 288.1,
+     "end": 288.22,
+     "prob": 0.996
+    },
+    {
+     "word": "time.",
+     "start": 288.22,
+     "end": 288.56,
+     "prob": 0.999
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "start": 289.56,
+   "end": 295.6,
+   "text": "Take any two small steps in a row, say cosine and then cosine again. As two kernels,",
+   "words": [
+    {
+     "word": "Take",
+     "start": 289.56,
+     "end": 289.76,
+     "prob": 0.996
+    },
+    {
+     "word": "any",
+     "start": 289.76,
+     "end": 290.02,
+     "prob": 0.996
+    },
+    {
+     "word": "two",
+     "start": 290.02,
+     "end": 290.36,
+     "prob": 0.964
+    },
+    {
+     "word": "small",
+     "start": 290.36,
+     "end": 290.72,
+     "prob": 0.994
+    },
+    {
+     "word": "steps",
+     "start": 290.72,
+     "end": 291.04,
+     "prob": 0.999
+    },
+    {
+     "word": "in",
+     "start": 291.04,
+     "end": 291.24,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 291.24,
+     "end": 291.36,
+     "prob": 0.997
+    },
+    {
+     "word": "row,",
+     "start": 291.36,
+     "end": 291.6,
+     "prob": 1.0
+    },
+    {
+     "word": "say",
+     "start": 291.92,
+     "end": 292.14,
+     "prob": 0.995
+    },
+    {
+     "word": "cosine",
+     "start": 292.14,
+     "end": 292.92,
+     "prob": 0.875
+    },
+    {
+     "word": "and",
+     "start": 292.92,
+     "end": 293.06,
+     "prob": 0.921
+    },
+    {
+     "word": "then",
+     "start": 293.06,
+     "end": 293.18,
+     "prob": 0.887
+    },
+    {
+     "word": "cosine",
+     "start": 293.18,
+     "end": 293.82,
+     "prob": 0.999
+    },
+    {
+     "word": "again.",
+     "start": 293.82,
+     "end": 294.06,
+     "prob": 0.99
+    },
+    {
+     "word": "As",
+     "start": 294.62,
+     "end": 294.94,
+     "prob": 0.995
+    },
+    {
+     "word": "two",
+     "start": 294.94,
+     "end": 295.22,
+     "prob": 0.974
+    },
+    {
+     "word": "kernels,",
+     "start": 295.22,
+     "end": 295.6,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "start": 295.6,
+   "end": 300.2,
+   "text": "that makes four trips, which are fetch, put back, fetch again, and put back.",
+   "words": [
+    {
+     "word": "that",
+     "start": 295.6,
+     "end": 295.86,
+     "prob": 0.879
+    },
+    {
+     "word": "makes",
+     "start": 295.86,
+     "end": 296.08,
+     "prob": 0.945
+    },
+    {
+     "word": "four",
+     "start": 296.08,
+     "end": 296.52,
+     "prob": 0.664
+    },
+    {
+     "word": "trips,",
+     "start": 296.52,
+     "end": 296.94,
+     "prob": 0.957
+    },
+    {
+     "word": "which",
+     "start": 297.2,
+     "end": 297.28,
+     "prob": 0.948
+    },
+    {
+     "word": "are",
+     "start": 297.28,
+     "end": 297.42,
+     "prob": 0.981
+    },
+    {
+     "word": "fetch,",
+     "start": 297.42,
+     "end": 297.68,
+     "prob": 0.809
+    },
+    {
+     "word": "put",
+     "start": 297.98,
+     "end": 298.16,
+     "prob": 0.983
+    },
+    {
+     "word": "back,",
+     "start": 298.16,
+     "end": 298.42,
+     "prob": 0.801
+    },
+    {
+     "word": "fetch",
+     "start": 298.74,
+     "end": 298.92,
+     "prob": 0.999
+    },
+    {
+     "word": "again,",
+     "start": 298.92,
+     "end": 299.24,
+     "prob": 0.988
+    },
+    {
+     "word": "and",
+     "start": 299.52,
+     "end": 299.6,
+     "prob": 0.961
+    },
+    {
+     "word": "put",
+     "start": 299.6,
+     "end": 299.78,
+     "prob": 0.993
+    },
+    {
+     "word": "back.",
+     "start": 299.78,
+     "end": 300.2,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "start": 301.02,
+   "end": 305.46,
+   "text": "Merged into one kernel, the middle result stays on the counter, and it makes two trips,",
+   "words": [
+    {
+     "word": "Merged",
+     "start": 301.02,
+     "end": 301.2,
+     "prob": 0.847
+    },
+    {
+     "word": "into",
+     "start": 301.2,
+     "end": 301.38,
+     "prob": 0.99
+    },
+    {
+     "word": "one",
+     "start": 301.38,
+     "end": 301.76,
+     "prob": 0.992
+    },
+    {
+     "word": "kernel,",
+     "start": 301.76,
+     "end": 302.16,
+     "prob": 0.993
+    },
+    {
+     "word": "the",
+     "start": 302.46,
+     "end": 302.62,
+     "prob": 0.994
+    },
+    {
+     "word": "middle",
+     "start": 302.62,
+     "end": 302.86,
+     "prob": 0.927
+    },
+    {
+     "word": "result",
+     "start": 302.86,
+     "end": 303.18,
+     "prob": 0.994
+    },
+    {
+     "word": "stays",
+     "start": 303.18,
+     "end": 303.44,
+     "prob": 0.99
+    },
+    {
+     "word": "on",
+     "start": 303.44,
+     "end": 303.66,
+     "prob": 0.995
+    },
+    {
+     "word": "the",
+     "start": 303.66,
+     "end": 303.76,
+     "prob": 0.997
+    },
+    {
+     "word": "counter,",
+     "start": 303.76,
+     "end": 304.16,
+     "prob": 0.994
+    },
+    {
+     "word": "and",
+     "start": 304.48,
+     "end": 304.58,
+     "prob": 0.978
+    },
+    {
+     "word": "it",
+     "start": 304.58,
+     "end": 304.66,
+     "prob": 0.979
+    },
+    {
+     "word": "makes",
+     "start": 304.66,
+     "end": 304.84,
+     "prob": 0.994
+    },
+    {
+     "word": "two",
+     "start": 304.84,
+     "end": 305.1,
+     "prob": 0.984
+    },
+    {
+     "word": "trips,",
+     "start": 305.1,
+     "end": 305.46,
+     "prob": 0.992
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "start": 305.7,
+   "end": 311.94,
+   "text": "which runs about twice as fast. This is called fusion. Plain PyTorch, the most common toolkit",
+   "words": [
+    {
+     "word": "which",
+     "start": 305.7,
+     "end": 305.82,
+     "prob": 0.995
+    },
+    {
+     "word": "runs",
+     "start": 305.82,
+     "end": 306.0,
+     "prob": 0.97
+    },
+    {
+     "word": "about",
+     "start": 306.0,
+     "end": 306.2,
+     "prob": 0.992
+    },
+    {
+     "word": "twice",
+     "start": 306.2,
+     "end": 306.52,
+     "prob": 0.999
+    },
+    {
+     "word": "as",
+     "start": 306.52,
+     "end": 306.76,
+     "prob": 0.999
+    },
+    {
+     "word": "fast.",
+     "start": 306.76,
+     "end": 307.18,
+     "prob": 0.999
+    },
+    {
+     "word": "This",
+     "start": 307.78,
+     "end": 307.86,
+     "prob": 0.988
+    },
+    {
+     "word": "is",
+     "start": 307.86,
+     "end": 308.0,
+     "prob": 0.997
+    },
+    {
+     "word": "called",
+     "start": 308.0,
+     "end": 308.16,
+     "prob": 0.996
+    },
+    {
+     "word": "fusion.",
+     "start": 308.16,
+     "end": 308.6,
+     "prob": 0.585
+    },
+    {
+     "word": "Plain",
+     "start": 309.84,
+     "end": 310.0,
+     "prob": 0.651
+    },
+    {
+     "word": "PyTorch,",
+     "start": 310.0,
+     "end": 310.7,
+     "prob": 0.854
+    },
+    {
+     "word": "the",
+     "start": 310.78,
+     "end": 310.96,
+     "prob": 0.993
+    },
+    {
+     "word": "most",
+     "start": 310.96,
+     "end": 311.1,
+     "prob": 0.996
+    },
+    {
+     "word": "common",
+     "start": 311.1,
+     "end": 311.5,
+     "prob": 0.997
+    },
+    {
+     "word": "toolkit",
+     "start": 311.5,
+     "end": 311.94,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "start": 311.94,
+   "end": 317.02,
+   "text": "for building models in Python, runs one operation at a time and cannot see what comes next,",
+   "words": [
+    {
+     "word": "for",
+     "start": 311.94,
+     "end": 312.16,
+     "prob": 0.995
+    },
+    {
+     "word": "building",
+     "start": 312.16,
+     "end": 312.48,
+     "prob": 0.996
+    },
+    {
+     "word": "models",
+     "start": 312.48,
+     "end": 312.76,
+     "prob": 0.986
+    },
+    {
+     "word": "in",
+     "start": 312.76,
+     "end": 313.02,
+     "prob": 0.995
+    },
+    {
+     "word": "Python,",
+     "start": 313.02,
+     "end": 313.38,
+     "prob": 0.956
+    },
+    {
+     "word": "runs",
+     "start": 313.74,
+     "end": 313.9,
+     "prob": 0.996
+    },
+    {
+     "word": "one",
+     "start": 313.9,
+     "end": 314.18,
+     "prob": 0.994
+    },
+    {
+     "word": "operation",
+     "start": 314.18,
+     "end": 314.54,
+     "prob": 0.997
+    },
+    {
+     "word": "at",
+     "start": 314.54,
+     "end": 314.74,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 314.74,
+     "end": 314.88,
+     "prob": 0.995
+    },
+    {
+     "word": "time",
+     "start": 314.88,
+     "end": 315.18,
+     "prob": 1.0
+    },
+    {
+     "word": "and",
+     "start": 315.18,
+     "end": 315.54,
+     "prob": 0.562
+    },
+    {
+     "word": "cannot",
+     "start": 315.54,
+     "end": 315.84,
+     "prob": 0.979
+    },
+    {
+     "word": "see",
+     "start": 315.84,
+     "end": 316.16,
+     "prob": 0.999
+    },
+    {
+     "word": "what",
+     "start": 316.16,
+     "end": 316.38,
+     "prob": 0.998
+    },
+    {
+     "word": "comes",
+     "start": 316.38,
+     "end": 316.58,
+     "prob": 0.994
+    },
+    {
+     "word": "next,",
+     "start": 316.58,
+     "end": 317.02,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "start": 317.26,
+   "end": 322.34,
+   "text": "so it cannot fuse them. Torch.compile is a compiler, which is a program that reads",
+   "words": [
+    {
+     "word": "so",
+     "start": 317.26,
+     "end": 317.36,
+     "prob": 0.994
+    },
+    {
+     "word": "it",
+     "start": 317.36,
+     "end": 317.44,
+     "prob": 0.986
+    },
+    {
+     "word": "cannot",
+     "start": 317.44,
+     "end": 317.64,
+     "prob": 0.977
+    },
+    {
+     "word": "fuse",
+     "start": 317.64,
+     "end": 317.94,
+     "prob": 0.991
+    },
+    {
+     "word": "them.",
+     "start": 317.94,
+     "end": 318.24,
+     "prob": 0.995
+    },
+    {
+     "word": "Torch",
+     "start": 319.1,
+     "end": 319.24,
+     "prob": 0.909
+    },
+    {
+     "word": ".compile",
+     "start": 319.24,
+     "end": 320.0,
+     "prob": 0.922
+    },
+    {
+     "word": "is",
+     "start": 320.0,
+     "end": 320.28,
+     "prob": 0.97
+    },
+    {
+     "word": "a",
+     "start": 320.28,
+     "end": 320.42,
+     "prob": 0.995
+    },
+    {
+     "word": "compiler,",
+     "start": 320.42,
+     "end": 320.84,
+     "prob": 0.994
+    },
+    {
+     "word": "which",
+     "start": 321.08,
+     "end": 321.28,
+     "prob": 0.988
+    },
+    {
+     "word": "is",
+     "start": 321.28,
+     "end": 321.38,
+     "prob": 0.993
+    },
+    {
+     "word": "a",
+     "start": 321.38,
+     "end": 321.5,
+     "prob": 0.996
+    },
+    {
+     "word": "program",
+     "start": 321.5,
+     "end": 321.78,
+     "prob": 0.818
+    },
+    {
+     "word": "that",
+     "start": 321.78,
+     "end": 322.0,
+     "prob": 0.994
+    },
+    {
+     "word": "reads",
+     "start": 322.0,
+     "end": 322.34,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "start": 322.34,
+   "end": 327.62,
+   "text": "our instructions and rearranges them before anything runs. It reads the whole model first,",
+   "words": [
+    {
+     "word": "our",
+     "start": 322.34,
+     "end": 322.54,
+     "prob": 0.334
+    },
+    {
+     "word": "instructions",
+     "start": 322.54,
+     "end": 323.12,
+     "prob": 0.991
+    },
+    {
+     "word": "and",
+     "start": 323.12,
+     "end": 323.46,
+     "prob": 0.855
+    },
+    {
+     "word": "rearranges",
+     "start": 323.46,
+     "end": 324.12,
+     "prob": 0.953
+    },
+    {
+     "word": "them",
+     "start": 324.12,
+     "end": 324.32,
+     "prob": 0.992
+    },
+    {
+     "word": "before",
+     "start": 324.32,
+     "end": 324.72,
+     "prob": 0.988
+    },
+    {
+     "word": "anything",
+     "start": 324.72,
+     "end": 325.14,
+     "prob": 0.988
+    },
+    {
+     "word": "runs.",
+     "start": 325.14,
+     "end": 325.52,
+     "prob": 0.976
+    },
+    {
+     "word": "It",
+     "start": 326.18,
+     "end": 326.36,
+     "prob": 0.986
+    },
+    {
+     "word": "reads",
+     "start": 326.36,
+     "end": 326.56,
+     "prob": 0.986
+    },
+    {
+     "word": "the",
+     "start": 326.56,
+     "end": 326.7,
+     "prob": 0.993
+    },
+    {
+     "word": "whole",
+     "start": 326.7,
+     "end": 326.94,
+     "prob": 0.99
+    },
+    {
+     "word": "model",
+     "start": 326.94,
+     "end": 327.18,
+     "prob": 0.992
+    },
+    {
+     "word": "first,",
+     "start": 327.18,
+     "end": 327.62,
+     "prob": 0.975
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "start": 327.82,
+   "end": 332.02,
+   "text": "like a chef who reads the full recipe before starting, and merges what it can,",
+   "words": [
+    {
+     "word": "like",
+     "start": 327.82,
+     "end": 328.02,
+     "prob": 0.987
+    },
+    {
+     "word": "a",
+     "start": 328.02,
+     "end": 328.18,
+     "prob": 0.994
+    },
+    {
+     "word": "chef",
+     "start": 328.18,
+     "end": 328.38,
+     "prob": 0.959
+    },
+    {
+     "word": "who",
+     "start": 328.38,
+     "end": 328.58,
+     "prob": 0.978
+    },
+    {
+     "word": "reads",
+     "start": 328.58,
+     "end": 328.78,
+     "prob": 0.985
+    },
+    {
+     "word": "the",
+     "start": 328.78,
+     "end": 328.98,
+     "prob": 0.989
+    },
+    {
+     "word": "full",
+     "start": 328.98,
+     "end": 329.22,
+     "prob": 0.992
+    },
+    {
+     "word": "recipe",
+     "start": 329.22,
+     "end": 329.62,
+     "prob": 0.998
+    },
+    {
+     "word": "before",
+     "start": 329.62,
+     "end": 329.94,
+     "prob": 0.988
+    },
+    {
+     "word": "starting,",
+     "start": 329.94,
+     "end": 330.46,
+     "prob": 0.995
+    },
+    {
+     "word": "and",
+     "start": 330.84,
+     "end": 331.0,
+     "prob": 0.995
+    },
+    {
+     "word": "merges",
+     "start": 331.0,
+     "end": 331.42,
+     "prob": 0.989
+    },
+    {
+     "word": "what",
+     "start": 331.42,
+     "end": 331.6,
+     "prob": 0.991
+    },
+    {
+     "word": "it",
+     "start": 331.6,
+     "end": 331.72,
+     "prob": 0.974
+    },
+    {
+     "word": "can,",
+     "start": 331.72,
+     "end": 332.02,
+     "prob": 0.999
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "start": 332.48,
+   "end": 337.7,
+   "text": "and we turn it on with one line. The third way is that nobody hands the cooks a job.",
+   "words": [
+    {
+     "word": "and",
+     "start": 332.48,
+     "end": 332.64,
+     "prob": 0.976
+    },
+    {
+     "word": "we",
+     "start": 332.64,
+     "end": 332.76,
+     "prob": 0.963
+    },
+    {
+     "word": "turn",
+     "start": 332.76,
+     "end": 332.9,
+     "prob": 0.996
+    },
+    {
+     "word": "it",
+     "start": 332.9,
+     "end": 333.02,
+     "prob": 0.991
+    },
+    {
+     "word": "on",
+     "start": 333.02,
+     "end": 333.22,
+     "prob": 0.992
+    },
+    {
+     "word": "with",
+     "start": 333.22,
+     "end": 333.42,
+     "prob": 0.986
+    },
+    {
+     "word": "one",
+     "start": 333.42,
+     "end": 333.66,
+     "prob": 0.992
+    },
+    {
+     "word": "line.",
+     "start": 333.66,
+     "end": 333.98,
+     "prob": 0.998
+    },
+    {
+     "word": "The",
+     "start": 334.96,
+     "end": 335.2,
+     "prob": 0.989
+    },
+    {
+     "word": "third",
+     "start": 335.2,
+     "end": 335.44,
+     "prob": 0.992
+    },
+    {
+     "word": "way",
+     "start": 335.44,
+     "end": 335.72,
+     "prob": 0.996
+    },
+    {
+     "word": "is",
+     "start": 335.72,
+     "end": 335.98,
+     "prob": 0.967
+    },
+    {
+     "word": "that",
+     "start": 335.98,
+     "end": 336.12,
+     "prob": 0.994
+    },
+    {
+     "word": "nobody",
+     "start": 336.12,
+     "end": 336.44,
+     "prob": 0.994
+    },
+    {
+     "word": "hands",
+     "start": 336.44,
+     "end": 336.8,
+     "prob": 0.969
+    },
+    {
+     "word": "the",
+     "start": 336.8,
+     "end": 337.0,
+     "prob": 0.994
+    },
+    {
+     "word": "cooks",
+     "start": 337.0,
+     "end": 337.24,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 337.24,
+     "end": 337.44,
+     "prob": 0.996
+    },
+    {
+     "word": "job.",
+     "start": 337.44,
+     "end": 337.7,
+     "prob": 0.969
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "start": 338.44,
+   "end": 342.24,
+   "text": "The CPU is the chef calling out orders, and it does that through Python,",
+   "words": [
+    {
+     "word": "The",
+     "start": 338.44,
+     "end": 338.62,
+     "prob": 0.993
+    },
+    {
+     "word": "CPU",
+     "start": 338.62,
+     "end": 338.9,
+     "prob": 0.976
+    },
+    {
+     "word": "is",
+     "start": 338.9,
+     "end": 339.34,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 339.34,
+     "end": 339.5,
+     "prob": 0.993
+    },
+    {
+     "word": "chef",
+     "start": 339.5,
+     "end": 339.76,
+     "prob": 0.966
+    },
+    {
+     "word": "calling",
+     "start": 339.76,
+     "end": 340.08,
+     "prob": 0.994
+    },
+    {
+     "word": "out",
+     "start": 340.08,
+     "end": 340.32,
+     "prob": 0.994
+    },
+    {
+     "word": "orders,",
+     "start": 340.32,
+     "end": 340.68,
+     "prob": 0.996
+    },
+    {
+     "word": "and",
+     "start": 340.98,
+     "end": 341.18,
+     "prob": 0.993
+    },
+    {
+     "word": "it",
+     "start": 341.18,
+     "end": 341.28,
+     "prob": 0.98
+    },
+    {
+     "word": "does",
+     "start": 341.28,
+     "end": 341.42,
+     "prob": 0.999
+    },
+    {
+     "word": "that",
+     "start": 341.42,
+     "end": 341.64,
+     "prob": 0.995
+    },
+    {
+     "word": "through",
+     "start": 341.64,
+     "end": 341.88,
+     "prob": 0.994
+    },
+    {
+     "word": "Python,",
+     "start": 341.88,
+     "end": 342.24,
+     "prob": 0.883
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "start": 342.66,
+   "end": 347.74,
+   "text": "the language most of this code is written in, which is slow. In the time Python adds two",
+   "words": [
+    {
+     "word": "the",
+     "start": 342.66,
+     "end": 342.84,
+     "prob": 0.986
+    },
+    {
+     "word": "language",
+     "start": 342.84,
+     "end": 343.12,
+     "prob": 0.999
+    },
+    {
+     "word": "most",
+     "start": 343.12,
+     "end": 343.38,
+     "prob": 0.99
+    },
+    {
+     "word": "of",
+     "start": 343.38,
+     "end": 343.58,
+     "prob": 0.998
+    },
+    {
+     "word": "this",
+     "start": 343.58,
+     "end": 343.7,
+     "prob": 0.95
+    },
+    {
+     "word": "code",
+     "start": 343.7,
+     "end": 343.9,
+     "prob": 0.998
+    },
+    {
+     "word": "is",
+     "start": 343.9,
+     "end": 344.04,
+     "prob": 0.997
+    },
+    {
+     "word": "written",
+     "start": 344.04,
+     "end": 344.3,
+     "prob": 0.996
+    },
+    {
+     "word": "in,",
+     "start": 344.3,
+     "end": 344.62,
+     "prob": 0.985
+    },
+    {
+     "word": "which",
+     "start": 344.76,
+     "end": 344.92,
+     "prob": 0.998
+    },
+    {
+     "word": "is",
+     "start": 344.92,
+     "end": 345.06,
+     "prob": 0.998
+    },
+    {
+     "word": "slow.",
+     "start": 345.06,
+     "end": 345.5,
+     "prob": 0.97
+    },
+    {
+     "word": "In",
+     "start": 346.22,
+     "end": 346.4,
+     "prob": 0.993
+    },
+    {
+     "word": "the",
+     "start": 346.4,
+     "end": 346.52,
+     "prob": 0.995
+    },
+    {
+     "word": "time",
+     "start": 346.52,
+     "end": 346.78,
+     "prob": 0.997
+    },
+    {
+     "word": "Python",
+     "start": 346.78,
+     "end": 347.16,
+     "prob": 0.958
+    },
+    {
+     "word": "adds",
+     "start": 347.16,
+     "end": 347.48,
+     "prob": 0.994
+    },
+    {
+     "word": "two",
+     "start": 347.48,
+     "end": 347.74,
+     "prob": 0.961
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "start": 347.74,
+   "end": 354.26,
+   "text": "numbers, an A100 could do almost 10 million calculations. Big orders hide the delay,",
+   "words": [
+    {
+     "word": "numbers,",
+     "start": 347.74,
+     "end": 348.16,
+     "prob": 0.881
+    },
+    {
+     "word": "an",
+     "start": 348.66,
+     "end": 348.74,
+     "prob": 0.107
+    },
+    {
+     "word": "A100",
+     "start": 348.74,
+     "end": 349.34,
+     "prob": 0.862
+    },
+    {
+     "word": "could",
+     "start": 349.34,
+     "end": 349.6,
+     "prob": 0.98
+    },
+    {
+     "word": "do",
+     "start": 349.6,
+     "end": 349.8,
+     "prob": 0.991
+    },
+    {
+     "word": "almost",
+     "start": 349.8,
+     "end": 350.12,
+     "prob": 0.973
+    },
+    {
+     "word": "10",
+     "start": 350.12,
+     "end": 350.58,
+     "prob": 0.627
+    },
+    {
+     "word": "million",
+     "start": 350.58,
+     "end": 351.0,
+     "prob": 0.9
+    },
+    {
+     "word": "calculations.",
+     "start": 351.0,
+     "end": 351.94,
+     "prob": 0.953
+    },
+    {
+     "word": "Big",
+     "start": 352.9,
+     "end": 353.12,
+     "prob": 0.986
+    },
+    {
+     "word": "orders",
+     "start": 353.12,
+     "end": 353.44,
+     "prob": 0.997
+    },
+    {
+     "word": "hide",
+     "start": 353.44,
+     "end": 353.78,
+     "prob": 0.995
+    },
+    {
+     "word": "the",
+     "start": 353.78,
+     "end": 353.96,
+     "prob": 0.993
+    },
+    {
+     "word": "delay,",
+     "start": 353.96,
+     "end": 354.26,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "start": 354.54,
+   "end": 358.46,
+   "text": "because the cooks are still busy when the next one arrives. Tiny orders do not,",
+   "words": [
+    {
+     "word": "because",
+     "start": 354.54,
+     "end": 354.72,
+     "prob": 0.99
+    },
+    {
+     "word": "the",
+     "start": 354.72,
+     "end": 354.88,
+     "prob": 0.981
+    },
+    {
+     "word": "cooks",
+     "start": 354.88,
+     "end": 355.06,
+     "prob": 0.996
+    },
+    {
+     "word": "are",
+     "start": 355.06,
+     "end": 355.24,
+     "prob": 0.996
+    },
+    {
+     "word": "still",
+     "start": 355.24,
+     "end": 355.4,
+     "prob": 0.995
+    },
+    {
+     "word": "busy",
+     "start": 355.4,
+     "end": 355.7,
+     "prob": 0.998
+    },
+    {
+     "word": "when",
+     "start": 355.7,
+     "end": 355.92,
+     "prob": 0.971
+    },
+    {
+     "word": "the",
+     "start": 355.92,
+     "end": 356.02,
+     "prob": 0.995
+    },
+    {
+     "word": "next",
+     "start": 356.02,
+     "end": 356.2,
+     "prob": 0.998
+    },
+    {
+     "word": "one",
+     "start": 356.2,
+     "end": 356.32,
+     "prob": 0.969
+    },
+    {
+     "word": "arrives.",
+     "start": 356.32,
+     "end": 356.72,
+     "prob": 0.997
+    },
+    {
+     "word": "Tiny",
+     "start": 357.48,
+     "end": 357.68,
+     "prob": 0.981
+    },
+    {
+     "word": "orders",
+     "start": 357.68,
+     "end": 358.02,
+     "prob": 0.997
+    },
+    {
+     "word": "do",
+     "start": 358.02,
+     "end": 358.24,
+     "prob": 0.959
+    },
+    {
+     "word": "not,",
+     "start": 358.24,
+     "end": 358.46,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "start": 358.88,
+   "end": 364.52,
+   "text": "because the cooks finish and then wait for the next shout. Horace, he has an easy test for",
+   "words": [
+    {
+     "word": "because",
+     "start": 358.88,
+     "end": 359.14,
+     "prob": 0.991
+    },
+    {
+     "word": "the",
+     "start": 359.14,
+     "end": 359.26,
+     "prob": 0.993
+    },
+    {
+     "word": "cooks",
+     "start": 359.26,
+     "end": 359.46,
+     "prob": 0.996
+    },
+    {
+     "word": "finish",
+     "start": 359.46,
+     "end": 359.76,
+     "prob": 0.992
+    },
+    {
+     "word": "and",
+     "start": 359.76,
+     "end": 360.1,
+     "prob": 0.849
+    },
+    {
+     "word": "then",
+     "start": 360.1,
+     "end": 360.24,
+     "prob": 0.898
+    },
+    {
+     "word": "wait",
+     "start": 360.24,
+     "end": 360.48,
+     "prob": 0.998
+    },
+    {
+     "word": "for",
+     "start": 360.48,
+     "end": 360.7,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 360.7,
+     "end": 360.78,
+     "prob": 0.996
+    },
+    {
+     "word": "next",
+     "start": 360.78,
+     "end": 361.02,
+     "prob": 0.999
+    },
+    {
+     "word": "shout.",
+     "start": 361.02,
+     "end": 361.36,
+     "prob": 0.789
+    },
+    {
+     "word": "Horace,",
+     "start": 362.5,
+     "end": 362.88,
+     "prob": 0.876
+    },
+    {
+     "word": "he",
+     "start": 363.16,
+     "end": 363.36,
+     "prob": 0.99
+    },
+    {
+     "word": "has",
+     "start": 363.36,
+     "end": 363.48,
+     "prob": 0.994
+    },
+    {
+     "word": "an",
+     "start": 363.48,
+     "end": 363.62,
+     "prob": 0.996
+    },
+    {
+     "word": "easy",
+     "start": 363.62,
+     "end": 363.92,
+     "prob": 0.999
+    },
+    {
+     "word": "test",
+     "start": 363.92,
+     "end": 364.3,
+     "prob": 0.997
+    },
+    {
+     "word": "for",
+     "start": 364.3,
+     "end": 364.52,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "start": 364.52,
+   "end": 368.86,
+   "text": "whether this is happening, which is to double the batch size, meaning the number of examples",
+   "words": [
+    {
+     "word": "whether",
+     "start": 364.52,
+     "end": 364.7,
+     "prob": 0.997
+    },
+    {
+     "word": "this",
+     "start": 364.7,
+     "end": 364.9,
+     "prob": 0.994
+    },
+    {
+     "word": "is",
+     "start": 364.9,
+     "end": 365.04,
+     "prob": 0.994
+    },
+    {
+     "word": "happening,",
+     "start": 365.04,
+     "end": 365.38,
+     "prob": 0.999
+    },
+    {
+     "word": "which",
+     "start": 365.72,
+     "end": 365.88,
+     "prob": 0.994
+    },
+    {
+     "word": "is",
+     "start": 365.88,
+     "end": 366.0,
+     "prob": 0.999
+    },
+    {
+     "word": "to",
+     "start": 366.0,
+     "end": 366.16,
+     "prob": 0.996
+    },
+    {
+     "word": "double",
+     "start": 366.16,
+     "end": 366.42,
+     "prob": 0.991
+    },
+    {
+     "word": "the",
+     "start": 366.42,
+     "end": 366.6,
+     "prob": 0.996
+    },
+    {
+     "word": "batch",
+     "start": 366.6,
+     "end": 366.8,
+     "prob": 0.999
+    },
+    {
+     "word": "size,",
+     "start": 366.8,
+     "end": 367.24,
+     "prob": 0.994
+    },
+    {
+     "word": "meaning",
+     "start": 367.58,
+     "end": 367.84,
+     "prob": 0.985
+    },
+    {
+     "word": "the",
+     "start": 367.84,
+     "end": 368.06,
+     "prob": 0.988
+    },
+    {
+     "word": "number",
+     "start": 368.06,
+     "end": 368.2,
+     "prob": 0.996
+    },
+    {
+     "word": "of",
+     "start": 368.2,
+     "end": 368.38,
+     "prob": 0.999
+    },
+    {
+     "word": "examples",
+     "start": 368.38,
+     "end": 368.86,
+     "prob": 0.991
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "start": 368.86,
+   "end": 373.34,
+   "text": "the model handles at once, or, in kitchen terms, the number of onions in each order.",
+   "words": [
+    {
+     "word": "the",
+     "start": 368.86,
+     "end": 369.08,
+     "prob": 0.993
+    },
+    {
+     "word": "model",
+     "start": 369.08,
+     "end": 369.26,
+     "prob": 0.994
+    },
+    {
+     "word": "handles",
+     "start": 369.26,
+     "end": 369.6,
+     "prob": 0.997
+    },
+    {
+     "word": "at",
+     "start": 369.6,
+     "end": 369.78,
+     "prob": 0.993
+    },
+    {
+     "word": "once,",
+     "start": 369.78,
+     "end": 370.1,
+     "prob": 0.993
+    },
+    {
+     "word": "or,",
+     "start": 370.56,
+     "end": 370.82,
+     "prob": 0.99
+    },
+    {
+     "word": "in",
+     "start": 370.9,
+     "end": 371.0,
+     "prob": 0.999
+    },
+    {
+     "word": "kitchen",
+     "start": 371.0,
+     "end": 371.3,
+     "prob": 0.979
+    },
+    {
+     "word": "terms,",
+     "start": 371.3,
+     "end": 371.64,
+     "prob": 0.999
+    },
+    {
+     "word": "the",
+     "start": 371.88,
+     "end": 371.94,
+     "prob": 0.996
+    },
+    {
+     "word": "number",
+     "start": 371.94,
+     "end": 372.1,
+     "prob": 0.997
+    },
+    {
+     "word": "of",
+     "start": 372.1,
+     "end": 372.34,
+     "prob": 0.999
+    },
+    {
+     "word": "onions",
+     "start": 372.34,
+     "end": 372.6,
+     "prob": 0.971
+    },
+    {
+     "word": "in",
+     "start": 372.6,
+     "end": 372.88,
+     "prob": 0.981
+    },
+    {
+     "word": "each",
+     "start": 372.88,
+     "end": 373.06,
+     "prob": 0.996
+    },
+    {
+     "word": "order.",
+     "start": 373.06,
+     "end": 373.34,
+     "prob": 0.999
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "start": 373.9,
+   "end": 378.62,
+   "text": "If a step gets only 10% slower, we doubled the work and barely paid for it,",
+   "words": [
+    {
+     "word": "If",
+     "start": 373.9,
+     "end": 374.2,
+     "prob": 0.818
+    },
+    {
+     "word": "a",
+     "start": 374.2,
+     "end": 374.34,
+     "prob": 0.979
+    },
+    {
+     "word": "step",
+     "start": 374.34,
+     "end": 374.5,
+     "prob": 0.992
+    },
+    {
+     "word": "gets",
+     "start": 374.5,
+     "end": 374.7,
+     "prob": 0.968
+    },
+    {
+     "word": "only",
+     "start": 374.7,
+     "end": 374.98,
+     "prob": 0.912
+    },
+    {
+     "word": "10",
+     "start": 374.98,
+     "end": 375.2,
+     "prob": 0.85
+    },
+    {
+     "word": "%",
+     "start": 375.2,
+     "end": 375.42,
+     "prob": 0.915
+    },
+    {
+     "word": "slower,",
+     "start": 375.42,
+     "end": 375.86,
+     "prob": 0.998
+    },
+    {
+     "word": "we",
+     "start": 376.2,
+     "end": 376.42,
+     "prob": 0.993
+    },
+    {
+     "word": "doubled",
+     "start": 376.42,
+     "end": 376.7,
+     "prob": 0.939
+    },
+    {
+     "word": "the",
+     "start": 376.7,
+     "end": 376.92,
+     "prob": 0.992
+    },
+    {
+     "word": "work",
+     "start": 376.92,
+     "end": 377.2,
+     "prob": 0.994
+    },
+    {
+     "word": "and",
+     "start": 377.2,
+     "end": 377.6,
+     "prob": 0.959
+    },
+    {
+     "word": "barely",
+     "start": 377.6,
+     "end": 377.94,
+     "prob": 0.98
+    },
+    {
+     "word": "paid",
+     "start": 377.94,
+     "end": 378.2,
+     "prob": 0.997
+    },
+    {
+     "word": "for",
+     "start": 378.2,
+     "end": 378.44,
+     "prob": 0.99
+    },
+    {
+     "word": "it,",
+     "start": 378.44,
+     "end": 378.62,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "start": 378.88,
+   "end": 385.06,
+   "text": "which means the chef was the bottleneck. The remedy is a CUDA graph. CUDA is NVIDIA's toolkit",
+   "words": [
+    {
+     "word": "which",
+     "start": 378.88,
+     "end": 379.06,
+     "prob": 0.976
+    },
+    {
+     "word": "means",
+     "start": 379.06,
+     "end": 379.28,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 379.28,
+     "end": 379.46,
+     "prob": 0.981
+    },
+    {
+     "word": "chef",
+     "start": 379.46,
+     "end": 379.66,
+     "prob": 0.919
+    },
+    {
+     "word": "was",
+     "start": 379.66,
+     "end": 379.86,
+     "prob": 0.989
+    },
+    {
+     "word": "the",
+     "start": 379.86,
+     "end": 379.98,
+     "prob": 0.968
+    },
+    {
+     "word": "bottleneck.",
+     "start": 379.98,
+     "end": 380.3,
+     "prob": 0.977
+    },
+    {
+     "word": "The",
+     "start": 381.36,
+     "end": 381.56,
+     "prob": 0.984
+    },
+    {
+     "word": "remedy",
+     "start": 381.56,
+     "end": 381.78,
+     "prob": 0.98
+    },
+    {
+     "word": "is",
+     "start": 381.78,
+     "end": 382.1,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 382.1,
+     "end": 382.32,
+     "prob": 0.984
+    },
+    {
+     "word": "CUDA",
+     "start": 382.32,
+     "end": 382.56,
+     "prob": 0.747
+    },
+    {
+     "word": "graph.",
+     "start": 382.56,
+     "end": 382.88,
+     "prob": 0.726
+    },
+    {
+     "word": "CUDA",
+     "start": 383.72,
+     "end": 383.84,
+     "prob": 0.995
+    },
+    {
+     "word": "is",
+     "start": 383.84,
+     "end": 384.06,
+     "prob": 0.997
+    },
+    {
+     "word": "NVIDIA's",
+     "start": 384.06,
+     "end": 384.68,
+     "prob": 0.683
+    },
+    {
+     "word": "toolkit",
+     "start": 384.68,
+     "end": 385.06,
+     "prob": 0.984
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "start": 385.06,
+   "end": 390.42,
+   "text": "for giving orders to the GPU, and a graph is a routine written down once, so the kitchen",
+   "words": [
+    {
+     "word": "for",
+     "start": 385.06,
+     "end": 385.24,
+     "prob": 0.995
+    },
+    {
+     "word": "giving",
+     "start": 385.24,
+     "end": 385.42,
+     "prob": 0.996
+    },
+    {
+     "word": "orders",
+     "start": 385.42,
+     "end": 385.72,
+     "prob": 0.996
+    },
+    {
+     "word": "to",
+     "start": 385.72,
+     "end": 385.98,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 385.98,
+     "end": 386.08,
+     "prob": 0.994
+    },
+    {
+     "word": "GPU,",
+     "start": 386.08,
+     "end": 386.38,
+     "prob": 0.996
+    },
+    {
+     "word": "and",
+     "start": 386.94,
+     "end": 387.16,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 387.16,
+     "end": 387.3,
+     "prob": 0.977
+    },
+    {
+     "word": "graph",
+     "start": 387.3,
+     "end": 387.52,
+     "prob": 0.936
+    },
+    {
+     "word": "is",
+     "start": 387.52,
+     "end": 387.8,
+     "prob": 0.995
+    },
+    {
+     "word": "a",
+     "start": 387.8,
+     "end": 387.94,
+     "prob": 0.996
+    },
+    {
+     "word": "routine",
+     "start": 387.94,
+     "end": 388.34,
+     "prob": 0.97
+    },
+    {
+     "word": "written",
+     "start": 388.34,
+     "end": 388.76,
+     "prob": 0.961
+    },
+    {
+     "word": "down",
+     "start": 388.76,
+     "end": 389.12,
+     "prob": 0.992
+    },
+    {
+     "word": "once,",
+     "start": 389.12,
+     "end": 389.54,
+     "prob": 0.989
+    },
+    {
+     "word": "so",
+     "start": 389.86,
+     "end": 390.06,
+     "prob": 0.997
+    },
+    {
+     "word": "the",
+     "start": 390.06,
+     "end": 390.2,
+     "prob": 0.99
+    },
+    {
+     "word": "kitchen",
+     "start": 390.2,
+     "end": 390.42,
+     "prob": 0.985
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "start": 390.42,
+   "end": 396.4,
+   "text": "can run its start to finish in a single launch. Torch.compile with the mode set to reduce overhead",
+   "words": [
+    {
+     "word": "can",
+     "start": 390.42,
+     "end": 390.66,
+     "prob": 0.998
+    },
+    {
+     "word": "run",
+     "start": 390.66,
+     "end": 390.8,
+     "prob": 0.998
+    },
+    {
+     "word": "its",
+     "start": 390.8,
+     "end": 390.98,
+     "prob": 0.916
+    },
+    {
+     "word": "start",
+     "start": 390.98,
+     "end": 391.22,
+     "prob": 0.988
+    },
+    {
+     "word": "to",
+     "start": 391.22,
+     "end": 391.38,
+     "prob": 0.796
+    },
+    {
+     "word": "finish",
+     "start": 391.38,
+     "end": 391.62,
+     "prob": 0.999
+    },
+    {
+     "word": "in",
+     "start": 391.62,
+     "end": 391.9,
+     "prob": 0.989
+    },
+    {
+     "word": "a",
+     "start": 391.9,
+     "end": 392.04,
+     "prob": 0.995
+    },
+    {
+     "word": "single",
+     "start": 392.04,
+     "end": 392.3,
+     "prob": 0.997
+    },
+    {
+     "word": "launch.",
+     "start": 392.3,
+     "end": 392.68,
+     "prob": 0.987
+    },
+    {
+     "word": "Torch",
+     "start": 393.6,
+     "end": 393.76,
+     "prob": 0.839
+    },
+    {
+     "word": ".compile",
+     "start": 393.76,
+     "end": 394.56,
+     "prob": 0.833
+    },
+    {
+     "word": "with",
+     "start": 394.56,
+     "end": 394.78,
+     "prob": 0.825
+    },
+    {
+     "word": "the",
+     "start": 394.78,
+     "end": 394.88,
+     "prob": 0.978
+    },
+    {
+     "word": "mode",
+     "start": 394.88,
+     "end": 395.06,
+     "prob": 0.988
+    },
+    {
+     "word": "set",
+     "start": 395.06,
+     "end": 395.3,
+     "prob": 0.995
+    },
+    {
+     "word": "to",
+     "start": 395.3,
+     "end": 395.5,
+     "prob": 0.995
+    },
+    {
+     "word": "reduce",
+     "start": 395.5,
+     "end": 395.84,
+     "prob": 0.431
+    },
+    {
+     "word": "overhead",
+     "start": 395.84,
+     "end": 396.4,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "start": 396.4,
+   "end": 401.5,
+   "text": "sets one up for us. When training feels slow, the first thing most of us do is run",
+   "words": [
+    {
+     "word": "sets",
+     "start": 396.4,
+     "end": 396.9,
+     "prob": 0.973
+    },
+    {
+     "word": "one",
+     "start": 396.9,
+     "end": 397.1,
+     "prob": 0.992
+    },
+    {
+     "word": "up",
+     "start": 397.1,
+     "end": 397.26,
+     "prob": 0.986
+    },
+    {
+     "word": "for",
+     "start": 397.26,
+     "end": 397.46,
+     "prob": 0.979
+    },
+    {
+     "word": "us.",
+     "start": 397.46,
+     "end": 397.7,
+     "prob": 0.998
+    },
+    {
+     "word": "When",
+     "start": 398.44,
+     "end": 398.64,
+     "prob": 0.991
+    },
+    {
+     "word": "training",
+     "start": 398.64,
+     "end": 398.92,
+     "prob": 0.989
+    },
+    {
+     "word": "feels",
+     "start": 398.92,
+     "end": 399.24,
+     "prob": 0.997
+    },
+    {
+     "word": "slow,",
+     "start": 399.24,
+     "end": 399.66,
+     "prob": 0.999
+    },
+    {
+     "word": "the",
+     "start": 399.86,
+     "end": 400.0,
+     "prob": 0.997
+    },
+    {
+     "word": "first",
+     "start": 400.0,
+     "end": 400.18,
+     "prob": 0.997
+    },
+    {
+     "word": "thing",
+     "start": 400.18,
+     "end": 400.36,
+     "prob": 0.997
+    },
+    {
+     "word": "most",
+     "start": 400.36,
+     "end": 400.58,
+     "prob": 0.992
+    },
+    {
+     "word": "of",
+     "start": 400.58,
+     "end": 400.76,
+     "prob": 0.994
+    },
+    {
+     "word": "us",
+     "start": 400.76,
+     "end": 400.86,
+     "prob": 0.998
+    },
+    {
+     "word": "do",
+     "start": 400.86,
+     "end": 401.1,
+     "prob": 0.994
+    },
+    {
+     "word": "is",
+     "start": 401.1,
+     "end": 401.28,
+     "prob": 0.992
+    },
+    {
+     "word": "run",
+     "start": 401.28,
+     "end": 401.5,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "start": 401.5,
+   "end": 407.34,
+   "text": "NVIDIA SMI. It prints a status panel for the GPU, showing memory in use, temperature,",
+   "words": [
+    {
+     "word": "NVIDIA",
+     "start": 401.5,
+     "end": 402.0,
+     "prob": 0.228
+    },
+    {
+     "word": "SMI.",
+     "start": 402.0,
+     "end": 402.74,
+     "prob": 0.822
+    },
+    {
+     "word": "It",
+     "start": 403.32,
+     "end": 403.52,
+     "prob": 0.979
+    },
+    {
+     "word": "prints",
+     "start": 403.52,
+     "end": 403.7,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 403.7,
+     "end": 403.9,
+     "prob": 0.997
+    },
+    {
+     "word": "status",
+     "start": 403.9,
+     "end": 404.12,
+     "prob": 0.982
+    },
+    {
+     "word": "panel",
+     "start": 404.12,
+     "end": 404.46,
+     "prob": 0.989
+    },
+    {
+     "word": "for",
+     "start": 404.46,
+     "end": 404.66,
+     "prob": 0.987
+    },
+    {
+     "word": "the",
+     "start": 404.66,
+     "end": 404.78,
+     "prob": 0.993
+    },
+    {
+     "word": "GPU,",
+     "start": 404.78,
+     "end": 405.22,
+     "prob": 0.995
+    },
+    {
+     "word": "showing",
+     "start": 405.52,
+     "end": 405.76,
+     "prob": 0.998
+    },
+    {
+     "word": "memory",
+     "start": 405.76,
+     "end": 406.0,
+     "prob": 0.968
+    },
+    {
+     "word": "in",
+     "start": 406.0,
+     "end": 406.3,
+     "prob": 0.668
+    },
+    {
+     "word": "use,",
+     "start": 406.3,
+     "end": 406.56,
+     "prob": 0.993
+    },
+    {
+     "word": "temperature,",
+     "start": 406.96,
+     "end": 407.34,
+     "prob": 0.993
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "start": 407.64,
+   "end": 412.64,
+   "text": "power draw and a number called utilisation, which is meant to say how busy the GPU is.",
+   "words": [
+    {
+     "word": "power",
+     "start": 407.64,
+     "end": 407.94,
+     "prob": 0.993
+    },
+    {
+     "word": "draw",
+     "start": 407.94,
+     "end": 408.24,
+     "prob": 0.933
+    },
+    {
+     "word": "and",
+     "start": 408.24,
+     "end": 408.74,
+     "prob": 0.427
+    },
+    {
+     "word": "a",
+     "start": 408.74,
+     "end": 408.84,
+     "prob": 0.978
+    },
+    {
+     "word": "number",
+     "start": 408.84,
+     "end": 408.94,
+     "prob": 0.997
+    },
+    {
+     "word": "called",
+     "start": 408.94,
+     "end": 409.26,
+     "prob": 0.994
+    },
+    {
+     "word": "utilisation,",
+     "start": 409.26,
+     "end": 410.18,
+     "prob": 0.633
+    },
+    {
+     "word": "which",
+     "start": 410.52,
+     "end": 410.66,
+     "prob": 0.98
+    },
+    {
+     "word": "is",
+     "start": 410.66,
+     "end": 410.82,
+     "prob": 0.994
+    },
+    {
+     "word": "meant",
+     "start": 410.82,
+     "end": 410.92,
+     "prob": 0.989
+    },
+    {
+     "word": "to",
+     "start": 410.92,
+     "end": 411.08,
+     "prob": 0.999
+    },
+    {
+     "word": "say",
+     "start": 411.08,
+     "end": 411.24,
+     "prob": 0.991
+    },
+    {
+     "word": "how",
+     "start": 411.24,
+     "end": 411.46,
+     "prob": 0.935
+    },
+    {
+     "word": "busy",
+     "start": 411.46,
+     "end": 411.72,
+     "prob": 0.967
+    },
+    {
+     "word": "the",
+     "start": 411.72,
+     "end": 411.96,
+     "prob": 0.978
+    },
+    {
+     "word": "GPU",
+     "start": 411.96,
+     "end": 412.34,
+     "prob": 0.998
+    },
+    {
+     "word": "is.",
+     "start": 412.34,
+     "end": 412.64,
+     "prob": 0.987
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "start": 413.36,
+   "end": 419.44,
+   "text": "That utilisation number is the one that fools us. We have all seen it say 100% while training",
+   "words": [
+    {
+     "word": "That",
+     "start": 413.36,
+     "end": 413.66,
+     "prob": 0.956
+    },
+    {
+     "word": "utilisation",
+     "start": 413.66,
+     "end": 414.48,
+     "prob": 0.928
+    },
+    {
+     "word": "number",
+     "start": 414.48,
+     "end": 414.8,
+     "prob": 0.97
+    },
+    {
+     "word": "is",
+     "start": 414.8,
+     "end": 415.08,
+     "prob": 0.995
+    },
+    {
+     "word": "the",
+     "start": 415.08,
+     "end": 415.2,
+     "prob": 0.994
+    },
+    {
+     "word": "one",
+     "start": 415.2,
+     "end": 415.34,
+     "prob": 0.996
+    },
+    {
+     "word": "that",
+     "start": 415.34,
+     "end": 415.5,
+     "prob": 0.994
+    },
+    {
+     "word": "fools",
+     "start": 415.5,
+     "end": 415.82,
+     "prob": 0.992
+    },
+    {
+     "word": "us.",
+     "start": 415.82,
+     "end": 416.18,
+     "prob": 0.997
+    },
+    {
+     "word": "We",
+     "start": 416.72,
+     "end": 416.84,
+     "prob": 0.991
+    },
+    {
+     "word": "have",
+     "start": 416.84,
+     "end": 416.92,
+     "prob": 0.96
+    },
+    {
+     "word": "all",
+     "start": 416.92,
+     "end": 417.08,
+     "prob": 0.979
+    },
+    {
+     "word": "seen",
+     "start": 417.08,
+     "end": 417.24,
+     "prob": 0.992
+    },
+    {
+     "word": "it",
+     "start": 417.24,
+     "end": 417.36,
+     "prob": 0.993
+    },
+    {
+     "word": "say",
+     "start": 417.36,
+     "end": 417.54,
+     "prob": 0.892
+    },
+    {
+     "word": "100",
+     "start": 417.54,
+     "end": 418.34,
+     "prob": 0.567
+    },
+    {
+     "word": "%",
+     "start": 418.34,
+     "end": 418.74,
+     "prob": 0.871
+    },
+    {
+     "word": "while",
+     "start": 418.74,
+     "end": 419.06,
+     "prob": 0.984
+    },
+    {
+     "word": "training",
+     "start": 419.06,
+     "end": 419.44,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "start": 419.44,
+   "end": 425.28,
+   "text": "crawls. It only means a kernel was running at that moment, and one kernel, using a handful",
+   "words": [
+    {
+     "word": "crawls.",
+     "start": 419.44,
+     "end": 419.98,
+     "prob": 0.945
+    },
+    {
+     "word": "It",
+     "start": 420.58,
+     "end": 420.8,
+     "prob": 0.991
+    },
+    {
+     "word": "only",
+     "start": 420.8,
+     "end": 420.98,
+     "prob": 0.991
+    },
+    {
+     "word": "means",
+     "start": 420.98,
+     "end": 421.24,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 421.24,
+     "end": 421.56,
+     "prob": 0.992
+    },
+    {
+     "word": "kernel",
+     "start": 421.56,
+     "end": 421.8,
+     "prob": 0.958
+    },
+    {
+     "word": "was",
+     "start": 421.8,
+     "end": 422.08,
+     "prob": 0.994
+    },
+    {
+     "word": "running",
+     "start": 422.08,
+     "end": 422.4,
+     "prob": 0.999
+    },
+    {
+     "word": "at",
+     "start": 422.4,
+     "end": 422.7,
+     "prob": 0.992
+    },
+    {
+     "word": "that",
+     "start": 422.7,
+     "end": 422.9,
+     "prob": 0.954
+    },
+    {
+     "word": "moment,",
+     "start": 422.9,
+     "end": 423.28,
+     "prob": 0.994
+    },
+    {
+     "word": "and",
+     "start": 423.64,
+     "end": 423.8,
+     "prob": 0.996
+    },
+    {
+     "word": "one",
+     "start": 423.8,
+     "end": 424.04,
+     "prob": 0.994
+    },
+    {
+     "word": "kernel,",
+     "start": 424.04,
+     "end": 424.42,
+     "prob": 0.997
+    },
+    {
+     "word": "using",
+     "start": 424.58,
+     "end": 424.8,
+     "prob": 0.996
+    },
+    {
+     "word": "a",
+     "start": 424.8,
+     "end": 425.0,
+     "prob": 0.996
+    },
+    {
+     "word": "handful",
+     "start": 425.0,
+     "end": 425.28,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "start": 425.28,
+   "end": 431.44,
+   "text": "of cooks running non-stop, reads 100% while the kitchen is nearly empty. It works like the",
+   "words": [
+    {
+     "word": "of",
+     "start": 425.28,
+     "end": 425.48,
+     "prob": 0.998
+    },
+    {
+     "word": "cooks",
+     "start": 425.48,
+     "end": 425.76,
+     "prob": 0.961
+    },
+    {
+     "word": "running",
+     "start": 425.76,
+     "end": 426.12,
+     "prob": 0.792
+    },
+    {
+     "word": "non",
+     "start": 426.12,
+     "end": 426.34,
+     "prob": 0.994
+    },
+    {
+     "word": "-stop,",
+     "start": 426.34,
+     "end": 426.72,
+     "prob": 0.94
+    },
+    {
+     "word": "reads",
+     "start": 426.98,
+     "end": 427.24,
+     "prob": 0.995
+    },
+    {
+     "word": "100",
+     "start": 427.24,
+     "end": 427.86,
+     "prob": 0.991
+    },
+    {
+     "word": "%",
+     "start": 427.86,
+     "end": 428.28,
+     "prob": 0.976
+    },
+    {
+     "word": "while",
+     "start": 428.28,
+     "end": 428.58,
+     "prob": 0.993
+    },
+    {
+     "word": "the",
+     "start": 428.58,
+     "end": 428.74,
+     "prob": 0.998
+    },
+    {
+     "word": "kitchen",
+     "start": 428.74,
+     "end": 429.0,
+     "prob": 0.997
+    },
+    {
+     "word": "is",
+     "start": 429.0,
+     "end": 429.24,
+     "prob": 0.996
+    },
+    {
+     "word": "nearly",
+     "start": 429.24,
+     "end": 429.48,
+     "prob": 0.997
+    },
+    {
+     "word": "empty.",
+     "start": 429.48,
+     "end": 429.92,
+     "prob": 0.999
+    },
+    {
+     "word": "It",
+     "start": 430.54,
+     "end": 430.84,
+     "prob": 0.965
+    },
+    {
+     "word": "works",
+     "start": 430.84,
+     "end": 431.04,
+     "prob": 0.996
+    },
+    {
+     "word": "like",
+     "start": 431.04,
+     "end": 431.28,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 431.28,
+     "end": 431.44,
+     "prob": 0.988
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "start": 431.44,
+   "end": 435.46,
+   "text": "open light on a kitchen door, which says nothing about how many cooks are working.",
+   "words": [
+    {
+     "word": "open",
+     "start": 431.44,
+     "end": 431.82,
+     "prob": 0.361
+    },
+    {
+     "word": "light",
+     "start": 431.82,
+     "end": 432.12,
+     "prob": 0.938
+    },
+    {
+     "word": "on",
+     "start": 432.12,
+     "end": 432.28,
+     "prob": 0.978
+    },
+    {
+     "word": "a",
+     "start": 432.28,
+     "end": 432.4,
+     "prob": 0.973
+    },
+    {
+     "word": "kitchen",
+     "start": 432.4,
+     "end": 432.62,
+     "prob": 0.994
+    },
+    {
+     "word": "door,",
+     "start": 432.62,
+     "end": 432.98,
+     "prob": 0.995
+    },
+    {
+     "word": "which",
+     "start": 433.34,
+     "end": 433.46,
+     "prob": 0.99
+    },
+    {
+     "word": "says",
+     "start": 433.46,
+     "end": 433.62,
+     "prob": 0.976
+    },
+    {
+     "word": "nothing",
+     "start": 433.62,
+     "end": 433.88,
+     "prob": 0.995
+    },
+    {
+     "word": "about",
+     "start": 433.88,
+     "end": 434.18,
+     "prob": 0.996
+    },
+    {
+     "word": "how",
+     "start": 434.18,
+     "end": 434.44,
+     "prob": 0.996
+    },
+    {
+     "word": "many",
+     "start": 434.44,
+     "end": 434.64,
+     "prob": 0.996
+    },
+    {
+     "word": "cooks",
+     "start": 434.64,
+     "end": 434.88,
+     "prob": 0.998
+    },
+    {
+     "word": "are",
+     "start": 434.88,
+     "end": 435.08,
+     "prob": 0.989
+    },
+    {
+     "word": "working.",
+     "start": 435.08,
+     "end": 435.46,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "start": 436.2,
+   "end": 441.28,
+   "text": "To see what is really happening, we record a trace with the PyTorch profiler. A trace works",
+   "words": [
+    {
+     "word": "To",
+     "start": 436.2,
+     "end": 436.36,
+     "prob": 0.98
+    },
+    {
+     "word": "see",
+     "start": 436.36,
+     "end": 436.5,
+     "prob": 0.997
+    },
+    {
+     "word": "what",
+     "start": 436.5,
+     "end": 436.62,
+     "prob": 0.995
+    },
+    {
+     "word": "is",
+     "start": 436.62,
+     "end": 436.8,
+     "prob": 0.951
+    },
+    {
+     "word": "really",
+     "start": 436.8,
+     "end": 437.06,
+     "prob": 0.961
+    },
+    {
+     "word": "happening,",
+     "start": 437.06,
+     "end": 437.5,
+     "prob": 0.996
+    },
+    {
+     "word": "we",
+     "start": 437.78,
+     "end": 437.92,
+     "prob": 0.994
+    },
+    {
+     "word": "record",
+     "start": 437.92,
+     "end": 438.16,
+     "prob": 0.984
+    },
+    {
+     "word": "a",
+     "start": 438.16,
+     "end": 438.5,
+     "prob": 0.996
+    },
+    {
+     "word": "trace",
+     "start": 438.5,
+     "end": 438.64,
+     "prob": 0.989
+    },
+    {
+     "word": "with",
+     "start": 438.64,
+     "end": 438.96,
+     "prob": 0.987
+    },
+    {
+     "word": "the",
+     "start": 438.96,
+     "end": 439.1,
+     "prob": 0.957
+    },
+    {
+     "word": "PyTorch",
+     "start": 439.1,
+     "end": 439.62,
+     "prob": 0.796
+    },
+    {
+     "word": "profiler.",
+     "start": 439.62,
+     "end": 440.18,
+     "prob": 0.728
+    },
+    {
+     "word": "A",
+     "start": 440.64,
+     "end": 440.82,
+     "prob": 0.959
+    },
+    {
+     "word": "trace",
+     "start": 440.82,
+     "end": 441.04,
+     "prob": 0.997
+    },
+    {
+     "word": "works",
+     "start": 441.04,
+     "end": 441.28,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "start": 441.28,
+   "end": 446.3,
+   "text": "like a security camera over the kitchen, showing each kernel with its duration plus the gaps where",
+   "words": [
+    {
+     "word": "like",
+     "start": 441.28,
+     "end": 441.5,
+     "prob": 0.995
+    },
+    {
+     "word": "a",
+     "start": 441.5,
+     "end": 441.62,
+     "prob": 0.995
+    },
+    {
+     "word": "security",
+     "start": 441.62,
+     "end": 442.02,
+     "prob": 0.993
+    },
+    {
+     "word": "camera",
+     "start": 442.02,
+     "end": 442.34,
+     "prob": 0.996
+    },
+    {
+     "word": "over",
+     "start": 442.34,
+     "end": 442.68,
+     "prob": 0.989
+    },
+    {
+     "word": "the",
+     "start": 442.68,
+     "end": 442.8,
+     "prob": 0.993
+    },
+    {
+     "word": "kitchen,",
+     "start": 442.8,
+     "end": 443.08,
+     "prob": 0.998
+    },
+    {
+     "word": "showing",
+     "start": 443.44,
+     "end": 443.62,
+     "prob": 0.997
+    },
+    {
+     "word": "each",
+     "start": 443.62,
+     "end": 443.98,
+     "prob": 0.997
+    },
+    {
+     "word": "kernel",
+     "start": 443.98,
+     "end": 444.34,
+     "prob": 0.986
+    },
+    {
+     "word": "with",
+     "start": 444.34,
+     "end": 444.56,
+     "prob": 0.972
+    },
+    {
+     "word": "its",
+     "start": 444.56,
+     "end": 444.72,
+     "prob": 0.98
+    },
+    {
+     "word": "duration",
+     "start": 444.72,
+     "end": 445.2,
+     "prob": 0.996
+    },
+    {
+     "word": "plus",
+     "start": 445.2,
+     "end": 445.58,
+     "prob": 0.628
+    },
+    {
+     "word": "the",
+     "start": 445.58,
+     "end": 445.8,
+     "prob": 0.975
+    },
+    {
+     "word": "gaps",
+     "start": 445.8,
+     "end": 446.04,
+     "prob": 0.996
+    },
+    {
+     "word": "where",
+     "start": 446.04,
+     "end": 446.3,
+     "prob": 0.973
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "start": 446.3,
+   "end": 451.32,
+   "text": "nothing ran at all. Writing our own kernels is probably not worth it, though some teams",
+   "words": [
+    {
+     "word": "nothing",
+     "start": 446.3,
+     "end": 446.6,
+     "prob": 0.995
+    },
+    {
+     "word": "ran",
+     "start": 446.6,
+     "end": 446.8,
+     "prob": 0.989
+    },
+    {
+     "word": "at",
+     "start": 446.8,
+     "end": 446.94,
+     "prob": 0.972
+    },
+    {
+     "word": "all.",
+     "start": 446.94,
+     "end": 447.18,
+     "prob": 0.999
+    },
+    {
+     "word": "Writing",
+     "start": 448.02,
+     "end": 448.24,
+     "prob": 0.984
+    },
+    {
+     "word": "our",
+     "start": 448.24,
+     "end": 448.48,
+     "prob": 0.995
+    },
+    {
+     "word": "own",
+     "start": 448.48,
+     "end": 448.72,
+     "prob": 0.998
+    },
+    {
+     "word": "kernels",
+     "start": 448.72,
+     "end": 449.08,
+     "prob": 0.989
+    },
+    {
+     "word": "is",
+     "start": 449.08,
+     "end": 449.3,
+     "prob": 0.994
+    },
+    {
+     "word": "probably",
+     "start": 449.3,
+     "end": 449.8,
+     "prob": 0.984
+    },
+    {
+     "word": "not",
+     "start": 449.8,
+     "end": 450.1,
+     "prob": 0.998
+    },
+    {
+     "word": "worth",
+     "start": 450.1,
+     "end": 450.34,
+     "prob": 0.998
+    },
+    {
+     "word": "it,",
+     "start": 450.34,
+     "end": 450.6,
+     "prob": 0.994
+    },
+    {
+     "word": "though",
+     "start": 450.82,
+     "end": 450.92,
+     "prob": 0.994
+    },
+    {
+     "word": "some",
+     "start": 450.92,
+     "end": 451.14,
+     "prob": 0.993
+    },
+    {
+     "word": "teams",
+     "start": 451.14,
+     "end": 451.32,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "start": 451.32,
+   "end": 456.82,
+   "text": "do it anyway. Unsloft, a tool for fine-tuning models, which means adjusting an existing model",
+   "words": [
+    {
+     "word": "do",
+     "start": 451.32,
+     "end": 451.52,
+     "prob": 0.994
+    },
+    {
+     "word": "it",
+     "start": 451.52,
+     "end": 451.62,
+     "prob": 0.981
+    },
+    {
+     "word": "anyway.",
+     "start": 451.62,
+     "end": 451.96,
+     "prob": 0.984
+    },
+    {
+     "word": "Unsloft,",
+     "start": 452.74,
+     "end": 453.22,
+     "prob": 0.65
+    },
+    {
+     "word": "a",
+     "start": 453.46,
+     "end": 453.62,
+     "prob": 0.986
+    },
+    {
+     "word": "tool",
+     "start": 453.62,
+     "end": 453.78,
+     "prob": 0.999
+    },
+    {
+     "word": "for",
+     "start": 453.78,
+     "end": 453.98,
+     "prob": 0.998
+    },
+    {
+     "word": "fine",
+     "start": 453.98,
+     "end": 454.22,
+     "prob": 0.986
+    },
+    {
+     "word": "-tuning",
+     "start": 454.22,
+     "end": 454.56,
+     "prob": 0.897
+    },
+    {
+     "word": "models,",
+     "start": 454.56,
+     "end": 454.84,
+     "prob": 0.99
+    },
+    {
+     "word": "which",
+     "start": 455.18,
+     "end": 455.26,
+     "prob": 0.979
+    },
+    {
+     "word": "means",
+     "start": 455.26,
+     "end": 455.46,
+     "prob": 0.994
+    },
+    {
+     "word": "adjusting",
+     "start": 455.46,
+     "end": 455.94,
+     "prob": 0.993
+    },
+    {
+     "word": "an",
+     "start": 455.94,
+     "end": 456.12,
+     "prob": 0.988
+    },
+    {
+     "word": "existing",
+     "start": 456.12,
+     "end": 456.52,
+     "prob": 0.999
+    },
+    {
+     "word": "model",
+     "start": 456.52,
+     "end": 456.82,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "start": 456.82,
+   "end": 461.9,
+   "text": "on new examples, wrote its own kernels and trained about twice as fast as the usual hugging-face",
+   "words": [
+    {
+     "word": "on",
+     "start": 456.82,
+     "end": 457.02,
+     "prob": 0.836
+    },
+    {
+     "word": "new",
+     "start": 457.02,
+     "end": 457.22,
+     "prob": 0.952
+    },
+    {
+     "word": "examples,",
+     "start": 457.22,
+     "end": 457.74,
+     "prob": 0.984
+    },
+    {
+     "word": "wrote",
+     "start": 458.02,
+     "end": 458.24,
+     "prob": 0.966
+    },
+    {
+     "word": "its",
+     "start": 458.24,
+     "end": 458.46,
+     "prob": 0.973
+    },
+    {
+     "word": "own",
+     "start": 458.46,
+     "end": 458.78,
+     "prob": 0.999
+    },
+    {
+     "word": "kernels",
+     "start": 458.78,
+     "end": 459.1,
+     "prob": 0.973
+    },
+    {
+     "word": "and",
+     "start": 459.1,
+     "end": 459.48,
+     "prob": 0.518
+    },
+    {
+     "word": "trained",
+     "start": 459.48,
+     "end": 459.64,
+     "prob": 0.758
+    },
+    {
+     "word": "about",
+     "start": 459.64,
+     "end": 459.86,
+     "prob": 0.968
+    },
+    {
+     "word": "twice",
+     "start": 459.86,
+     "end": 460.14,
+     "prob": 0.999
+    },
+    {
+     "word": "as",
+     "start": 460.14,
+     "end": 460.38,
+     "prob": 0.998
+    },
+    {
+     "word": "fast",
+     "start": 460.38,
+     "end": 460.66,
+     "prob": 0.997
+    },
+    {
+     "word": "as",
+     "start": 460.66,
+     "end": 460.88,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 460.88,
+     "end": 460.96,
+     "prob": 0.987
+    },
+    {
+     "word": "usual",
+     "start": 460.96,
+     "end": 461.28,
+     "prob": 0.999
+    },
+    {
+     "word": "hugging",
+     "start": 461.28,
+     "end": 461.56,
+     "prob": 0.938
+    },
+    {
+     "word": "-face",
+     "start": 461.56,
+     "end": 461.9,
+     "prob": 0.643
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "start": 461.9,
+   "end": 468.46,
+   "text": "setup. Marlin is a kernel for models whose numbers are squeezed down to 4 bits to save memory,",
+   "words": [
+    {
+     "word": "setup.",
+     "start": 461.9,
+     "end": 462.22,
+     "prob": 0.756
+    },
+    {
+     "word": "Marlin",
+     "start": 463.02,
+     "end": 463.28,
+     "prob": 0.946
+    },
+    {
+     "word": "is",
+     "start": 463.28,
+     "end": 463.6,
+     "prob": 0.982
+    },
+    {
+     "word": "a",
+     "start": 463.6,
+     "end": 463.84,
+     "prob": 0.996
+    },
+    {
+     "word": "kernel",
+     "start": 463.84,
+     "end": 464.1,
+     "prob": 0.981
+    },
+    {
+     "word": "for",
+     "start": 464.1,
+     "end": 464.42,
+     "prob": 0.989
+    },
+    {
+     "word": "models",
+     "start": 464.42,
+     "end": 464.8,
+     "prob": 0.991
+    },
+    {
+     "word": "whose",
+     "start": 464.8,
+     "end": 465.08,
+     "prob": 0.979
+    },
+    {
+     "word": "numbers",
+     "start": 465.08,
+     "end": 465.42,
+     "prob": 0.998
+    },
+    {
+     "word": "are",
+     "start": 465.42,
+     "end": 465.62,
+     "prob": 0.997
+    },
+    {
+     "word": "squeezed",
+     "start": 465.62,
+     "end": 466.14,
+     "prob": 0.988
+    },
+    {
+     "word": "down",
+     "start": 466.14,
+     "end": 466.58,
+     "prob": 0.989
+    },
+    {
+     "word": "to",
+     "start": 466.58,
+     "end": 466.8,
+     "prob": 0.993
+    },
+    {
+     "word": "4",
+     "start": 466.8,
+     "end": 467.16,
+     "prob": 0.53
+    },
+    {
+     "word": "bits",
+     "start": 467.16,
+     "end": 467.44,
+     "prob": 0.881
+    },
+    {
+     "word": "to",
+     "start": 467.44,
+     "end": 467.74,
+     "prob": 0.964
+    },
+    {
+     "word": "save",
+     "start": 467.74,
+     "end": 468.02,
+     "prob": 0.999
+    },
+    {
+     "word": "memory,",
+     "start": 468.02,
+     "end": 468.46,
+     "prob": 0.997
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "start": 468.76,
+   "end": 475.48,
+   "text": "and inside VLLM, a popular program for serving models, it ran about 10 times faster than a",
+   "words": [
+    {
+     "word": "and",
+     "start": 468.76,
+     "end": 469.02,
+     "prob": 0.997
+    },
+    {
+     "word": "inside",
+     "start": 469.02,
+     "end": 469.54,
+     "prob": 0.977
+    },
+    {
+     "word": "VLLM,",
+     "start": 469.54,
+     "end": 470.6,
+     "prob": 0.882
+    },
+    {
+     "word": "a",
+     "start": 470.7,
+     "end": 470.84,
+     "prob": 0.992
+    },
+    {
+     "word": "popular",
+     "start": 470.84,
+     "end": 471.16,
+     "prob": 0.986
+    },
+    {
+     "word": "program",
+     "start": 471.16,
+     "end": 471.64,
+     "prob": 0.58
+    },
+    {
+     "word": "for",
+     "start": 471.64,
+     "end": 471.94,
+     "prob": 0.996
+    },
+    {
+     "word": "serving",
+     "start": 471.94,
+     "end": 472.32,
+     "prob": 0.995
+    },
+    {
+     "word": "models,",
+     "start": 472.32,
+     "end": 472.7,
+     "prob": 0.987
+    },
+    {
+     "word": "it",
+     "start": 473.06,
+     "end": 473.22,
+     "prob": 0.884
+    },
+    {
+     "word": "ran",
+     "start": 473.22,
+     "end": 473.36,
+     "prob": 0.995
+    },
+    {
+     "word": "about",
+     "start": 473.36,
+     "end": 473.62,
+     "prob": 0.986
+    },
+    {
+     "word": "10",
+     "start": 473.62,
+     "end": 474.02,
+     "prob": 0.555
+    },
+    {
+     "word": "times",
+     "start": 474.02,
+     "end": 474.48,
+     "prob": 0.948
+    },
+    {
+     "word": "faster",
+     "start": 474.48,
+     "end": 474.88,
+     "prob": 0.996
+    },
+    {
+     "word": "than",
+     "start": 474.88,
+     "end": 475.32,
+     "prob": 0.997
+    },
+    {
+     "word": "a",
+     "start": 475.32,
+     "end": 475.48,
+     "prob": 0.993
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "start": 475.48,
+   "end": 481.48,
+   "text": "basic 4-bit kernel in one test. Those teams sell speed, so the effort pays for them.",
+   "words": [
+    {
+     "word": "basic",
+     "start": 475.48,
+     "end": 475.86,
+     "prob": 0.994
+    },
+    {
+     "word": "4",
+     "start": 475.86,
+     "end": 476.24,
+     "prob": 0.912
+    },
+    {
+     "word": "-bit",
+     "start": 476.24,
+     "end": 476.42,
+     "prob": 0.973
+    },
+    {
+     "word": "kernel",
+     "start": 476.42,
+     "end": 476.78,
+     "prob": 0.998
+    },
+    {
+     "word": "in",
+     "start": 476.78,
+     "end": 476.98,
+     "prob": 0.975
+    },
+    {
+     "word": "one",
+     "start": 476.98,
+     "end": 477.2,
+     "prob": 0.906
+    },
+    {
+     "word": "test.",
+     "start": 477.2,
+     "end": 477.54,
+     "prob": 0.996
+    },
+    {
+     "word": "Those",
+     "start": 478.22,
+     "end": 478.52,
+     "prob": 0.976
+    },
+    {
+     "word": "teams",
+     "start": 478.52,
+     "end": 478.76,
+     "prob": 0.998
+    },
+    {
+     "word": "sell",
+     "start": 478.76,
+     "end": 479.18,
+     "prob": 0.849
+    },
+    {
+     "word": "speed,",
+     "start": 479.18,
+     "end": 479.72,
+     "prob": 0.992
+    },
+    {
+     "word": "so",
+     "start": 479.94,
+     "end": 480.2,
+     "prob": 0.994
+    },
+    {
+     "word": "the",
+     "start": 480.2,
+     "end": 480.44,
+     "prob": 0.977
+    },
+    {
+     "word": "effort",
+     "start": 480.44,
+     "end": 480.68,
+     "prob": 1.0
+    },
+    {
+     "word": "pays",
+     "start": 480.68,
+     "end": 480.96,
+     "prob": 0.997
+    },
+    {
+     "word": "for",
+     "start": 480.96,
+     "end": 481.24,
+     "prob": 0.985
+    },
+    {
+     "word": "them.",
+     "start": 481.24,
+     "end": 481.48,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "start": 482.04,
+   "end": 487.78,
+   "text": "For the rest of us, the libraries already ship good kernels. The first step is to read a profile,",
+   "words": [
+    {
+     "word": "For",
+     "start": 482.04,
+     "end": 482.34,
+     "prob": 0.816
+    },
+    {
+     "word": "the",
+     "start": 482.34,
+     "end": 482.44,
+     "prob": 0.985
+    },
+    {
+     "word": "rest",
+     "start": 482.44,
+     "end": 482.58,
+     "prob": 0.996
+    },
+    {
+     "word": "of",
+     "start": 482.58,
+     "end": 482.74,
+     "prob": 0.996
+    },
+    {
+     "word": "us,",
+     "start": 482.74,
+     "end": 482.96,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 483.3,
+     "end": 483.38,
+     "prob": 0.991
+    },
+    {
+     "word": "libraries",
+     "start": 483.38,
+     "end": 483.72,
+     "prob": 0.839
+    },
+    {
+     "word": "already",
+     "start": 483.72,
+     "end": 484.26,
+     "prob": 0.965
+    },
+    {
+     "word": "ship",
+     "start": 484.26,
+     "end": 484.68,
+     "prob": 0.997
+    },
+    {
+     "word": "good",
+     "start": 484.68,
+     "end": 484.98,
+     "prob": 0.976
+    },
+    {
+     "word": "kernels.",
+     "start": 484.98,
+     "end": 485.36,
+     "prob": 0.983
+    },
+    {
+     "word": "The",
+     "start": 486.02,
+     "end": 486.16,
+     "prob": 0.987
+    },
+    {
+     "word": "first",
+     "start": 486.16,
+     "end": 486.36,
+     "prob": 0.998
+    },
+    {
+     "word": "step",
+     "start": 486.36,
+     "end": 486.7,
+     "prob": 0.997
+    },
+    {
+     "word": "is",
+     "start": 486.7,
+     "end": 486.86,
+     "prob": 0.996
+    },
+    {
+     "word": "to",
+     "start": 486.86,
+     "end": 487.02,
+     "prob": 0.996
+    },
+    {
+     "word": "read",
+     "start": 487.02,
+     "end": 487.16,
+     "prob": 0.997
+    },
+    {
+     "word": "a",
+     "start": 487.16,
+     "end": 487.36,
+     "prob": 0.995
+    },
+    {
+     "word": "profile,",
+     "start": 487.36,
+     "end": 487.78,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "start": 488.28,
+   "end": 492.6,
+   "text": "which tells us whether the problem is ragged sizes, pantry trips or a slow chef,",
+   "words": [
+    {
+     "word": "which",
+     "start": 488.28,
+     "end": 488.34,
+     "prob": 0.996
+    },
+    {
+     "word": "tells",
+     "start": 488.34,
+     "end": 488.58,
+     "prob": 0.997
+    },
+    {
+     "word": "us",
+     "start": 488.58,
+     "end": 488.86,
+     "prob": 0.991
+    },
+    {
+     "word": "whether",
+     "start": 488.86,
+     "end": 489.0,
+     "prob": 0.992
+    },
+    {
+     "word": "the",
+     "start": 489.0,
+     "end": 489.18,
+     "prob": 0.995
+    },
+    {
+     "word": "problem",
+     "start": 489.18,
+     "end": 489.42,
+     "prob": 0.998
+    },
+    {
+     "word": "is",
+     "start": 489.42,
+     "end": 489.6,
+     "prob": 0.998
+    },
+    {
+     "word": "ragged",
+     "start": 489.6,
+     "end": 489.98,
+     "prob": 0.931
+    },
+    {
+     "word": "sizes,",
+     "start": 489.98,
+     "end": 490.58,
+     "prob": 0.996
+    },
+    {
+     "word": "pantry",
+     "start": 490.9,
+     "end": 491.26,
+     "prob": 0.998
+    },
+    {
+     "word": "trips",
+     "start": 491.26,
+     "end": 491.52,
+     "prob": 0.97
+    },
+    {
+     "word": "or",
+     "start": 491.52,
+     "end": 491.82,
+     "prob": 0.69
+    },
+    {
+     "word": "a",
+     "start": 491.82,
+     "end": 492.0,
+     "prob": 0.991
+    },
+    {
+     "word": "slow",
+     "start": 492.0,
+     "end": 492.24,
+     "prob": 0.993
+    },
+    {
+     "word": "chef,",
+     "start": 492.24,
+     "end": 492.6,
+     "prob": 0.963
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "start": 493.08,
+   "end": 497.84,
+   "text": "and torch.compile comes after that. A compiler merges what we wrote",
+   "words": [
+    {
+     "word": "and",
+     "start": 493.08,
+     "end": 493.4,
+     "prob": 0.994
+    },
+    {
+     "word": "torch",
+     "start": 493.4,
+     "end": 493.72,
+     "prob": 0.326
+    },
+    {
+     "word": ".compile",
+     "start": 493.72,
+     "end": 494.5,
+     "prob": 0.832
+    },
+    {
+     "word": "comes",
+     "start": 494.5,
+     "end": 494.76,
+     "prob": 0.983
+    },
+    {
+     "word": "after",
+     "start": 494.76,
+     "end": 495.12,
+     "prob": 0.998
+    },
+    {
+     "word": "that.",
+     "start": 495.12,
+     "end": 495.46,
+     "prob": 0.994
+    },
+    {
+     "word": "A",
+     "start": 496.14,
+     "end": 496.26,
+     "prob": 0.986
+    },
+    {
+     "word": "compiler",
+     "start": 496.26,
+     "end": 496.62,
+     "prob": 0.897
+    },
+    {
+     "word": "merges",
+     "start": 496.62,
+     "end": 497.14,
+     "prob": 0.996
+    },
+    {
+     "word": "what",
+     "start": 497.14,
+     "end": 497.36,
+     "prob": 0.996
+    },
+    {
+     "word": "we",
+     "start": 497.36,
+     "end": 497.54,
+     "prob": 0.998
+    },
+    {
+     "word": "wrote",
+     "start": 497.54,
+     "end": 497.84,
+     "prob": 0.989
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "start": 497.84,
+   "end": 502.86,
+   "text": "and cannot invent a better way to do the math. Flash attention shows the difference.",
+   "words": [
+    {
+     "word": "and",
+     "start": 497.84,
+     "end": 498.3,
+     "prob": 0.823
+    },
+    {
+     "word": "cannot",
+     "start": 498.3,
+     "end": 498.62,
+     "prob": 0.988
+    },
+    {
+     "word": "invent",
+     "start": 498.62,
+     "end": 499.06,
+     "prob": 0.998
+    },
+    {
+     "word": "a",
+     "start": 499.06,
+     "end": 499.3,
+     "prob": 0.998
+    },
+    {
+     "word": "better",
+     "start": 499.3,
+     "end": 499.54,
+     "prob": 0.999
+    },
+    {
+     "word": "way",
+     "start": 499.54,
+     "end": 499.78,
+     "prob": 0.999
+    },
+    {
+     "word": "to",
+     "start": 499.78,
+     "end": 499.94,
+     "prob": 0.992
+    },
+    {
+     "word": "do",
+     "start": 499.94,
+     "end": 500.08,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 500.08,
+     "end": 500.24,
+     "prob": 0.996
+    },
+    {
+     "word": "math.",
+     "start": 500.24,
+     "end": 500.48,
+     "prob": 0.989
+    },
+    {
+     "word": "Flash",
+     "start": 501.54,
+     "end": 501.54,
+     "prob": 0.972
+    },
+    {
+     "word": "attention",
+     "start": 501.54,
+     "end": 501.88,
+     "prob": 0.891
+    },
+    {
+     "word": "shows",
+     "start": 501.88,
+     "end": 502.3,
+     "prob": 0.995
+    },
+    {
+     "word": "the",
+     "start": 502.3,
+     "end": 502.5,
+     "prob": 0.998
+    },
+    {
+     "word": "difference.",
+     "start": 502.5,
+     "end": 502.86,
+     "prob": 0.999
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "start": 503.74,
+   "end": 507.8,
+   "text": "Attention is the step where a model compares every word with every other word,",
+   "words": [
+    {
+     "word": "Attention",
+     "start": 503.74,
+     "end": 503.9,
+     "prob": 0.932
+    },
+    {
+     "word": "is",
+     "start": 503.9,
+     "end": 504.32,
+     "prob": 0.998
+    },
+    {
+     "word": "the",
+     "start": 504.32,
+     "end": 504.48,
+     "prob": 0.997
+    },
+    {
+     "word": "step",
+     "start": 504.48,
+     "end": 504.7,
+     "prob": 0.998
+    },
+    {
+     "word": "where",
+     "start": 504.7,
+     "end": 504.94,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 504.94,
+     "end": 505.1,
+     "prob": 0.996
+    },
+    {
+     "word": "model",
+     "start": 505.1,
+     "end": 505.28,
+     "prob": 0.998
+    },
+    {
+     "word": "compares",
+     "start": 505.28,
+     "end": 505.8,
+     "prob": 0.998
+    },
+    {
+     "word": "every",
+     "start": 505.8,
+     "end": 506.24,
+     "prob": 0.996
+    },
+    {
+     "word": "word",
+     "start": 506.24,
+     "end": 506.62,
+     "prob": 0.997
+    },
+    {
+     "word": "with",
+     "start": 506.62,
+     "end": 506.86,
+     "prob": 0.993
+    },
+    {
+     "word": "every",
+     "start": 506.86,
+     "end": 507.16,
+     "prob": 0.993
+    },
+    {
+     "word": "other",
+     "start": 507.16,
+     "end": 507.42,
+     "prob": 0.999
+    },
+    {
+     "word": "word,",
+     "start": 507.42,
+     "end": 507.8,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "start": 507.8,
+   "end": 513.2,
+   "text": "which produces a huge table of scores, and researchers rewrote it so the table is built",
+   "words": [
+    {
+     "word": "which",
+     "start": 507.8,
+     "end": 508.22,
+     "prob": 0.716
+    },
+    {
+     "word": "produces",
+     "start": 508.22,
+     "end": 508.66,
+     "prob": 0.989
+    },
+    {
+     "word": "a",
+     "start": 508.66,
+     "end": 508.88,
+     "prob": 0.997
+    },
+    {
+     "word": "huge",
+     "start": 508.88,
+     "end": 509.16,
+     "prob": 0.996
+    },
+    {
+     "word": "table",
+     "start": 509.16,
+     "end": 509.58,
+     "prob": 0.985
+    },
+    {
+     "word": "of",
+     "start": 509.58,
+     "end": 509.8,
+     "prob": 0.998
+    },
+    {
+     "word": "scores,",
+     "start": 509.8,
+     "end": 510.18,
+     "prob": 0.997
+    },
+    {
+     "word": "and",
+     "start": 510.76,
+     "end": 510.98,
+     "prob": 0.986
+    },
+    {
+     "word": "researchers",
+     "start": 510.98,
+     "end": 511.38,
+     "prob": 0.986
+    },
+    {
+     "word": "rewrote",
+     "start": 511.38,
+     "end": 512.0,
+     "prob": 0.954
+    },
+    {
+     "word": "it",
+     "start": 512.0,
+     "end": 512.28,
+     "prob": 0.994
+    },
+    {
+     "word": "so",
+     "start": 512.28,
+     "end": 512.48,
+     "prob": 0.948
+    },
+    {
+     "word": "the",
+     "start": 512.48,
+     "end": 512.62,
+     "prob": 0.975
+    },
+    {
+     "word": "table",
+     "start": 512.62,
+     "end": 512.84,
+     "prob": 0.998
+    },
+    {
+     "word": "is",
+     "start": 512.84,
+     "end": 513.02,
+     "prob": 0.997
+    },
+    {
+     "word": "built",
+     "start": 513.02,
+     "end": 513.2,
+     "prob": 0.989
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "start": 513.2,
+   "end": 518.86,
+   "text": "in small pieces on the counter and never makes the trip to the pantry. That took a human idea.",
+   "words": [
+    {
+     "word": "in",
+     "start": 513.2,
+     "end": 513.38,
+     "prob": 0.991
+    },
+    {
+     "word": "small",
+     "start": 513.38,
+     "end": 513.76,
+     "prob": 0.996
+    },
+    {
+     "word": "pieces",
+     "start": 513.76,
+     "end": 514.22,
+     "prob": 0.998
+    },
+    {
+     "word": "on",
+     "start": 514.22,
+     "end": 514.42,
+     "prob": 0.989
+    },
+    {
+     "word": "the",
+     "start": 514.42,
+     "end": 514.56,
+     "prob": 0.999
+    },
+    {
+     "word": "counter",
+     "start": 514.56,
+     "end": 514.9,
+     "prob": 0.997
+    },
+    {
+     "word": "and",
+     "start": 514.9,
+     "end": 515.44,
+     "prob": 0.826
+    },
+    {
+     "word": "never",
+     "start": 515.44,
+     "end": 515.68,
+     "prob": 0.999
+    },
+    {
+     "word": "makes",
+     "start": 515.68,
+     "end": 515.88,
+     "prob": 0.996
+    },
+    {
+     "word": "the",
+     "start": 515.88,
+     "end": 516.06,
+     "prob": 0.993
+    },
+    {
+     "word": "trip",
+     "start": 516.06,
+     "end": 516.22,
+     "prob": 0.999
+    },
+    {
+     "word": "to",
+     "start": 516.22,
+     "end": 516.36,
+     "prob": 0.998
+    },
+    {
+     "word": "the",
+     "start": 516.36,
+     "end": 516.46,
+     "prob": 0.991
+    },
+    {
+     "word": "pantry.",
+     "start": 516.46,
+     "end": 516.92,
+     "prob": 0.98
+    },
+    {
+     "word": "That",
+     "start": 517.4,
+     "end": 517.72,
+     "prob": 0.984
+    },
+    {
+     "word": "took",
+     "start": 517.72,
+     "end": 518.02,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 518.02,
+     "end": 518.18,
+     "prob": 0.997
+    },
+    {
+     "word": "human",
+     "start": 518.18,
+     "end": 518.4,
+     "prob": 0.999
+    },
+    {
+     "word": "idea.",
+     "start": 518.4,
+     "end": 518.86,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "start": 519.72,
+   "end": 527.1,
+   "text": "Kernels are also code, and code has bugs. In 2025, Anthropic found a compiler bug on TPUs,",
+   "words": [
+    {
+     "word": "Kernels",
+     "start": 519.72,
+     "end": 519.92,
+     "prob": 0.605
+    },
+    {
+     "word": "are",
+     "start": 519.92,
+     "end": 520.16,
+     "prob": 0.997
+    },
+    {
+     "word": "also",
+     "start": 520.16,
+     "end": 520.42,
+     "prob": 0.998
+    },
+    {
+     "word": "code,",
+     "start": 520.42,
+     "end": 520.9,
+     "prob": 0.923
+    },
+    {
+     "word": "and",
+     "start": 521.32,
+     "end": 521.48,
+     "prob": 0.996
+    },
+    {
+     "word": "code",
+     "start": 521.48,
+     "end": 521.7,
+     "prob": 0.993
+    },
+    {
+     "word": "has",
+     "start": 521.7,
+     "end": 521.94,
+     "prob": 0.996
+    },
+    {
+     "word": "bugs.",
+     "start": 521.94,
+     "end": 522.24,
+     "prob": 0.998
+    },
+    {
+     "word": "In",
+     "start": 523.0,
+     "end": 523.16,
+     "prob": 0.996
+    },
+    {
+     "word": "2025,",
+     "start": 523.16,
+     "end": 523.84,
+     "prob": 0.999
+    },
+    {
+     "word": "Anthropic",
+     "start": 524.34,
+     "end": 524.84,
+     "prob": 0.821
+    },
+    {
+     "word": "found",
+     "start": 524.84,
+     "end": 525.12,
+     "prob": 0.994
+    },
+    {
+     "word": "a",
+     "start": 525.12,
+     "end": 525.3,
+     "prob": 0.997
+    },
+    {
+     "word": "compiler",
+     "start": 525.3,
+     "end": 525.72,
+     "prob": 0.928
+    },
+    {
+     "word": "bug",
+     "start": 525.72,
+     "end": 526.0,
+     "prob": 0.996
+    },
+    {
+     "word": "on",
+     "start": 526.0,
+     "end": 526.22,
+     "prob": 0.995
+    },
+    {
+     "word": "TPUs,",
+     "start": 526.22,
+     "end": 527.1,
+     "prob": 0.973
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "start": 527.24,
+   "end": 531.7,
+   "text": "which are Google's own kind of AI chip, that made one kernel sometimes drop the",
+   "words": [
+    {
+     "word": "which",
+     "start": 527.24,
+     "end": 527.44,
+     "prob": 0.992
+    },
+    {
+     "word": "are",
+     "start": 527.44,
+     "end": 527.56,
+     "prob": 0.982
+    },
+    {
+     "word": "Google's",
+     "start": 527.56,
+     "end": 527.94,
+     "prob": 0.993
+    },
+    {
+     "word": "own",
+     "start": 527.94,
+     "end": 528.08,
+     "prob": 0.997
+    },
+    {
+     "word": "kind",
+     "start": 528.08,
+     "end": 528.34,
+     "prob": 0.995
+    },
+    {
+     "word": "of",
+     "start": 528.34,
+     "end": 528.5,
+     "prob": 0.997
+    },
+    {
+     "word": "AI",
+     "start": 528.5,
+     "end": 528.74,
+     "prob": 0.966
+    },
+    {
+     "word": "chip,",
+     "start": 528.74,
+     "end": 529.08,
+     "prob": 0.99
+    },
+    {
+     "word": "that",
+     "start": 529.18,
+     "end": 529.52,
+     "prob": 0.995
+    },
+    {
+     "word": "made",
+     "start": 529.52,
+     "end": 529.72,
+     "prob": 0.993
+    },
+    {
+     "word": "one",
+     "start": 529.72,
+     "end": 530.06,
+     "prob": 0.993
+    },
+    {
+     "word": "kernel",
+     "start": 530.06,
+     "end": 530.46,
+     "prob": 0.995
+    },
+    {
+     "word": "sometimes",
+     "start": 530.46,
+     "end": 531.0,
+     "prob": 0.966
+    },
+    {
+     "word": "drop",
+     "start": 531.0,
+     "end": 531.46,
+     "prob": 0.998
+    },
+    {
+     "word": "the",
+     "start": 531.46,
+     "end": 531.7,
+     "prob": 0.998
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "start": 531.7,
+   "end": 536.94,
+   "text": "most likely next word from the shortlist Claude picks from and answer quality suffered until it",
+   "words": [
+    {
+     "word": "most",
+     "start": 531.7,
+     "end": 531.84,
+     "prob": 0.994
+    },
+    {
+     "word": "likely",
+     "start": 531.84,
+     "end": 532.3,
+     "prob": 0.982
+    },
+    {
+     "word": "next",
+     "start": 532.3,
+     "end": 532.64,
+     "prob": 0.93
+    },
+    {
+     "word": "word",
+     "start": 532.64,
+     "end": 533.02,
+     "prob": 0.994
+    },
+    {
+     "word": "from",
+     "start": 533.02,
+     "end": 533.32,
+     "prob": 0.992
+    },
+    {
+     "word": "the",
+     "start": 533.32,
+     "end": 533.5,
+     "prob": 0.998
+    },
+    {
+     "word": "shortlist",
+     "start": 533.5,
+     "end": 534.04,
+     "prob": 0.832
+    },
+    {
+     "word": "Claude",
+     "start": 534.04,
+     "end": 534.28,
+     "prob": 0.97
+    },
+    {
+     "word": "picks",
+     "start": 534.28,
+     "end": 534.54,
+     "prob": 0.927
+    },
+    {
+     "word": "from",
+     "start": 534.54,
+     "end": 534.84,
+     "prob": 0.997
+    },
+    {
+     "word": "and",
+     "start": 534.84,
+     "end": 535.4,
+     "prob": 0.624
+    },
+    {
+     "word": "answer",
+     "start": 535.4,
+     "end": 535.8,
+     "prob": 0.947
+    },
+    {
+     "word": "quality",
+     "start": 535.8,
+     "end": 536.16,
+     "prob": 0.917
+    },
+    {
+     "word": "suffered",
+     "start": 536.16,
+     "end": 536.5,
+     "prob": 0.992
+    },
+    {
+     "word": "until",
+     "start": 536.5,
+     "end": 536.84,
+     "prob": 0.997
+    },
+    {
+     "word": "it",
+     "start": 536.84,
+     "end": 536.94,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "start": 536.94,
+   "end": 541.68,
+   "text": "was fixed. We are already choosing kernels every time we type a batch size,",
+   "words": [
+    {
+     "word": "was",
+     "start": 536.94,
+     "end": 537.06,
+     "prob": 0.723
+    },
+    {
+     "word": "fixed.",
+     "start": 537.06,
+     "end": 537.34,
+     "prob": 0.991
+    },
+    {
+     "word": "We",
+     "start": 538.1,
+     "end": 538.28,
+     "prob": 0.971
+    },
+    {
+     "word": "are",
+     "start": 538.28,
+     "end": 538.42,
+     "prob": 0.948
+    },
+    {
+     "word": "already",
+     "start": 538.42,
+     "end": 538.8,
+     "prob": 0.994
+    },
+    {
+     "word": "choosing",
+     "start": 538.8,
+     "end": 539.34,
+     "prob": 0.973
+    },
+    {
+     "word": "kernels",
+     "start": 539.34,
+     "end": 539.86,
+     "prob": 0.91
+    },
+    {
+     "word": "every",
+     "start": 539.86,
+     "end": 540.28,
+     "prob": 0.822
+    },
+    {
+     "word": "time",
+     "start": 540.28,
+     "end": 540.54,
+     "prob": 0.983
+    },
+    {
+     "word": "we",
+     "start": 540.54,
+     "end": 540.7,
+     "prob": 0.994
+    },
+    {
+     "word": "type",
+     "start": 540.7,
+     "end": 540.88,
+     "prob": 0.99
+    },
+    {
+     "word": "a",
+     "start": 540.88,
+     "end": 541.06,
+     "prob": 0.984
+    },
+    {
+     "word": "batch",
+     "start": 541.06,
+     "end": 541.32,
+     "prob": 0.989
+    },
+    {
+     "word": "size,",
+     "start": 541.32,
+     "end": 541.68,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "start": 541.96,
+   "end": 547.48,
+   "text": "a sequence length or a vocabulary size. That means how many examples we process at once,",
+   "words": [
+    {
+     "word": "a",
+     "start": 541.96,
+     "end": 542.02,
+     "prob": 0.873
+    },
+    {
+     "word": "sequence",
+     "start": 542.02,
+     "end": 542.42,
+     "prob": 0.999
+    },
+    {
+     "word": "length",
+     "start": 542.42,
+     "end": 542.76,
+     "prob": 0.996
+    },
+    {
+     "word": "or",
+     "start": 542.76,
+     "end": 543.26,
+     "prob": 0.65
+    },
+    {
+     "word": "a",
+     "start": 543.26,
+     "end": 543.38,
+     "prob": 0.97
+    },
+    {
+     "word": "vocabulary",
+     "start": 543.38,
+     "end": 543.84,
+     "prob": 0.995
+    },
+    {
+     "word": "size.",
+     "start": 543.84,
+     "end": 544.38,
+     "prob": 0.994
+    },
+    {
+     "word": "That",
+     "start": 544.96,
+     "end": 545.18,
+     "prob": 0.967
+    },
+    {
+     "word": "means",
+     "start": 545.18,
+     "end": 545.32,
+     "prob": 0.994
+    },
+    {
+     "word": "how",
+     "start": 545.32,
+     "end": 545.76,
+     "prob": 0.925
+    },
+    {
+     "word": "many",
+     "start": 545.76,
+     "end": 545.92,
+     "prob": 0.997
+    },
+    {
+     "word": "examples",
+     "start": 545.92,
+     "end": 546.34,
+     "prob": 0.995
+    },
+    {
+     "word": "we",
+     "start": 546.34,
+     "end": 546.62,
+     "prob": 0.994
+    },
+    {
+     "word": "process",
+     "start": 546.62,
+     "end": 546.94,
+     "prob": 0.992
+    },
+    {
+     "word": "at",
+     "start": 546.94,
+     "end": 547.14,
+     "prob": 0.994
+    },
+    {
+     "word": "once,",
+     "start": 547.14,
+     "end": 547.48,
+     "prob": 0.994
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "start": 547.86,
+   "end": 553.06,
+   "text": "how long each example is and how many words the model knows. And each number decides which",
+   "words": [
+    {
+     "word": "how",
+     "start": 547.86,
+     "end": 548.0,
+     "prob": 0.998
+    },
+    {
+     "word": "long",
+     "start": 548.0,
+     "end": 548.3,
+     "prob": 0.997
+    },
+    {
+     "word": "each",
+     "start": 548.3,
+     "end": 548.58,
+     "prob": 0.995
+    },
+    {
+     "word": "example",
+     "start": 548.58,
+     "end": 548.92,
+     "prob": 0.993
+    },
+    {
+     "word": "is",
+     "start": 548.92,
+     "end": 549.24,
+     "prob": 0.994
+    },
+    {
+     "word": "and",
+     "start": 549.24,
+     "end": 549.66,
+     "prob": 0.764
+    },
+    {
+     "word": "how",
+     "start": 549.66,
+     "end": 549.84,
+     "prob": 0.998
+    },
+    {
+     "word": "many",
+     "start": 549.84,
+     "end": 550.0,
+     "prob": 0.998
+    },
+    {
+     "word": "words",
+     "start": 550.0,
+     "end": 550.34,
+     "prob": 0.999
+    },
+    {
+     "word": "the",
+     "start": 550.34,
+     "end": 550.56,
+     "prob": 0.992
+    },
+    {
+     "word": "model",
+     "start": 550.56,
+     "end": 550.8,
+     "prob": 0.997
+    },
+    {
+     "word": "knows.",
+     "start": 550.8,
+     "end": 551.1,
+     "prob": 0.997
+    },
+    {
+     "word": "And",
+     "start": 551.72,
+     "end": 551.8,
+     "prob": 0.837
+    },
+    {
+     "word": "each",
+     "start": 551.8,
+     "end": 551.96,
+     "prob": 0.986
+    },
+    {
+     "word": "number",
+     "start": 551.96,
+     "end": 552.24,
+     "prob": 0.998
+    },
+    {
+     "word": "decides",
+     "start": 552.24,
+     "end": 552.72,
+     "prob": 0.995
+    },
+    {
+     "word": "which",
+     "start": 552.72,
+     "end": 553.06,
+     "prob": 0.995
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "start": 553.06,
+   "end": 560.6,
+   "text": "kernel runs and how many stations it fills. Carpathi got a 25% speed up from 47 words",
+   "words": [
+    {
+     "word": "kernel",
+     "start": 553.06,
+     "end": 553.52,
+     "prob": 0.974
+    },
+    {
+     "word": "runs",
+     "start": 553.52,
+     "end": 553.86,
+     "prob": 0.995
+    },
+    {
+     "word": "and",
+     "start": 553.86,
+     "end": 554.22,
+     "prob": 0.911
+    },
+    {
+     "word": "how",
+     "start": 554.22,
+     "end": 554.42,
+     "prob": 0.997
+    },
+    {
+     "word": "many",
+     "start": 554.42,
+     "end": 554.58,
+     "prob": 0.994
+    },
+    {
+     "word": "stations",
+     "start": 554.58,
+     "end": 555.04,
+     "prob": 0.995
+    },
+    {
+     "word": "it",
+     "start": 555.04,
+     "end": 555.36,
+     "prob": 0.992
+    },
+    {
+     "word": "fills.",
+     "start": 555.36,
+     "end": 555.68,
+     "prob": 0.997
+    },
+    {
+     "word": "Carpathi",
+     "start": 556.92,
+     "end": 557.36,
+     "prob": 0.705
+    },
+    {
+     "word": "got",
+     "start": 557.36,
+     "end": 557.52,
+     "prob": 0.986
+    },
+    {
+     "word": "a",
+     "start": 557.52,
+     "end": 557.7,
+     "prob": 0.935
+    },
+    {
+     "word": "25",
+     "start": 557.7,
+     "end": 558.28,
+     "prob": 0.974
+    },
+    {
+     "word": "%",
+     "start": 558.28,
+     "end": 558.6,
+     "prob": 0.911
+    },
+    {
+     "word": "speed",
+     "start": 558.6,
+     "end": 558.92,
+     "prob": 0.993
+    },
+    {
+     "word": "up",
+     "start": 558.92,
+     "end": 559.14,
+     "prob": 0.659
+    },
+    {
+     "word": "from",
+     "start": 559.14,
+     "end": 559.38,
+     "prob": 0.987
+    },
+    {
+     "word": "47",
+     "start": 559.38,
+     "end": 560.02,
+     "prob": 0.979
+    },
+    {
+     "word": "words",
+     "start": 560.02,
+     "end": 560.6,
+     "prob": 0.996
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "start": 560.6,
+   "end": 561.5,
+   "text": "nobody will read.",
+   "words": [
+    {
+     "word": "nobody",
+     "start": 560.6,
+     "end": 560.98,
+     "prob": 0.868
+    },
+    {
+     "word": "will",
+     "start": 560.98,
+     "end": 561.22,
+     "prob": 0.991
+    },
+    {
+     "word": "read.",
+     "start": 561.22,
+     "end": 561.5,
+     "prob": 0.998
+    }
+   ]
+  }
+ ]
+}

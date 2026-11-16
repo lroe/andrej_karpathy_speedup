@@ -1,0 +1,25 @@
+{
+  "name": "gpu-kitchen-explainer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio --port 3000",
+    "build": "remotion bundle",
+    "still": "remotion still",
+    "render:1080": "remotion render GpuKitchen out/andrej_karpathy_speedup_1080p.mp4",
+    "render:2k": "node scripts/render-2k.mjs out/andrej_karpathy_speedup_2k.mp4 GpuKitchen2K"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.409",
+    "@remotion/cli": "4.0.409",
+    "@remotion/renderer": "4.0.409",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.409"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.0",
+    "@types/react-dom": "19.1.0",
+    "typescript": "5.8.3"
+  }
+}
