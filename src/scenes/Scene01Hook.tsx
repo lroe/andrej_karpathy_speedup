@@ -65,7 +65,7 @@ export const Scene01Hook: React.FC = () => {
         )),
       )}
       <Label x={1000} y={330} size={36} color={C.dim} start={t(1.4)}>
-        Andre Karpathy
+        Andrej Karpathy
       </Label>
 
       {/* Speed badge */}

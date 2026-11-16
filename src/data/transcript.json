@@ -6,16 +6,16 @@
    "id": 1,
    "start": 0.0,
    "end": 7.06,
-   "text": "Andre Carpathi once made his model train 25% faster by adding 47 words to its vocabulary,",
+   "text": "Andrej Karpathy once made his model train 25% faster by adding 47 words to its vocabulary,",
    "words": [
     {
-     "word": "Andre",
+     "word": "Andrej",
      "start": 0.0,
      "end": 0.5,
      "prob": 0.454
     },
     {
-     "word": "Carpathi",
+     "word": "Karpathy",
      "start": 0.5,
      "end": 1.18,
      "prob": 0.758
@@ -3521,7 +3521,7 @@
      "prob": 0.997
     },
     {
-     "word": "Carpathi's",
+     "word": "Karpathy's",
      "start": 183.44,
      "end": 183.96,
      "prob": 0.751
@@ -10591,7 +10591,7 @@
      "prob": 0.997
     },
     {
-     "word": "Carpathi",
+     "word": "Karpathy",
      "start": 556.92,
      "end": 557.36,
      "prob": 0.705

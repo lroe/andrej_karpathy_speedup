@@ -1,4 +1,4 @@
-# Andre Karpathy GPU Speedup — animated explainer
+# Andrej Karpathy GPU Speedup — animated explainer
 
 A 9:25 hand-drawn Dracula-palette explainer about GPU training bottlenecks, kernels, tile quantization, pantry trips, and the 47-word vocabulary speedup.
 
