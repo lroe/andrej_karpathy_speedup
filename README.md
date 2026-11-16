@@ -30,6 +30,8 @@ The 2K renderer prints percent, rendered frames, elapsed time, and ETA as it wor
 
 ## Google Colab + Google Drive
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lroe/andrej_karpathy_speedup/blob/main/notebooks/render_2k_colab.ipynb)
+
 Use [`notebooks/render_2k_colab.ipynb`](notebooks/render_2k_colab.ipynb) in Colab.
 
 The first notebook cell **mounts Google Drive and asks for access**. It writes the finished MP4, render log, notebook copy, and a source archive under:
